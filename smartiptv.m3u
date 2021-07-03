@@ -12,3 +12,6 @@ http://103.141.66.36/bpk-tv/10026/default/10026-audio_48273_und=48000-video=3000
 #EXTINF:4, tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/820/350/png-clipart-bangladesh-independent-television-television-channel-independent-international-tv-independent-television-authority-television-text.png" tvg-name="INDEPENDENT TV"  group-title="",INDEPENDENT TV
 http://27.147.156.83/bpk-token/kimicsmi5iaaaaaaammsrsbaaaaaaaaaaaaitzeiqzqgdyag/0000014/10005-audio_48153_und=48000-video=1500000.m3u8
 
+#EXTINF:6, tvg-id="" tvg-logo="https://i1.wp.com/www.attenborough-cc.org/wp-content/uploads/2020/07/sky_sports_genre_logo_cricket.jpg" tvg-name="SKY SPORTS CRICKET"  group-title="",SKY SPORTS CRICKET
+https://list.iptvcat.com/my_list/s/f7a20a6ee77b4c2f501b42c05bbe2c76.m3u8
+
