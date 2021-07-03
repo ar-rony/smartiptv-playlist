@@ -1,0 +1,8 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="ATN BANGLA"  group-title="Bangla",ATN BANGLA
+http://27.147.156.83/bpk-token/kimicsmi5iaaaaaaammsrsbaaaaaaaaaaaagdbfgqrqmdd3g/0000002/10009-audio_48193_und=48000-video=1500000.m3u8
+
+#EXTINF:2, tvg-id="" tvg-logo="New Logo" tvg-name="JAMUNA TV"  group-title="Bangla",JAMUNA TV
+http://27.147.156.83/bpk-token/kimicsmi5iaaaaaaammsrsbaaaaaaaaaaaagdbrgqrqodcfi/0000001/10037-audio_48383_und=48000-video=1500000.m3u8
+
