@@ -28,7 +28,7 @@ http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
 
 #EXTINF:10, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Start Jalsha Movies"  group-title="New Group",Start Jalsha Movies
-http://123.456.789
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
 #EXTINF:11, tvg-id="New EPG" tvg-logo="" tvg-name="Star Movies"  group-title="New Group",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
