@@ -33,3 +33,6 @@ http://123.456.789
 #EXTINF:11, tvg-id="New EPG" tvg-logo="" tvg-name="Star Movies"  group-title="New Group",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 
+#EXTINF:-1, tvg-id="Sony PIX" tvg-logo="" tvg-name="Sony PIX"  group-title="Movies",Sony PIX
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+
