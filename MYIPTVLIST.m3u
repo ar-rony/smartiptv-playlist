@@ -1,0 +1,14 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="HBO Hits"  group-title="",HBO Hits
+http://tv.aliflailabd.com:8989/hbo/index.m3u8
+
+#EXTINF:2, tvg-id="" tvg-logo="" tvg-name="Gazi TV"  group-title="",Gazi TV
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+
+#EXTINF:3, tvg-id="" tvg-logo="" tvg-name="Sony SIX HD"  group-title="",Sony SIX HD
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+
+#EXTINF:4, tvg-id="" tvg-logo="" tvg-name="Tsports HD"  group-title="",Tsports HD
+http://tv.aliflailabd.com:8989/tsports/index.m3u8
+
