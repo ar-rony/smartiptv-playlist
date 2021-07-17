@@ -18,3 +18,12 @@ http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:6, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Bangla HD"  group-title="New Group",Zee Bangla HD
 http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
 
+#EXTINF:7, tvg-id="Star Sports Select 1 HD" tvg-logo="New Logo" tvg-name="Start Sports Select 1 HD"  group-title="Sports",Start Sports Select 1 HD
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+
+#EXTINF:8, tvg-id="Start Sports Select 2 HD" tvg-logo="New Logo" tvg-name="Start Sports Select 2 HD"  group-title="Sports",Start Sports Select 2 HD
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="" tvg-name="Zee Cinema HD"  group-title="Entertainment",Zee Cinema HD
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+
