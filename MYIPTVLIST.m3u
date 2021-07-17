@@ -24,6 +24,12 @@ http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:8, tvg-id="Start Sports Select 2 HD" tvg-logo="New Logo" tvg-name="Start Sports Select 2 HD"  group-title="Sports",Start Sports Select 2 HD
 http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
-#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="" tvg-name="Zee Cinema HD"  group-title="Entertainment",Zee Cinema HD
+#EXTINF:9, tvg-id="Zee Cinema" tvg-logo="" tvg-name="Zee Cinema HD"  group-title="Entertainment",Zee Cinema HD
 http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+
+#EXTINF:10, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Start Jalsha Movies"  group-title="New Group",Start Jalsha Movies
+http://123.456.789
+
+#EXTINF:11, tvg-id="New EPG" tvg-logo="" tvg-name="Star Movies"  group-title="New Group",Star Movies
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 
