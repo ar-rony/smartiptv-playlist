@@ -12,3 +12,9 @@ http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
 #EXTINF:4, tvg-id="" tvg-logo="" tvg-name="Tsports HD"  group-title="",Tsports HD
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
 
+#EXTINF:5, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Duranta TV"  group-title="New Group",Duranta TV
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+
+#EXTINF:6, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Zee Bangla HD"  group-title="New Group",Zee Bangla HD
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+
