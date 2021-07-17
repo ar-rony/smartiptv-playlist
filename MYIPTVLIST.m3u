@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="HBO Hits"  group-title="",HBO Hits
+#EXTINF:1, HBO Hits
 http://tv.aliflailabd.com:8989/hbo/index.m3u8
 
 #EXTINF:2, tvg-id="" tvg-logo="https://bdtv.live/assets/images/gazi.jpg" tvg-name="Gazi TV"  group-title="",Gazi TV
