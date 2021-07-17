@@ -33,6 +33,9 @@ http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:11, tvg-id="New EPG" tvg-logo="" tvg-name="Star Movies"  group-title="New Group",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 
-#EXTINF:-1, tvg-id="Sony PIX" tvg-logo="" tvg-name="Sony PIX"  group-title="Movies",Sony PIX
+#EXTINF:12, tvg-id="Sony PIX" tvg-logo="" tvg-name="Sony PIX"  group-title="Movies",Sony PIX
 http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+
+#EXTINF:13, tvg-id="AXN HD" tvg-logo="No Logo" tvg-name="AXN HD"  group-title="Movies",AXN HD
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
 
