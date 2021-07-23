@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:1, HBO Hits
-http://tv.aliflailabd.com:8989/hbo/index.m3u8
+#EXTINF:1, ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
 
 #EXTINF:2, Gazi TV
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
