@@ -38,3 +38,6 @@ http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 
 #EXTINF:13, AXN HD
 https://list.iptvcat.com/my_list/s/4fd23186a075340b85e2250cb8ef8784.m3u8
+
+#EXTINF:14, MYTVHD
+http://103.205.133.19/hls/mytv.m3u8
