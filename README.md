@@ -5,4 +5,4 @@ SmartIPTV playlist link
 https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/master/smartiptv.m3u
 
 Indian IPTV Playlist
-https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/master/in12.m3u
+https://iptv-org.github.io/iptv/index.m3u
