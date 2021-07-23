@@ -1,41 +1,41 @@
 ﻿#EXTM3U
 
-#EXTINF:1, HBO Hits
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="Unsorted",HBO Hits
 http://tv.aliflailabd.com:8989/hbo/index.m3u8
 
-#EXTINF:2, tvg-id="" tvg-logo="https://bdtv.live/assets/images/gazi.jpg" tvg-name="Gazi TV"  group-title="",Gazi TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="Unsorted",Gazi TV
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
-#EXTINF:3, tvg-id="" tvg-logo="https://bdtv.live/assets/images/sonysixhd.jpg" tvg-name="Sony SIX HD"  group-title="",Sony SIX HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony SIX HD"  group-title="Unsorted",Sony SIX HD
 http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
 
-#EXTINF:4, tvg-id="" tvg-logo="https://bdtv.live/assets/images/tsports.jpg" tvg-name="Tsports HD"  group-title="",Tsports HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tsports HD"  group-title="Unsorted",Tsports HD
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
 
-#EXTINF:5, tvg-id="New EPG" tvg-logo="https://bdtv.live/assets/images/duronto.jpg" tvg-name="Duranta TV"  group-title="New Group",Duranta TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duranta TV"  group-title="Unsorted",Duranta TV
 http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
-#EXTINF:6, tvg-id="New EPG" tvg-logo="https://bdtv.live/assets/images/zeebanglahd.jpg" tvg-name="Zee Bangla HD"  group-title="New Group",Zee Bangla HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Bangla HD"  group-title="Unsorted",Zee Bangla HD
 http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
 
-#EXTINF:7, tvg-id="Star Sports Select 1 HD" tvg-logo="https://bdtv.live/assets/images/starselect1.jpg" tvg-name="Start Sports Select 1 HD"  group-title="Sports",Start Sports Select 1 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Start Sports Select 1 HD"  group-title="Unsorted",Start Sports Select 1 HD
 http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
 
-#EXTINF:8, tvg-id="Start Sports Select 2 HD" tvg-logo="https://bdtv.live/assets/images/starselect2.jpg" tvg-name="Start Sports Select 2 HD"  group-title="Sports",Start Sports Select 2 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Start Sports Select 2 HD"  group-title="Unsorted",Start Sports Select 2 HD
 http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
 
-#EXTINF:9, tvg-id="Zee Cinema" tvg-logo="https://bdtv.live/assets/images/zeecinemahd.jpg" tvg-name="Zee Cinema HD"  group-title="Entertainment",Zee Cinema HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zee Cinema HD"  group-title="Unsorted",Zee Cinema HD
 http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
 
-#EXTINF:10, tvg-id="New EPG" tvg-logo="https://bdtv.live/assets/images/Jalshamovieshd.jpg" tvg-name="Start Jalsha Movies"  group-title="New Group",Start Jalsha Movies
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Start Jalsha Movies"  group-title="Unsorted",Start Jalsha Movies
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 
-#EXTINF:11, tvg-id="New EPG" tvg-logo="" tvg-name="Star Movies"  group-title="New Group",Star Movies
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="Unsorted",Star Movies
 http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
 
-#EXTINF:12, tvg-id="Sony PIX" tvg-logo="https://bdtv.live/assets/images/sonypix.jpg" tvg-name="Sony PIX"  group-title="Movies",Sony PIX
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony PIX"  group-title="Unsorted",Sony PIX
 http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 
-#EXTINF:13, tvg-id="AXN HD" tvg-logo="No Logo" tvg-name="AXN HD"  group-title="Movies",AXN HD
-http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Unsorted",AXN HD
+https://list.iptvcat.com/my_list/s/4fd23186a075340b85e2250cb8ef8784.m3u8
 
