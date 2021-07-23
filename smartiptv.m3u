@@ -1,17 +1,17 @@
 ﻿#EXTM3U
 
-#EXTINF:1, tvg-id="" tvg-logo="" tvg-name="BBC WORLD NEWS"  group-title="",BBC WORLD NEWS
+#EXTINF:1, BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:2, tvg-id="" tvg-logo="" tvg-name="MASTI"  group-title="",MASTI
+#EXTINF:2, MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
-#EXTINF:3, tvg-id="" tvg-logo="" tvg-name="DW GERMANY"  group-title="",DW GERMANY
+#EXTINF:3, DW GERMANY
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
 
-#EXTINF:4, tvg-id="" tvg-logo="" tvg-name="JAMUNA TV"  group-title="",JAMUNA TV
+#EXTINF:4, JAMUNA TV
 https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 
-#EXTINF:5, tvg-id="" tvg-logo="" tvg-name="RTB GO"  group-title="",RTB GO
+#EXTINF:5, RTB GO
 https://rtb-channel.glue.live/smil:rtb1/playlist.m3u8
 

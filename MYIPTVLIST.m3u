@@ -3,6 +3,7 @@
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="Unsorted",HBO Hits
 http://tv.aliflailabd.com:8989/hbo/index.m3u8
 
+<<<<<<< HEAD
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="Unsorted",Gazi TV
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
@@ -38,4 +39,41 @@ http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Unsorted",AXN HD
 https://list.iptvcat.com/my_list/s/4fd23186a075340b85e2250cb8ef8784.m3u8
+=======
+#EXTINF:2, Gazi TV
+http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+
+#EXTINF:3, Sony SIX HD
+http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+
+#EXTINF:4, Tsports HD
+http://tv.aliflailabd.com:8989/tsports/index.m3u8
+
+#EXTINF:5, Duranta TV
+http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+
+#EXTINF:6, Zee Bangla HD
+http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+
+#EXTINF:7, Start Sports Select 1 HD
+http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+
+#EXTINF:8, Start Sports Select 2 HD
+http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+
+#EXTINF:9, Zee Cinema HD
+http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+
+#EXTINF:10, Start Jalsha Movies
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+
+#EXTINF:11, Star Movies
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+
+#EXTINF:12, Sony PIX
+http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+
+#EXTINF:13, AXN HD
+http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
+>>>>>>> db733c931cc5bb6abc01989aac412a7c5c5665f5
 
