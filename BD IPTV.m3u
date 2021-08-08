@@ -43,248 +43,57 @@ http://103.205.133.19/hls/deeptotv.m3u8
 http://103.205.133.19/hls/deshtv.m3u8
 
 #EXTINF:-1 ,Duronto TV
-http://103.205.133.19/hls/duranta.m3u8
+http://103.205.133.20/hls/duranta.m3u8
 
-#EXTINF:-1 ,Duronto TV
-https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 ,Duronto TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
-#EXTINF:-1 ,Duronto TV
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
-#EXTINF:-1 ,Ekattor
-http://iptv.kitv.live:1935/live/Shari/MTV-P/105.m3u8
-#EXTINF:-1 ,Ekattor
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Ekushey TV
-https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 ,Ekushey TV
-http://103.205.133.14/hls/ekushey.m3u8
 #EXTINF:-1 ,Ekushey TV
 http://103.205.133.19/hls/ekushey.m3u8
-#EXTINF:-1 ,Ekushey TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/118.m3u8
-#EXTINF:-1 ,Ekushey TV
-http://103.135.208.14/live/ibox/bd/20.m3u8
-#EXTINF:-1 ,Gaan Bangla
-https://itpolly.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 ,Gaan Bangla
-https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://103.205.133.14/hls/gaanbangla.m3u8
+
 #EXTINF:-1 ,Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+
 #EXTINF:-1 ,GTV
 http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,GTV
-http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 ,GTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
-#EXTINF:-1 ,GTV
-http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
-#EXTINF:-1 ,GTV
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
-#EXTINF:-1 ,Independent
-https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 ,Independent
-https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 ,Independent
-http://103.205.133.14/hls/independent.m3u8
+
 #EXTINF:-1 ,Independent
 http://103.205.133.19/hls/independent.m3u8
-#EXTINF:-1 ,Independent
-http://iptv.kitv.live:1935/live/Shari/MTV-P/115.m3u8
-#EXTINF:-1 ,Independent
-http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
-#EXTINF:-1 ,JAMUNA TV
-https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 ,JAMUNA TV
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
-#EXTINF:-1 ,JAMUNA TV
-http://103.205.133.14/hls/jamunatv.m3u8
+
 #EXTINF:-1 ,JAMUNA TV
 http://103.205.133.19/hls/jamunatv.m3u8
-#EXTINF:-1 ,JAMUNA TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/116.m3u8
+
 #EXTINF:-1 ,Maasranga
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 ,Maasranga
-https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 ,Maasranga
-http://iptv.kitv.live:1935/live/Shari/MTV-P/104.m3u8
-#EXTINF:-1 ,Maasranga
-http://103.205.133.19/hls/masranga.m3u8
-#EXTINF:-1 ,Maasranga
-http://pioneer.anytv.live:8080/masranga/index.m3u8
-#EXTINF:-1 ,MOHONA TV
-https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 ,MOHONA TV
-https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 ,MOHONA TV
-http://103.205.133.14/hls/mohonatv.m3u8
+http://103.205.133.19/hls/masrangatv.m3u8
+
 #EXTINF:-1 ,MOHONA TV
 http://103.205.133.19/hls/mohonatv.m3u8
-#EXTINF:-1 ,MOHONA TV
-http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
-#EXTINF:-1 ,MY TV
-https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 ,MY TV
-https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 ,MY TV
-http://103.205.133.14/hls/mytv.m3u8
+
 #EXTINF:-1 ,MY TV
 http://103.205.133.19/hls/mytv.m3u8
-#EXTINF:-1 ,MY TV
-http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
-#EXTINF:-1 ,Nagorik TV
-http://103.205.133.14/hls/nagorik.m3u8
+
 #EXTINF:-1 ,Nagorik TV
 http://103.205.133.19/hls/nagorik.m3u8
-#EXTINF:-1 ,Nagorik TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
-#EXTINF:-1 ,Nagorik TV
-http://103.135.208.14/live/ibox/bd/100.m3u8
-#EXTINF:-1 ,News 24
-https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 ,News 24
-https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 ,News 24
-http://103.205.133.14/hls/news24.m3u8
+
 #EXTINF:-1 ,News 24
 http://103.205.133.19/hls/news24.m3u8
-#EXTINF:-1 ,News 24
-http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
-#EXTINF:-1 ,News 24
-http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
-#EXTINF:-1 ,News 24
-http://pioneer.anytv.live:8080/news24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,NTV
-https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,NTV
-https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 ,NTV
-http://103.205.133.14/hls/ntv.m3u8
+
 #EXTINF:-1 ,NTV
 http://103.205.133.19/hls/ntv.m3u8
-#EXTINF:-1 ,NTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
-#EXTINF:-1 ,RTV
-https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 ,RTV
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
-#EXTINF:-1 ,RTV
-http://103.205.133.14/hls/rtv.m3u8
+
+
 #EXTINF:-1 ,RTV
 http://103.205.133.19/hls/rtv.m3u8
-#EXTINF:-1 ,RTV
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
-#EXTINF:-1 ,Sangsad TV
-https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 ,Sangsad TV
-https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 ,SATV
-https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,SATV
-https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
-#EXTINF:-1 ,SATV
-http://103.205.133.14/hls/satv.m3u8
+
 #EXTINF:-1 ,SATV
 http://103.205.133.19/hls/satv.m3u8
-#EXTINF:-1 ,SATV
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
-#EXTINF:-1 ,Shomoy TV
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 ,Shomoy TV
-https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 ,Shomoy TV
-http://103.205.133.14/hls/somoy.m3u8
+
 #EXTINF:-1 ,Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
-#EXTINF:-1 ,Shomoy TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
-#EXTINF:-1 ,Shomoy TV
-http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
-#EXTINF:-1 ,Shopno TV
-http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
-#EXTINF:-1 ,Star Jalsha HD
-https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 ,Star Jalsha HD
-https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
-#EXTINF:-1 ,Star Jalsha HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/125.m3u8
-#EXTINF:-1 ,Star Jalsha
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 ,Jalsha Movies
-https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 ,Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 ,Zee Bangla
-https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 ,Zee Bangla
-https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 ,Zee Bangla
-http://43.251.86.2:8080/hls/channel_1.m3u8
-#EXTINF:-1 ,Zee Bangla
-http://103.205.133.14/hls/zeebangla.m3u8
-#EXTINF:-1 ,Zee Bangla
-http://103.205.133.19/hls/zeebangla.m3u8
-#EXTINF:-1 ,Zee Bangla HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/124.m3u8
-#EXTINF:-1 ,Zee 24 Ghanta
-http://iptv.kitv.live:1935/live/Shari/MTV-P/192.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1 ,Colors Bangla HD
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
-#EXTINF:-1 ,Colors Bangla SD
-https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 ,Colors Bangla SD
-https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 ,Colors Bangla
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
-#EXTINF:-1 ,Ruposhi Bangla
-https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 ,Ruposhi Bangla
-https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 ,Ruposhi Bangla
-http://103.205.133.14/hls/ruposhibangla.m3u8
+
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
-#EXTINF:-1 ,Ruposhi Bangla
-http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
-#EXTINF:-1 ,Tara Bangla
-https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1 ,Tara Bangla
-https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1 ,Sony Aath
-http://103.205.133.14/hls/sony8.m3u8
+
 #EXTINF:-1 ,Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
-#EXTINF:-1 ,Sony Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
-#EXTINF:-1 ,Akash Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/130.m3u8
-#EXTINF:-1 ,DD Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/313.m3u8
-#EXTINF:-1 ,SangeetBangla
-https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 ,SangeetBangla
-https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 ,SangeetBangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/176.m3u8
-#EXTINF:-1 ,SangeetBangla
-http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
-#EXTINF:-1 ,Kolkata TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/320.m3u8
-#EXTINF:-1 ,Bangla Time
-http://103.205.133.14/hls/banglatime.m3u8
+
 #EXTINF:-1 ,Bangla Time
 http://103.205.133.19/hls/banglatime.m3u8
 #EXTINF:-1 ,Star Sports 1 HD
