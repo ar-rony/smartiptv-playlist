@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",&Flix HD 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="english movie",
+&xplorHD http://cv.khushitv.xyz/channels.php?c=andxplorhd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/&Prive_HD.png?raw=true" group-title="english movie",
+&Prive HD https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Zee_Cafe.png?raw=true" group-title="english movie",Zee Cafe HD https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/HBO_HD.png?raw=true" group-title="english movie",HBO hd 
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Star_Movies_HD.png?raw=true" group-title="english movie",Star World1 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies NOW 4K https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Sony_Pix_HD.png?raw=true" group-title="english movie",Sony_Pix_HD https://bit.ly/32sOnypIXhd
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Movies_Now.png?raw=true" group-title="english movie",Movies Now https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Romedy_Now.png?raw=true" group-title="english movie",Romedy Now https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/MNX_HD.png?raw=true" group-title="english movie",MNX https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="english movie",ANX HD
+ http://136.243.177.164/AXN/playlist.m3u8

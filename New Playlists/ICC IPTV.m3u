@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", (ONLINE) Asian TV
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmFTqy4.png" group-title="Bangladesh", (ONLINE) ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", (ONLINE) Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh", (ONLINE) Boishakhi TV
+http://10.16.100.205/hls/boishakhi_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0M3dwQ.png" group-title="Bangladesh", (ONLINE) Channel i
+http://10.16.100.203:8082/bangla/i_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bTtgfS.png" group-title="Bangladesh", (OFFLINE) Channel S
+https://ahmadabdullahrifat.shortcm.li/channelsuk
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzVEF1w.png" group-title="Bangladesh", (ONLINE) DBC News
+http://10.16.100.203:8082/bangla/dbcnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mesAd3t.png" group-title="Bangladesh", (ONLINE) Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FEnjO1i.png" group-title="Bangladesh", (ONLINE) Digi Bangla
+http://10.16.100.203:8082/bangla/digibangla24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vDC50KY.png" group-title="Bangladesh", (ONLINE) Ekushe TV
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BxpP6JB.png" group-title="Bangladesh", (OFFLINE) Gazi TV
+http://10.16.100.201/hindi/bdgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/78xt9Pk.png" group-title="Bangladesh", (ONLINE) Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQ0jP0U.png" group-title="Bangladesh", (ONLINE) Mohona TV
+http://10.16.100.205/hls/mohona_tv_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jNwZEs9.png" group-title="Bangladesh", (ONLINE) My TV
+http://10.16.100.205/hls/my_tv_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbukEzZ.png" group-title="Bangladesh", (ONLINE) NTV
+http://10.16.100.205/hls/ntv_b_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HI2UAS4.png" group-title="Bangladesh", (ONLINE) Nagorik TV
+http://10.16.100.203:8082/bangla/nagorik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OougT48.png" group-title="Bangladesh", (ONLINE) RTV
+http://10.16.100.203:8082/bangla/TV_R.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rTP9G23.png" group-title="Kolkata Bangla", (ONLINE) Akash Aath
+http://10.16.100.204/hls/akash_aath_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Kolkata Bangla", (ONLINE) Colors Bangla
+http://10.16.100.205/hls/colorsbd480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1DPyNr.png" group-title="Kolkata Bangla", (ONLINE) Star Jalsha
+http://10.16.100.204/hls/star_jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UFJ2nd.png" group-title="Kolkata Bangla", (ONLINE) Zee Bangla
+http://10.16.100.204/hls/zee_bangla_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wbjZNT6.png" group-title="Hindi", (ONLINE) & TV
+http://10.16.100.204/hls/&tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="Hindi", (ONLINE) Colors
+http://10.16.100.201/hindi/colorsin.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="Hindi", (ONLINE) Sony TV
+http://10.16.100.204/hls/sony_tv_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ElmW9F8.png" group-title="Bangladesh", (ONLINE) Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/017HJeE.png" group-title="Bangladesh", (ONLINE) Bangla Vision
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnHqhih.png" group-title="Bangladesh", (ONLINE) Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2I6ptRS.png" group-title="Bangladesh", (ONLINE) Boishakhi TV
+http://10.16.100.205/hls/boishakhi_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/SangeetBangla.png" group-title="Music", (ONLINE) Sangeet Bangla
+http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/9xM.png" group-title="Music", (ONLINE) 9xM
+http://10.16.100.204/hls/9xm_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (ONLINE) Dhoom Music
+http://10.16.100.201/hindi/dhoom_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Music/B4UMusic.png" group-title="Music", (ONLINE) MTunes
+http://10.16.100.207:8082/sports/mtuness.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MadaniChannel" group-title="Religion", (ONLINE) Madani Channel
+http://10.16.100.207:8082/sports/sunnahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/MakkaTV" group-title="Religion", (ONLINE) Makkah TV
+http://10.16.100.207:8082/sports/qurantv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Religion/PeaceTVBangla.png" group-title="Religion", (ONLINE) Peace TV Bangla
+http://10.16.100.207:8082/sports/peacetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports", (ONLINE) IPL 20 (1)
+http://10.16.100.201/hindi/bdsp2in.m3u8
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports", (ONLINE) IPL 20 (2)
+http://10.16.100.203:8082/bangla/spin2bd.m3u8
+
+#EXTINF:-1 tvg-logo="http://10.16.100.244/files/ipl.png" group-title="Sports", (ONLINE) IPL 20 (3)
+http://10.16.100.207:8082/sports/insp2chbd.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", (ONLINE) Sony Ten 1
+http://10.16.100.207:8082/sports/ten1_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/24954_22647_86191_starsports2.jpg" group-title="Sports", (ONLINE) Star Sports 2
+http://10.16.100.207:8082/sports/starsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/40526_55095_starselecthd1.jpg" group-title="Sports", (ONLINE) Star Sports Select 1
+http://10.16.100.207:8082/sports/starsports_select1.m3u8
+
+#EXTINF:-1 tvg-logo="http://swiftstreamz.com/SwiftPanel/images/49657_63286_starselecthd2.jpg" group-title="Sports", (ONLINE) Star Sports Select 2
+http://10.16.100.207:8082/sports/ssselect2.m3u8

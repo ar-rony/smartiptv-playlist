@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted" - ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+#EXTINF:58, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted" - Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+#EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted" - Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+#EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted" - BTV World
+http://103.205.133.19/hls/btvworld.m3u8
+#EXTINF:62, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted" - BTV
+http://103.205.133.19/hls/btv.m3u8
+#EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 24"  group-title="Unsorted" - Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+#EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted" - DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted" - Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:66, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted" - Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+#EXTINF:64, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted" - Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JAMUNA TV"  group-title="Unsorted" - JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted" - MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+#EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted" - MY TV
+http://103.205.133.19/hls/mytv.m3u8
+#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="Unsorted" - Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:67, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted" - News 24
+http://103.205.133.19/hls/news24.m3u8
+#EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted" - NTV
+http://103.205.133.19/hls/ntv.m3u8
+#EXTINF:66, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted" - RTV
+http://103.205.133.19/hls/rtv.m3u8
+#EXTINF:64, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted" - SATV
+http://103.205.133.19/hls/satv.m3u8
+#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted" - Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+#EXTINF:64, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted" - Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony Aath"  group-title="Unsorted" - Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bangla Time"  group-title="Unsorted" - Bangla Time
+http://103.205.133.19/hls/banglatime.m3u8
+#EXTINF:44, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alif TV"  group-title="Unsorted" - Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+#EXTINF:35, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ITV Bangla"  group-title="Unsorted" - ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-n
+#EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="7.Boishakhi Tv Plus"  group-title="Unsorted" - 7.Boishakhi Tv Plus
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhiplus.stream/chunks.m3u8
+
+#EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="9.Channel I"  group-title="Unsorted" - 9.Channel I
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+
+
+#EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="16.Ekattor"  group-title="Unsorted" - 16.Ekattor
+http://103.205.133.21/hls/ekatoortv.m3u8
+#EXTINF:48, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="17.Ekushey TV"  group-title="Unsorted" - 17.Ekushey TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="18.Gaan Bangla HD"  group-title="Unsorted" - 18.Gaan Bangla HD
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="19.Independent"  group-title="Unsorted" - 19.Independent
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="20.JAMUNA TV"  group-title="Unsorted" - 20.JAMUNA TV
+https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24.Nagorik TV"  group-title="Unsorted" - 24.Nagorik TV
+http://103.205.133.21/hls/nagorik.m3u8
+
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="26.NTV"  group-title="Unsorted" - 26.NTV
+http://103.205.133.21/hls/ntv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="27.RTV"  group-title="Unsorted" - 27.RTV
+http://103.205.133.21/hls/rtv.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="29.SATV"  group-title="Unsorted" - 29.SATV
+http://103.205.133.21/hls/satv.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="31.Agami TV"  group-title="Unsorted" - 31.Agami TV
+http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="32.Alpona TV"  group-title="Unsorted" - 32.Alpona TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="32.Bangla Channel"  group-title="Unsorted" - 32.Bangla Channel
+http://str24.l9574.com/515.stream/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="33.Biswa Bangla 24 TV"  group-title="Unsorted" - 33.Biswa Bangla 24 TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="34.Can Bangla TV"  group-title="Unsorted" - 34.Can Bangla TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="34.CCN Bangla"  group-title="Unsorted" - 34.CCN Bangla
+https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="34.Channel S"  group-title="Unsorted" - 34.Channel S
+http://str24.l9574.com/519.stream/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="35.Channel 23"  group-title="Unsorted" - 35.Channel 23
+http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="36.City TV"  group-title="Unsorted" - 36.City TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/citytv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="37.Cumilla 24 TV"  group-title="Unsorted" - 37.Cumilla 24 TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="38.Deshi TV"  group-title="Unsorted" - 38.Deshi TV
+http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="38.Doyel TV"  group-title="Unsorted" - 38.Doyel TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="38.Falguni TV"  group-title="Unsorted" - 38.Falguni TV
+https://atv-hls.telelivebd.com:443/atv/atv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="39.ION TV"  group-title="Unsorted" - 39.ION TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="40.ITV Bangla"  group-title="Unsorted" - 40.ITV Bangla
+http://str24.l9574.com/512.stream/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="41.JonmoBhumi TV"  group-title="Unsorted" - 41.JonmoBhumi TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="42.JoyJatra TV"  group-title="Unsorted" - 42.JoyJatra TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="43.KTV Bangla"  group-title="Unsorted" - 43.KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="45.Movie Bangla"  group-title="Unsorted" - 45.Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="54.71 Bangla TV"  group-title="Unsorted" - 54.71 Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="55.Sun Bangla"  group-title="Unsorted" - 55.Sun Bangla
+https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="55.DD Bangla"  group-title="Unsorted" - 55.DD Bangla
+https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="55.Ruposhi Bangla"  group-title="Unsorted" - 55.Ruposhi Bangla
+http://103.205.133.21/hls/ruposhibangla.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="56.Orange Bangla"  group-title="Unsorted" - 56.Orange Bangla
+https://itvorigin.multitvsolution.com/idvo/orangetv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="56.Enter 10 Bangla"  group-title="Unsorted" - 56.Enter 10 Bangla
+http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="57.News 18 Bangla"  group-title="Unsorted" - 57.News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="58.ABP Ananda"  group-title="Unsorted" - 58.ABP Ananda
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="59.Calcutta News"  group-title="Unsorted" - 59.Calcutta News
+https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="59.CTVN Akd Plus"  group-title="Unsorted" - 59.CTVN Akd Plus
+http://versewsa.pc.cdn.bitgravity.com/versewsa/live/amlst:ctvn_akd_plus_,b256,b512,b1024,b1824,.smil/chunklist_b512000.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="59.Zee 24 Ghanta"  group-title="Unsorted" - 59.Zee 24 Ghanta
+http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="91.Zee Bangla HD"  group-title="Unsorted" - 91.Zee Bangla HD
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="91.Zee Bangla HD [2]"  group-title="Unsorted" - 91.Zee Bangla HD [2]
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="93.Zee Bangla Cinema"  group-title="Unsorted" - 93.Zee Bangla Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="104.Sony Aath"  group-title="Unsorted" - 104.Sony Aath
+http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="112.Star Jalsha"  group-title="Unsorted" - 112.Star Jalsha
+http://103.205.133.21/hls/chsj.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="123.Sangeet Bangla"  group-title="Unsorted" - 123.Sangeet Bangla
+http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="124.Dhoom Music"  group-title="Unsorted" - 124.Dhoom Music
+http://103.205.133.21/hls/dhoommusic.m3u8?token=soheliptv01826655778
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="124.Bangla Talkies"  group-title="Unsorted" - 124.Bangla Talkies
+https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted" - ATN Bangla
+http://103.205.133.21/hls/atnbangla.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted" - ATN News
+http://103.205.133.21/hls/atnnews.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted" - Banglavision
+http://103.205.133.21/hls/banglavision.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted" - Bangla TV
+http://103.205.133.21/hls/banglatv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Unsorted" - Boishakhi
+http://103.205.133.21/hls/boisakhi.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted" - BTV World
+http://103.205.133.21/hls/btvworld.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel I"  group-title="Unsorted" - Channel I
+http://103.205.133.21/hls/ichannel.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Channel 9"  group-title="Unsorted" - Channel 9
+http://103.205.133.21/hls/ninechannel.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CHANNEL 24"  group-title="Unsorted" - CHANNEL 24
+http://103.205.133.21/hls/channel24.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DBC News*"  group-title="Unsorted" - DBC News*
+http://103.205.133.21/hls/dbcnews.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted" - Deepto TV
+http://103.205.133.21/hls/deeptotv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted" - Desh TV
+http://103.205.133.21/hls/deshtv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted" - Ekushey TV
+http://103.205.133.21/hls/ekushey.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gaan Bangla HD"  group-title="Unsorted" - Gaan Bangla HD
+http://103.205.133.21/hls/gaanbangla.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jamuna TV"  group-title="Unsorted" - Jamuna TV
+http://103.205.133.21/hls/jamunatv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mohona TV"  group-title="Unsorted" - Mohona TV
+http://103.205.133.21/hls/mohonatv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="My TV HD"  group-title="Unsorted" - My TV HD
+http://103.205.133.21/hls/mytv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted" - News 24
+http://103.205.133.21/hls/news24.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Somoy TV"  group-title="Unsorted" - Somoy TV
+http://103.205.133.21/hls/somoy.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dhoom Music"  group-title="Unsorted" - Dhoom Music
+http://103.205.133.21/hls/dhoommusic.m3u8
+#EXTINF:62, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Peace TV Bangla"  group-title="Unsorted" - Peace TV Bangla
+http://103.205.133.21/hls/peacetv.m3u8
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sangeet Bangla"  group-title="Unsorted" - Sangeet Bangla
+http://103.205.133.21/hls/sangeetbangla.m3u8
