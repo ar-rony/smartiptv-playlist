@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1, T-Sports HD
-https://tv.telelivebd.com/live/tsports/chunks.m3u8
+#EXTINF:-1, PTV Sports
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sony Six HD
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Gazi TV HD
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Anando Tv
 https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
@@ -24,8 +30,8 @@ http://103.205.133.19/hls/boishakhitv.m3u8
 #EXTINF:-1 ,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
 
-#EXTINF:-1 ,BTV
-http://103.205.133.19/hls/btv.m3u8
+#EXTINF:-1 ,Bijoy TV
+https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 ,Channel 9
 http://103.205.133.19/hls/channel9.m3u8
@@ -34,7 +40,7 @@ http://103.205.133.19/hls/channel9.m3u8
 http://103.205.133.19/hls/channel24.m3u8
 
 #EXTINF:-1 ,Channel I
-http://103.205.133.19/hls/channeli.m3u8
+https://iptvbd.jagobd.com:444/iptv/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 ,DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
@@ -62,9 +68,6 @@ http://103.205.133.19/hls/independent.m3u8
 
 #EXTINF:-1 ,JAMUNA TV
 http://103.205.133.19/hls/jamunatv.m3u8
-
-#EXTINF:-1 ,Maasranga
-http://103.205.133.19/hls/masrangatv.m3u8
 
 #EXTINF:-1 ,MOHONA TV
 http://103.205.133.19/hls/mohonatv.m3u8
@@ -98,6 +101,9 @@ http://173.199.120.51/hls/peacetv.m3u8
 
 #EXTINF:-1, Masranga TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
+#EXTINF:-1, Royal IPTV
+http://iptvbd.jagobd.com:1931/boishakhi/royaltv.stream/chunks.m3u8
 
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
