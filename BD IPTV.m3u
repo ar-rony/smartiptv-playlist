@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1, ASIAN TV
+http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 ,Asian TV
 https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 #EXTINF:-1 ,Asian TV
