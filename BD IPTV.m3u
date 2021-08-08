@@ -1,7 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1, T-Sports HD
+https://tv.telelivebd.com/live/tsports/chunks.m3u8
+
 #EXTINF:-1, Anando Tv
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1 ,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
