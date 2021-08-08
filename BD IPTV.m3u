@@ -78,7 +78,6 @@ http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1 ,NTV
 http://103.205.133.19/hls/ntv.m3u8
 
-
 #EXTINF:-1 ,RTV
 http://103.205.133.19/hls/rtv.m3u8
 
@@ -89,7 +88,7 @@ http://103.205.133.19/hls/satv.m3u8
 http://103.205.133.19/hls/somoy.m3u8
 
 #EXTINF:-1, T SPORTS
-https://r1---sn-jtcxgb5ux-q5js.googlevideo.com/videoplayback?expire=1628466095&ei=TxcQYeKBGYSqz7sPlOi9gAs&ip=27.147.207.187&id=o-AL7Johf_F9Xrd-ivk5GeRm_ibF_IdlsXG8ly18dnE4qP&itag=278&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=Hj&mm=31%2C29&mn=sn-jtcxgb5ux-q5js%2Csn-npoe7nek&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=525000&vprv=1&mime=video%2Fwebm&ns=pzJBKvTe_msnPDnpYDayBwgG&gir=yes&clen=70686993&dur=7225.966&lmt=1621773971971135&mt=1628444217&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=xmzrIMCYVpZNGq9&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgC9UxHVf1tByBarxGD6McKb0CzgdYVoKd0NQTG0vEjY0CIQC2ClmG8nkT21LxRfDaW9bvMG2Q2RVZz-FsxEkZejZjEw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgWzcy6VYMM9-n2OjhYDJsIGriKH6pThB-hRRm0hoUMzICIQCzm4aROKMKcxiwE6rzXVDNq350OUt9oc5LKU2WxmOw_A%3D%3D
+http://103.205.133.19/hls/tsports.m3u8
 
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
