@@ -87,8 +87,14 @@ http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 ,Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
 
-#EXTINF:-1, T SPORTS
-http://103.205.133.19/hls/tsports.m3u8
+#EXTINF:-1, Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1, Peace TV Bangla
+http://173.199.120.51/hls/peacetv.m3u8
+
+#EXTINF:-1, Masranga TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
@@ -96,96 +102,18 @@ http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 ,Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
 
-#EXTINF:-1 ,Bangla Time
-http://103.205.133.19/hls/banglatime.m3u8
-#EXTINF:-1 ,Star Sports 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
-#EXTINF:-1 ,Star Sports 1 HD (Backup)
-http://iptv.kitv.live:1935/live/Shari/MTV-P/183.m3u8
-#EXTINF:-1 ,Star Sports Select 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
-#EXTINF:-1 ,Star Sports Select 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
-#EXTINF:-1 ,Sony Six HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
-#EXTINF:-1 ,Sony Six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
-#EXTINF:-1 ,Sony Ten 1
-http://103.205.133.14/hls/ten1.m3u8
-#EXTINF:-1 ,Sony Ten 1
-http://103.205.133.19/hls/ten1.m3u8
-#EXTINF:-1 ,Sony Ten 1
-http://iptv.kitv.live:1935/live/Shari/MTV-P/156.m3u8
-#EXTINF:-1 ,Sony Ten 1 HD
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
-#EXTINF:-1 ,Sony Ten 2 HD
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-#EXTINF:-1 ,PTV Sports
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1 ,Euro Sports
-http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
-#EXTINF:-1 ,DD Sports
-https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-#EXTINF:-1 ,DD Sports
-https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-#EXTINF:-1 ,D Sports
-http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
-#EXTINF:-1 ,Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,Sony TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
-#EXTINF:-1 ,Sony TV
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1 ,Sony Max
-http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
-#EXTINF:-1 ,Sony Pix
-http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
-#EXTINF:-1 ,ZEE TV SD
-https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ,ZEE TV SD
-https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 ,ZEE TV SD
-http://103.205.133.14/hls/zeetv.m3u8
+#EXTINF:-1, Enter 10 Bangla
+https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+
+#EXTINF:-1, Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1 ,ZEE TV SD
 http://103.205.133.19/hls/zeetv.m3u8
-#EXTINF:-1 ,ZEE TV SD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/135.m3u8
-#EXTINF:-1 ,Zee Bollywood
-https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 ,Zee Bollywood
-https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 ,Zee Cinema
-https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 ,Zee Cinema
-http://103.205.133.14/hls/zeecinema.m3u8
-#EXTINF:-1 ,Zee Cinema
-http://103.205.133.19/hls/zeecinema.m3u8
-#EXTINF:-1 ,Zee Cinema
-http://iptv.kitv.live:1935/live/Shari/MTV-P/136.m3u8
-#EXTINF:-1 ,Zee Cinema
-http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
-#EXTINF:-1 ,Zee Cinema
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 ,Zee ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/179.m3u8
-#EXTINF:-1 ,Star Plus
-https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 ,Star Plus
-https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 ,Star Plus
-http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
-#EXTINF:-1 ,Star Plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 ,Star Plus HD
-https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 ,Star Gold HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 ,Star Gold HD
-https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:-1, Star Movies HD
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,Star Gold SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/141.m3u8
 #EXTINF:-1 ,Star Gold International
