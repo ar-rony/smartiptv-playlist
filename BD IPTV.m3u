@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, Anando Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
 #EXTINF:-1 ,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
 
@@ -29,40 +32,19 @@ http://103.205.133.19/hls/channel24.m3u8
 
 #EXTINF:-1 ,Channel I
 http://103.205.133.19/hls/channeli.m3u8
-#EXTINF:-1 ,DBC News
-https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,DBC News
-https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 ,DBC News
-http://103.205.133.14/hls/dbcnews.m3u8
+
 #EXTINF:-1 ,DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
-#EXTINF:-1 ,DBC News
-http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 ,Deepto TV
-http://103.205.133.14/hls/deeptotv.m3u8
+
 #EXTINF:-1 ,Deepto TV
 http://103.205.133.19/hls/deeptotv.m3u8
-#EXTINF:-1 ,Deepto TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
-#EXTINF:-1 ,Desh TV
-https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
-https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
-http://103.205.133.14/hls/deshtv.m3u8
+
 #EXTINF:-1 ,Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
-#EXTINF:-1 ,Desh TV
-http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
-#EXTINF:-1 ,Desh TV
-http://103.135.208.14/live/ibox/bd/33.m3u8
+
 #EXTINF:-1 ,Duronto TV
-https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+http://103.205.133.19/hls/duranta.m3u8
+
 #EXTINF:-1 ,Duronto TV
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 ,Duronto TV
