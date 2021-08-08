@@ -1,5 +1,6 @@
 ﻿#EXTM3U
 
+<<<<<<< HEAD
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Hits"  group-title="Unsorted",HBO Hits
 http://tv.aliflailabd.com:8989/hbo/index.m3u8
 
@@ -42,37 +43,45 @@ https://list.iptvcat.com/my_list/s/4fd23186a075340b85e2250cb8ef8784.m3u8
 =======
 #EXTINF:2, Gazi TV
 http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+=======
+#EXTINF:1, ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
 
-#EXTINF:3, Sony SIX HD
-http://tv.aliflailabd.com:8989/sony-six-hd/index.m3u8
+#EXTINF:2 ,ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+>>>>>>> b1a1dd65fd26e90df63a67d5800eb206e7173602
 
-#EXTINF:4, Tsports HD
-http://tv.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:3 ,Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
 
-#EXTINF:5, Duranta TV
-http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:4 ,Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
 
-#EXTINF:6, Zee Bangla HD
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:5 ,Channel 24
+http://103.205.133.19/hls/channel24.m3u8
 
-#EXTINF:7, Start Sports Select 1 HD
-http://tv.aliflailabd.com:8989/star-sports-select1/index.m3u8
+#EXTINF:6 , DBC NEWS
+http://103.205.133.19/hls/dbcnews.m3u8
 
-#EXTINF:8, Start Sports Select 2 HD
-http://tv.aliflailabd.com:8989/star-sports-select2/index.m3u8
+#EXTINF:7 ,Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
 
-#EXTINF:9, Zee Cinema HD
-http://tv.aliflailabd.com:8989/zee-cinema/index.m3u8
+#EXTINF:8 ,Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
 
-#EXTINF:10, Start Jalsha Movies
-http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+#EXTINF:9 ,Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
 
-#EXTINF:11, Star Movies
-http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:10, Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
 
-#EXTINF:12, Sony PIX
-http://tv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+#EXTINF:11 ,Independent
+http://103.205.133.19/hls/independent.m3u8
 
+#EXTINF:12, MYTVHD
+http://103.205.133.19/hls/mytv.m3u8
+
+<<<<<<< HEAD
 #EXTINF:13, AXN HD
 <<<<<<< HEAD
 http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
@@ -81,3 +90,40 @@ http://tv.aliflailabd.com:8989/axn-hd/index.m3u8
 =======
 https://list.iptvcat.com/my_list/s/4fd23186a075340b85e2250cb8ef8784.m3u8
 >>>>>>> 6a9806199306ab66497d93d2e86a0631c86e1ee6
+=======
+#EXTINF:13 ,JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+
+#EXTINF:14 ,MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+
+#EXTINF:15 ,Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
+#EXTINF:-1 ,News 24
+http://103.205.133.19/hls/news24.m3u8
+
+#EXTINF:-1 ,NTV
+http://103.205.133.19/hls/ntv.m3u8
+
+#EXTINF:-1 ,RTV
+http://103.205.133.19/hls/rtv.m3u8
+
+#EXTINF:-1 ,SATV
+http://103.205.133.19/hls/satv.m3u8
+
+#EXTINF:-1 ,Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+
+#EXTINF:-1 ,Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+
+#EXTINF:-1 ,Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1 ,9XM
+http://103.205.133.19/hls/9xm.m3u8
+
+#EXTINF:-1, BEIN SPORTS HD
+https://list.iptvcat.com/my_list/s/abcc6e9aa53f8a1f46accc1cbcecb4c4.m3u8
+>>>>>>> b1a1dd65fd26e90df63a67d5800eb206e7173602
