@@ -1,84 +1,34 @@
 #EXTM3U
-#EXTINF:-1, ASIAN TV
-http://103.205.133.19/hls/asiantv.m3u8
-#EXTINF:-1 ,Asian TV
-https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 ,Asian TV
-https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 ,Asian TV
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
-https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
-https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 ,ATN Bangla
-http://103.205.133.14/hls/atnbangla.m3u8
+
 #EXTINF:-1 ,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
-#EXTINF:-1 ,ATN Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/106.m3u8
-#EXTINF:-1 ,ATN News
-https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 ,ATN News
-https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 ,ATN News
-http://103.205.133.14/hls/atnnews.m3u8
+
 #EXTINF:-1 ,ATN News
 http://103.205.133.19/hls/atnnews.m3u8
-#EXTINF:-1 ,ATN Music
-http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
-#EXTINF:-1 ,Banglavision
-https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 ,Banglavision
-https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 ,Banglavision
-http://103.205.133.14/hls/banglavision.m3u8
+
 #EXTINF:-1 ,Banglavision
 http://103.205.133.19/hls/banglavision.m3u8
-#EXTINF:-1 ,Banglavision
-http://iptv.kitv.live:1935/live/Shari/MTV-P/120.m3u8
-#EXTINF:-1 ,Bangla TV
-http://103.205.133.14/hls/banglatv.m3u8
+
 #EXTINF:-1 ,Bangla TV
 http://103.205.133.19/hls/banglatv.m3u8
+
 #EXTINF:-1 ,Boishakhi
-https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 ,Boishakhi
-https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 ,BTV World
-https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,BTV World
-https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 ,BTV World
-http://103.205.133.14/hls/btvworld.m3u8
+http://103.205.133.19/hls/boishakhi.m3u8
+
 #EXTINF:-1 ,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
-#EXTINF:-1 ,BTV
-http://103.205.133.14/hls/btv.m3u8
+
 #EXTINF:-1 ,BTV
 http://103.205.133.19/hls/btv.m3u8
-#EXTINF:-1 ,BTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
+
 #EXTINF:-1 ,Channel 9
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 ,Channel 9
-http://iptv.kitv.live:1935/live/Shari/MTV-P/111.m3u8
-#EXTINF:-1 ,CHANNEL 24
-https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,CHANNEL 24
-https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 ,Channel 24
-http://103.205.133.14/hls/channel24.m3u8
+http://103.205.133.19/hls/channel9.m3u8
+
 #EXTINF:-1 ,Channel 24
 http://103.205.133.19/hls/channel24.m3u8
+
 #EXTINF:-1 ,Channel I
-https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,Channel I
-https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 ,Channel I
-http://iptv.kitv.live:1935/live/Shari/MTV-P/108.m3u8
+http://103.205.133.19/hls/channeli.m3u8
 #EXTINF:-1 ,DBC News
 https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1 ,DBC News
