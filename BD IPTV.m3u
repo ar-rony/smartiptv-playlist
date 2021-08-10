@@ -10,7 +10,7 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Gazi TV HD
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://jupiter.bdcabletv.com/GTVHD/video.m3u8
 
 #EXTINF:-1, Anando Tv
 https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
