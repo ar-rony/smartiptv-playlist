@@ -281,3 +281,22 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=" group-title="INDIA", And FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="INDIA", AND PICTURES HD 
+#http://185.71.64.167/307202106505/307202106505/83687
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://195.154.221.171/picons/zeeaction.png" group-title="INDIA", Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://zeebanglacinema.com/wp-content/uploads/2017/01/Zee-Bangla-Cinema-orange-logo.png" group-title="INDIA", Zee Bangala Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="INDIA", Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
