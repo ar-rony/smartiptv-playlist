@@ -10,14 +10,14 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://173.199.120.51/hls/tsports.m3u8
 #http://103.81.104.118/hls/t-sports.m3u8
 
-#EXTINF:-1,WILLOW CRICKET HD
-http://miarea.vip:8080/nena/nena/70001?checkedby:iptvcat.com
+#EXTINF:-1, SKY SPORTS CRICKET
+https://39.pkcast123.me:999/hls/QWDT0Yk14A20210415.m3u8
 
 #EXTINF:-1, PTV Sports
 https://39.pkcast123.me:999/hls/29Bi4bkZ1J20190929.m3u8
 #http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Sony Six HD
+#EXTINF:-1, TEN 6 HD
 http://173.199.120.51/hls/sonysix.m3u8
 #http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
