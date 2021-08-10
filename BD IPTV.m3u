@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, T_Sports HD
-https://sp.bdiptv.pw:2096/Sp0rts/tsports/chunks.m3u8
+#EXTINF:-1, T Sports HD
+http://103.81.104.118/hls/t-sports.m3u8
 
 #EXTINF:-1, PTV Sports
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
