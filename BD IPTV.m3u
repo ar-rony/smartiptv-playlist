@@ -7,7 +7,7 @@ http://103.81.104.118/hls/t-sports.m3u8
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sony Six HD
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+http://173.199.120.51/hls/sonysix.m3u8
 
 #EXTINF:-1, Gazi TV HD
 http://jupiter.bdcabletv.com/GTVHD/video.m3u8
