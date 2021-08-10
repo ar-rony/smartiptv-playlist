@@ -14,7 +14,8 @@ http://173.199.120.51/hls/tsports.m3u8
 http://miarea.vip:8080/nena/nena/70001?checkedby:iptvcat.com
 
 #EXTINF:-1, PTV Sports
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+https://39.pkcast123.me:999/hls/29Bi4bkZ1J20190929.m3u8
+#http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Sony Six HD
 http://173.199.120.51/hls/sonysix.m3u8
