@@ -282,7 +282,7 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
 #EXTINF:-1, DHOOM MUSIC
-http://103.205.133.21/hls/dhoommusic.m3u8
+http://103.205.133.19/hls/dhoommusic.m3u8
 
 #EXTINF:-1, Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
