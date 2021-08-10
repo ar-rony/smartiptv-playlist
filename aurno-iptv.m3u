@@ -35,6 +35,15 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 #EXTINF:-1, EDGE SPORTS
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
+#EXTINF:-1, TEN 1
+http://173.199.120.51/hls/ten1.m3u8
+
+#EXTINF:-1, TEN 2
+http://173.199.120.51/hls/ten2.m3u8
+
+#EXTINF:-1, TEN 3
+http://173.199.120.51/hls/ten3.m3u8
+
 #EXTINF:-1, Anando Tv
 https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
 
