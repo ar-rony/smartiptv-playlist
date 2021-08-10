@@ -300,3 +300,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.rapidtvnews.com/images/2018/08/Zee_bollywood_21AUg2018.jpg" group-title="INDIA", Zee Bollywood
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 #http://z5amshls.akamaized.net/classic/tracks-v2a1/playlist.m3u8
+
+#EXTINF:-1,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:0,Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
