@@ -1,0 +1,283 @@
+#EXTM3U
+
+#EXTINF:-1, T Sports HD
+http://103.81.104.118/hls/t-sports.m3u8
+
+#EXTINF:-1, PTV Sports
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sony Six HD
+http://173.199.120.51/hls/sonysix.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+#EXTINF:-1, Gazi TV HD
+http://jupiter.bdcabletv.com/GTVHD/video.m3u8
+
+#EXTINF:-1, Anando Tv
+https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 ,ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1 ,ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1 ,Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1 ,Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1 ,Boishakhi
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 ,BTV World
+http://103.205.133.19/hls/btvworld.m3u8
+
+#EXTINF:-1 ,Bijoy TV
+https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 ,Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 ,Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+
+#EXTINF:-1 ,Channel I
+https://iptvbd.jagobd.com:444/iptv/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 ,DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+
+#EXTINF:-1 ,Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+
+#EXTINF:-1 ,Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
+
+#EXTINF:-1 ,Duronto TV
+http://103.205.133.20/hls/duranta.m3u8
+
+#EXTINF:-1 ,Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1 ,Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
+
+#EXTINF:-1 ,Independent
+http://103.205.133.19/hls/independent.m3u8
+
+#EXTINF:-1 ,JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+
+#EXTINF:-1 ,MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+
+#EXTINF:-1 ,MY TV
+http://103.205.133.19/hls/mytv.m3u8
+
+#EXTINF:-1 ,Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
+#EXTINF:-1 ,News 24
+http://103.205.133.19/hls/news24.m3u8
+
+#EXTINF:-1 ,NTV
+http://103.205.133.19/hls/ntv.m3u8
+
+#EXTINF:-1 ,RTV
+http://103.205.133.19/hls/rtv.m3u8
+
+#EXTINF:-1 ,SATV
+http://103.205.133.19/hls/satv.m3u8
+
+#EXTINF:-1 ,Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+
+#EXTINF:-1, Peace TV Bangla
+http://173.199.120.51/hls/peacetv.m3u8
+
+#EXTINF:-1, Masranga TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
+#EXTINF:-1, Royal IPTV
+http://iptvbd.jagobd.com:1931/boishakhi/royaltv.stream/chunks.m3u8
+
+#EXTINF:-1, SWAPNO IPTV
+https://iptv9.raytahost.com/live/shwapno/index.m3u8
+
+#EXTINF:-1 ,Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+
+#EXTINF:-1 ,Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1, Enter 10 Bangla
+https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+
+#EXTINF:-1, Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 ,ZEE TV SD
+http://103.205.133.19/hls/zeetv.m3u8
+
+#EXTINF:-1, Star Movies HD
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DISCOVERY CHANNEL
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC ARABIC
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, ANIMAL PLANET HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8#EXTM3U
+
+#EXTINF:-1, T Sports HD
+http://103.81.104.118/hls/t-sports.m3u8
+
+#EXTINF:-1, PTV Sports
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, Sony Six HD
+http://173.199.120.51/hls/sonysix.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+#EXTINF:-1, Gazi TV HD
+http://jupiter.bdcabletv.com/GTVHD/video.m3u8
+
+#EXTINF:-1, Anando Tv
+https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 ,ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1 ,ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1 ,Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1 ,Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1 ,Boishakhi
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 ,BTV World
+http://103.205.133.19/hls/btvworld.m3u8
+
+#EXTINF:-1 ,Bijoy TV
+https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 ,Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+
+#EXTINF:-1 ,Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+
+#EXTINF:-1 ,Channel I
+https://iptvbd.jagobd.com:444/iptv/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 ,DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+
+#EXTINF:-1 ,Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+
+#EXTINF:-1 ,Desh TV
+http://103.205.133.19/hls/deshtv.m3u8
+
+#EXTINF:-1 ,Duronto TV
+http://103.205.133.20/hls/duranta.m3u8
+
+#EXTINF:-1 ,Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1 ,Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
+
+#EXTINF:-1 ,Independent
+http://103.205.133.19/hls/independent.m3u8
+
+#EXTINF:-1 ,JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+
+#EXTINF:-1 ,MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+
+#EXTINF:-1 ,MY TV
+http://103.205.133.19/hls/mytv.m3u8
+
+#EXTINF:-1 ,Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
+#EXTINF:-1 ,News 24
+http://103.205.133.19/hls/news24.m3u8
+
+#EXTINF:-1 ,NTV
+http://103.205.133.19/hls/ntv.m3u8
+
+#EXTINF:-1 ,RTV
+http://103.205.133.19/hls/rtv.m3u8
+
+#EXTINF:-1 ,SATV
+http://103.205.133.19/hls/satv.m3u8
+
+#EXTINF:-1 ,Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+
+#EXTINF:-1, Peace TV Bangla
+http://173.199.120.51/hls/peacetv.m3u8
+
+#EXTINF:-1, Masranga TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
+#EXTINF:-1, Royal IPTV
+http://iptvbd.jagobd.com:1931/boishakhi/royaltv.stream/chunks.m3u8
+
+#EXTINF:-1, SWAPNO IPTV
+https://iptv9.raytahost.com/live/shwapno/index.m3u8
+
+#EXTINF:-1 ,Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+
+#EXTINF:-1 ,Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1, Enter 10 Bangla
+https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+
+#EXTINF:-1, Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 ,ZEE TV SD
+http://103.205.133.19/hls/zeetv.m3u8
+
+#EXTINF:-1, Star Movies HD
+http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, DISCOVERY CHANNEL
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC ARABIC
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, ANIMAL PLANET HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
