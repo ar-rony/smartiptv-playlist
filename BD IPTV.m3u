@@ -12,6 +12,12 @@ http://173.199.120.51/hls/sonysix.m3u8
 #EXTINF:-1, BEIN SPORTS 1 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
+#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
 #EXTINF:-1, Gazi TV HD
 http://jupiter.bdcabletv.com/GTVHD/video.m3u8
 
