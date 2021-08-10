@@ -7,7 +7,8 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1, T Sports HD
-http://173.199.120.51/hls/tsports.m3u8
+https://sp.bdiptv.pw:2096/Sp0rts/tsports/chunks.m3u8
+#http://173.199.120.51/hls/tsports.m3u8
 #http://103.81.104.118/hls/t-sports.m3u8
 
 #EXTINF:-1, TEN SPORTS
