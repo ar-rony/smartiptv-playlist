@@ -19,6 +19,9 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 http://173.199.120.51/hls/sonysix.m3u8
 #http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORTS EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
 #EXTINF:-1, BEIN SPORTS 1 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
@@ -98,7 +101,8 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 ,Independent
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 ,JAMUNA TV
 http://103.205.133.19/hls/jamunatv.m3u8
@@ -187,6 +191,12 @@ https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 
 #EXTINF:-1, NATIONAL GEOGRAPHIC ARABIC
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, AL JAZEERA HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1, RT NEWS ENGLISH
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
