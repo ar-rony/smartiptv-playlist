@@ -48,6 +48,9 @@ http://173.199.120.51/hls/ten3.m3u8
 #EXTINF:-1, Anando Tv
 https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
 
+#EXTINF:-1, ASIAN Tv
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
+
 #EXTINF:-1 ,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
 
@@ -106,6 +109,7 @@ http://103.205.133.19/hls/ekatoortv.m3u8
 
 #EXTINF:-1, GAZI TV HD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 ,Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
