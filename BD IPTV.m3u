@@ -28,7 +28,7 @@ http://103.205.133.19/hls/banglavision.m3u8
 http://103.205.133.19/hls/banglatv.m3u8
 
 #EXTINF:-1 ,Boishakhi
-http://103.205.133.19/hls/boishakhitv.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 
 #EXTINF:-1 ,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
