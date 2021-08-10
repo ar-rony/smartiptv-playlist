@@ -170,7 +170,7 @@ http://103.205.133.21/hls/rtv.m3u8
 #EXTINF:-1,28.Sangsad TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #EXTINF:-1,29.SATV
-http://103.205.133.21/hls/satv.m3u8
+http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1,30.Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1,31.Agami TV
@@ -196,7 +196,7 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,55.DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1,55.Ruposhi Bangla
-http://103.205.133.21/hls/ruposhibangla.m3u8
+http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1,56.Enter 10 Bangla
 http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1,58.ABP Ananda
@@ -284,7 +284,7 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8?token=soheliptv018266557
 #EXTINF:-1,103.Zee Cafe HD
 http://cv.khushitv.xyz/channels.php?c=zeecafehd&e=.m3u8?token=soheliptv01826655778
 #EXTINF:-1,104.Sony Aath
-http://103.205.133.21/hls/sony8.m3u8
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1,105.Sony Max 2
 http://208.115.215.42:80/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,105.Sony Max 2
@@ -300,7 +300,7 @@ http://cv.khushitv.xyz/channels.php?c=andprivehd&e=.m3u8?token=soheliptv01826655
 #EXTINF:-1,110.& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1,112.Star Jalsha
-http://103.205.133.21/hls/chsj.m3u8
+http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1,117.Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1,118.Manoranjan Movies
@@ -358,11 +358,11 @@ http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:-1,154.Sony Ten 3
 http://103.205.133.21/hls/ten3.m3u8
 #EXTINF:-1,154.Sony Six HD
-http://103.205.133.21/hls/sonysix.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1,154.Sony Six HD
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,155.Star Sports 1
-http://103.205.133.21/hls/chss1.m3u8
+http://103.205.133.19/hls/chss1.m3u8
 #EXTINF:-1,162.FC Bayern TV Live
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?token=soheliptv01826655778
 #EXTINF:-1,165.Abu Dhabi Sports 1
@@ -372,53 +372,53 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1,171.Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1,ATN Bangla
-http://103.205.133.21/hls/atnbangla.m3u8
+http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1,ATN News
-http://103.205.133.21/hls/atnnews.m3u8
+http://103.205.133.19/hls/atnnews.m3u8
 #EXTINF:-1,Banglavision
-http://103.205.133.21/hls/banglavision.m3u8
+http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1,Bangla TV
-http://103.205.133.21/hls/banglatv.m3u8
+http://103.205.133.19/hls/banglatv.m3u8
 #EXTINF:-1,Boishakhi
-http://103.205.133.21/hls/boisakhi.m3u8
+http://103.205.133.19/hls/boisakhi.m3u8
 #EXTINF:-1,BTV World
-http://103.205.133.21/hls/btvworld.m3u8
+http://103.205.133.19/hls/btvworld.m3u8
 #EXTINF:-1,Channel I
-http://103.205.133.21/hls/ichannel.m3u8
-#EXTINF:-1,Channel 9
-http://103.205.133.21/hls/ninechannel.m3u8
+http://103.205.133.19/hls/ichannel.m3u8
+#EXTINF:-1, Channel 9
+http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1,CHANNEL 24
 http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:-1,DBC News*
 http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF:-1,Deepto TV
-http://103.205.133.21/hls/deeptotv.m3u8
+http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1,Desh TV
-http://103.205.133.21/hls/deshtv.m3u8
+http://103.205.133.19/hls/deshtv.m3u8
 #EXTINF:-1,Ekushey TV
-http://103.205.133.21/hls/ekushey.m3u8
+http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1,Gaan Bangla HD
-http://103.205.133.21/hls/gaanbangla.m3u8
+http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1,Jamuna TV
-http://103.205.133.21/hls/jamunatv.m3u8
+http://103.205.133.19/hls/jamunatv.m3u8
 #EXTINF:-1,Mohona TV
-http://103.205.133.21/hls/mohonatv.m3u8
+http://103.205.133.19/hls/mohonatv.m3u8
 #EXTINF:-1,My TV HD
 http://103.205.133.21/hls/mytv.m3u8
 #EXTINF:-1,News 24
-http://103.205.133.21/hls/news24.m3u8
+http://103.205.133.19/hls/news24.m3u8
 #EXTINF:-1,Somoy TV
-http://103.205.133.21/hls/somoy.m3u8
+http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1,Dhoom Music
-http://103.205.133.21/hls/dhoommusic.m3u8
+http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.205.133.21/hls/sangeetbangla.m3u8
+http://103.205.133.19/hls/sangeetbangla.m3u8
 #EXTINF:-1,And Picture
-http://103.205.133.21/hls/andpicture.m3u8
+http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1,And TV
-http://103.205.133.21/hls/andtv.m3u8
+http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,Star Plus
-http://103.205.133.21/hls/chsp.m3u8
+http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1,Star Sports Select 2 HD
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:-1,VIP Star sports HD1
