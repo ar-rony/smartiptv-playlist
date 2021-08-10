@@ -39,6 +39,9 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 #EXTINF:-1, EDGE SPORTS
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
+#EXTINF:-1, GEO SUPER SPORTS
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+
 #EXTINF:-1, TEN 1
 http://173.199.120.51/hls/ten1.m3u8
 
@@ -90,6 +93,9 @@ http://103.205.133.19/hls/channel24.m3u8
 http://103.205.133.19/hls/ichannel.m3u8
 #https://iptvbd.jagobd.com:444/iptv/channeli-8-org.stream/chunks.m3u8
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1, CHANNEL S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 ,DBC News
 http://103.205.133.19/hls/dbcnews.m3u8
@@ -223,7 +229,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1, AND FLIX
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, AND TV
 http://103.205.133.19/hls/andtv.m3u8
