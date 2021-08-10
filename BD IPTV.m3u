@@ -126,6 +126,15 @@ http://103.205.133.19/hls/zeetv.m3u8
 #EXTINF:-1, Star Movies HD
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, DISCOVERY CHANNEL
+https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+
+#EXTINF:-1, NATIONAL GEOGRAPHIC ARABIC
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, ANIMAL PLANET HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+
 #EXTINF:-1 ,Star Gold SD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/141.m3u8
 #EXTINF:-1 ,Star Gold International
