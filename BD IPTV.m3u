@@ -96,9 +96,6 @@ http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 ,Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
 
-#EXTINF:-1, Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-
 #EXTINF:-1, Peace TV Bangla
 http://173.199.120.51/hls/peacetv.m3u8
 
