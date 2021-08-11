@@ -9,6 +9,16 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1, AD SPORTS 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
+
+#EXTINF:-1, BT SPORTS 1 HD
+http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+
+#EXTINF:-1, BT SPORTS 2 HD
+http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+
+#EXTINF:-1, BT SPORTS 3 HD
+http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
+
 #EXTINF:-1, DUBAI SPORTS 1 HD
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
