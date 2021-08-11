@@ -359,18 +359,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1, ZEE BOLLYWOOD
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 
-
 #EXTINF:-1, ZEE CINEMA BANGLA
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, ZEE CINEMA ME
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
-
-#EXTINF:-1, ZEE CINEMA UK
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
-
-#EXTINF:-1, ZEE CINEMA USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 
 #EXTINF:-1, SONY BBC EARTH
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
