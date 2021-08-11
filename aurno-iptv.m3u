@@ -6,12 +6,34 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1, AD SPORTS 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
+#EXTINF:-1, AD SPORTS 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1, DUBAI SPORTS 1 HD
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1, MBC SPORT 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+
+#EXTINF:-1, AZAM SPORTS 1 HD 
+https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
+
 #EXTINF:-1, SKY SPORTS CRICKET
-https://39.pkcast123.me:999/hls/QWDT0Yk14A20210415.m3u8
+http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
+
+#EXTINF:-1, SKY SPORTS FOOTBALL
+http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1, ELEVEN SPORTS HD
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1, ESPN HD
+http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
 #http://173.199.120.51/hls/tsports.m3u8
-http://103.81.104.118/hls/t-sports.m3u8
+#http://103.81.104.118/hls/t-sports.m3u8
+https://tv.telelivebd.com/live/tsports/chunks.m3u8
 
 #EXTINF:-1, TEN SPORTS
 https://58.pkcast123.me:999/hls/BI2drTR2fM20190929.m3u8
@@ -24,6 +46,9 @@ https://39.pkcast123.me:999/hls/29Bi4bkZ1J20190929.m3u8
 http://173.199.120.51/hls/sonysix.m3u8
 #http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, BEIN SPORTS USA
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+
 #EXTINF:-1, BEIN SPORTS EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 
@@ -32,12 +57,16 @@ http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 2 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 
 #EXTINF:-1, EDGE SPORTS
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:-1, FOX SPORTS HD
+http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
 
 #EXTINF:-1, GEO SUPER SPORTS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
@@ -50,6 +79,9 @@ http://173.199.120.51/hls/ten2.m3u8
 
 #EXTINF:-1, TEN 3
 http://173.199.120.51/hls/ten3.m3u8
+
+#EXTINF:-1, TSN SPORTS 1
+http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 
 #EXTINF:-1, Anando Tv
 https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
@@ -185,6 +217,15 @@ http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:-1, MOVIE BANGLA
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
+#EXTINF:-1, PTV WORLD
+https://live.ptv.com.pk/live/ptvworld/playlist.m3u8
+
+#EXTINF:-1, SOUDI TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+
+#EXTINF:-1, O TV ASSAM
+https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
+
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 
@@ -217,7 +258,8 @@ https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1, AL JAZEERA HD
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
+#https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1, RT NEWS ENGLISH
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
@@ -225,8 +267,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1, CNN INTERNATIONAL
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-1, ABU DHABI DRAMA
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 
 #EXTINF:-1, AND FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
@@ -258,13 +306,18 @@ http://103.205.133.19/hls/b4umovies.m3u8
 
 #EXTINF:-1, B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 
 #EXTINF:-1, WOW CINEMA
 http://103.205.133.19/hls/wowcinema.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
 #EXTINF:-1, CINEMAX HD
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
+#https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1, AXN
+http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1,Star Plus
 http://103.205.133.19/hls/chsp.m3u8
@@ -274,6 +327,9 @@ http://103.205.133.19/hls/chs.m3u8
 
 #EXTINF:-1, SONY WAH
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+
+#EXTINF:-1, SONY MAX HD
+http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , Masti Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
@@ -305,3 +361,21 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
 
 #EXTINF:-1, ZEE CINEMA USA
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+
+#EXTINF:-1, SONY BBC EARTH
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
+#EXTINF:-1, MBC IRAQ HD
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1, NICK FRENCH
+http://balancer1.iptvmx.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+
+#EXTINF:-1, CAFE 24
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+
+#EXTINF:-1, WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2082475278_b1500000_slen.m3u8?WebM3UCL
+
+#EXTINF:-1, FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
