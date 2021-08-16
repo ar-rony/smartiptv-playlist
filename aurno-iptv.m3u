@@ -22,9 +22,6 @@ http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 #EXTINF:-1, DUBAI SPORTS 1 HD
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 
-#EXTINF:-1, MBC SPORT 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
-
 #EXTINF:-1, AZAM SPORTS 1 HD 
 https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
 
@@ -285,6 +282,9 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1, ABU DHABI DRAMA
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+
+#EXTINF:-1, MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 
 #EXTINF:-1, AND FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
