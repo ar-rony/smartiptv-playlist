@@ -102,6 +102,9 @@ http://103.205.133.19/hls/atnbangla.m3u8
 #EXTINF:-1 ,ATN News
 http://103.205.133.19/hls/atnnews.m3u8
 
+#EXTINF:-1, BTV
+http://103.106.2.149:13456/btv.m3u8
+
 #EXTINF:-1 ,Banglavision
 http://103.205.133.19/hls/banglavision.m3u8
 
@@ -261,8 +264,8 @@ http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 
-#EXTINF:-1, NATIONAL GEOGRAPHIC ARABIC
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, NATIONAL GEOGRAPHIC BANGLA
+http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 
 #EXTINF:-1, AL JAZEERA HD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
@@ -283,8 +286,25 @@ https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1, ABU DHABI DRAMA
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
 
-#EXTINF:-1, MBC 2 HD
+#EXTINF:-1, MBC
+
+#EXTINF:-1, MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+
+#EXTINF:-1, MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
+
+#EXTINF:-1, MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1, MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8
+
+#EXTINF:-1, MBC ACTION FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?Live-TVâ„¢
+
+#EXTINF:-1, MBC BOLLYWOOD FHD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 #EXTINF:-1, AND FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
@@ -329,6 +349,9 @@ http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1, AXN
 http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
 
+#EXTINF:-1, HBO
+http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
+
 #EXTINF:-1,Star Plus
 http://103.205.133.19/hls/chsp.m3u8
 
@@ -340,6 +363,9 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 #EXTINF:-1, SONY MAX HD
 http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, SONY MAX 2 HD
+http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , Masti Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
