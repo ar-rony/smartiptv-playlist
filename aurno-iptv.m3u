@@ -1,5 +1,5 @@
 #EXTM3U
-
+ vc
 #EXTINF:-1, AD SPORTS 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
@@ -106,11 +106,9 @@ http://103.205.133.19/hls/atnbangla.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 http://103.205.133.19/hls/atnnews.m3u8
 
-#EXTINF:-1, BTV
-http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-1, BTV[ttp://103.106.2.149:13456btv.m3u8
 
 #EXTINF:-1 ,Banglavision
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 http://103.205.133.19/hls/banglavision.m3u8
 
 #EXTINF:-1 ,Bangla TV
