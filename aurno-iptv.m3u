@@ -1,13 +1,4 @@
 #EXTM3U
- vc
-#EXTINF:-1, AD SPORTS 1 HD
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1, AD SPORTS 2 HD
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-
-#EXTINF:-1, AD SPORTS 3 HD
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
 
 #EXTINF:-1, BT SPORTS 1 HD
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
@@ -18,9 +9,6 @@ http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1, BT SPORTS 3 HD
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 
-#EXTINF:-1, DUBAI SPORTS 1 HD
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-
 #EXTINF:-1, AZAM SPORTS 1 HD 
 https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
 
@@ -30,29 +18,23 @@ http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 #EXTINF:-1, SKY SPORTS FOOTBALL
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 
-#EXTINF:-1, ELEVEN SPORTS HD
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1, ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 http://173.199.120.51/hls/tsports.m3u8
-#http://103.81.104.118/hls/t-sports.m3u8
-#https://tv.telelivebd.com/live/tsports/chunks.m3u8
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TEN SPORTS
 https://58.pkcast123.me:999/hls/BI2drTR2fM20190929.m3u8
 
 #EXTINF:-1, PTV Sports
-https://39.pkcast123.me:999/hls/29Bi4bkZ1J20190929.m3u8
-#http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TEN 6 HD
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 http://173.199.120.51/hls/sonysix.m3u8
-#http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BEIN SPORTS USA
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
@@ -69,9 +51,6 @@ http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 3 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-
-#EXTINF:-1, EDGE SPORTS
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:-1, FOX SPORTS HD
 http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
@@ -106,7 +85,8 @@ http://103.205.133.19/hls/atnbangla.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 http://103.205.133.19/hls/atnnews.m3u8
 
-#EXTINF:-1, BTV[ttp://103.106.2.149:13456btv.m3u8
+#EXTINF:-1, BTV
+http://103.106.2.149:13456btv.m3u8
 
 #EXTINF:-1 ,Banglavision
 http://103.205.133.19/hls/banglavision.m3u8
@@ -118,10 +98,11 @@ http://103.205.133.19/hls/banglatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 
 #EXTINF:-1 ,Boishakhi
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8?
 http://103.205.133.19/hls/boisakhi.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+
 
 #EXTINF:-1 ,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
@@ -153,7 +134,7 @@ https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 ,Deepto TV
-https://tv.bdtv.xyz:2096/live/deeptotv/chunks.m3u8?nimblesessionid=2722494
+https://tv.bdtv.xyz:2096/live/deeptotv/chunks.m3u8
 http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTINF:-1 ,Desh TV
@@ -166,11 +147,11 @@ http://103.205.133.19/hls/duranta.m3u8
 http://103.205.133.19/hls/ekushey.m3u8
 
 #EXTINF:-1, Ekattor
-https://tv.bdtv.xyz:2096/live/ekattor/chunks.m3u8?nimblesessionid=2722408
+https://tv.bdtv.xyz:2096/live/ekattor/chunks.m3u8
 http://103.205.133.19/hls/ekatoortv.m3u8
 
 #EXTINF:-1, GAZI TV HD
-https://bdlivetv.xyz:2096/Sp0rts/gazitv/chunks.m3u8?nimblesessionid=277439&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDExOjE0OjM5IEFNJmhhc2hfdmFsdWU9Z1E3cUZYdFFmQWYvNS85blNyM0pVdz09JnZhbGlkbWludXRlcz01
+https://bdlivetv.xyz:2096/Sp0rts/gazitv/chunks.m3u8
 
 #EXTINF:-1 ,Gaan Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
@@ -390,7 +371,7 @@ http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 , Masti Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
 #EXTINF:-1,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
