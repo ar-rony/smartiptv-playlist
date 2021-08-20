@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, BT SPORTS 1 HD
+#EXTINF:-1, BT SPORTS 1 https://bdlivetv.xyz:2096/Sp0rts/LiveSports/chunks.m3u8
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
 #EXTINF:-1, BT SPORTS 2 HD
@@ -23,8 +23,8 @@ http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
 http://113.212.111.246:8080/hls/col2.m3u8
-http://173.199.120.51/hls/tsports.m3u8
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#http://173.199.120.51/hls/tsports.m3u8
+#http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TEN SPORTS
 https://58.pkcast123.me:999/hls/BI2drTR2fM20190929.m3u8
@@ -195,6 +195,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.19/hls/satv.m3u8
 
 #EXTINF:-1 ,Shomoy TV
+https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 http://103.205.133.19/hls/somoy.m3u8
 
