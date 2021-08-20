@@ -1,6 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1, BT SPORTS 1 https://bdlivetv.xyz:2096/Sp0rts/LiveSports/chunks.m3u8
+#EXTINF:-1, LIVE SPORTS
+https://bdlivetv.xyz:2096/Sp0rts/LiveSports/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS USA
+http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORTS EXTRA
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+
+#EXTINF:-1, BEIN SPORTS 7
+http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+
+#EXTINF:-1, BT SPORTS 1 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
 
 #EXTINF:-1, BT SPORTS 2 HD
@@ -17,6 +39,9 @@ http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS FOOTBALL
 http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
+
+#EXTINF:-1, SKY SPORTS MIX
+http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
 
 #EXTINF:-1, ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
@@ -36,27 +61,14 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 http://173.199.120.51/hls/sonysix.m3u8
 
-#EXTINF:-1, BEIN SPORTS USA
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS EXTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-
 #EXTINF:-1, FOX SPORTS HD
 http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
 
 #EXTINF:-1, GEO SUPER SPORTS
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+
+#EXTINF:-1, SPORT TV 5
+http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 
 #EXTINF:-1, TEN 1
 http://173.199.120.51/hls/ten1.m3u8
@@ -71,8 +83,7 @@ http://173.199.120.51/hls/ten3.m3u8
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 
 #EXTINF:-1, Anando Tv
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-https://iptvbd.jagobd.com:444/iptv/anandatv.stream/chunks.m3u8
+https://s1.bdtv.xyz:2096/token/anandatv/chunks.m3u8?nimblesessionid=1467134&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIxIDEwOjAyOjQxIEFNJmhhc2hfdmFsdWU9MHpkcmpieVMvTEJpOVhoMUpObGhrQT09JnZhbGlkbWludXRlcz01
 
 #EXTINF:-1, ASIAN TV
 https://s1.bdtv.xyz:2096/token/asian/chunks.m3u8?nimblesessionid=1445743&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDExOjE4OjIxIEFNJmhhc2hfdmFsdWU9S2hibDB4M3FzUVV3bmhCSTdHSGFDdz09JnZhbGlkbWludXRlcz01
@@ -288,8 +299,8 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:-1, ABU DHABI DRAMA
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1, STAR CLASSIC TWO
+http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
 
 #EXTINF:-1, MBC
 
@@ -314,6 +325,9 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1, AND FLIX
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
 #https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, AND PRIVATE HD
+https://list.iptvcat.com/my_list/s/577fa1d6d5cba1fe15588484147ad0a6.m3u8
 
 #EXTINF:-1, AND TV
 http://103.205.133.19/hls/andtv.m3u8
@@ -340,8 +354,11 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 http://103.205.133.19/hls/b4umovies.m3u8
 
 #EXTINF:-1, B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+
+#EXTINF:-1, STAR GOLD 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 
 #EXTINF:-1, WOW CINEMA
 http://103.205.133.19/hls/wowcinema.m3u8
