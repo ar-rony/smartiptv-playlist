@@ -48,7 +48,7 @@ http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
 http://tv.aliflailabd.com:8989/tsports/index.m3u8
-http://173.199.120.51/hls/tsports.m3u8
+#http://173.199.120.51/hls/tsports.m3u8
 #http://113.212.111.246:8080/hls/col2.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
@@ -89,24 +89,21 @@ http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1, ASIAN TV
-https://s1.bdtv.xyz:2096/token/asian/chunks.m3u8?nimblesessionid=1445743&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDExOjE4OjIxIEFNJmhhc2hfdmFsdWU9S2hibDB4M3FzUVV3bmhCSTdHSGFDdz09JnZhbGlkbWludXRlcz01
+https://s1.bdtv.xyz:2096/token/asian/chunks.m3u8
 
 #EXTINF:-1 ,ATN Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 http://103.205.133.19/hls/atnbangla.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 ,ATN News
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 http://103.205.133.19/hls/atnnews.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1 ,Banglavision
 http://103.205.133.19/hls/banglavision.m3u8
 
 #EXTINF:-1 ,Bangla TV
 http://103.205.133.19/hls/banglatv.m3u8
-
-#EXTINF:-1, BANGLA 21 TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 
 #EXTINF:-1 ,Boishakhi
 http://103.205.133.19/hls/boisakhi.m3u8
