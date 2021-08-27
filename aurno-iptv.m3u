@@ -117,7 +117,7 @@ http://103.205.133.19/hls/btvworld.m3u8
 
 #EXTINF:-1 ,Bijoy TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
+#https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 ,Channel 9
 #http://103.205.133.19/hls/ninechannel.m3u8
@@ -356,7 +356,9 @@ http://103.205.133.19/hls/wowcinema.m3u8
 
 #EXTINF:-1, CINEMAX HD
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
-#https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:-1, Stirr
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
 #EXTINF:-1, AXN
 http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
@@ -375,7 +377,7 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 #EXTINF:-1, SONY MAX HD
 http://tv.aliflailabd.com:8989/setmax/index.m3u8
-http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SONY MAX 2 HD
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
