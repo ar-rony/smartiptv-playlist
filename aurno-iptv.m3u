@@ -241,7 +241,7 @@ https://live.bongobd.com/hls/xL5ezSvLDzu0bytIxYayPA/1630091867/zee_bangla_hi/ind
 
 #EXTINF:-1, STAR JALSHA HD
 http://103.205.133.19/hls/chsj.m3u8
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, JALSHA MOVIES HD
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
