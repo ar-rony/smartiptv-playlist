@@ -239,6 +239,9 @@ http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
 #EXTINF:-1, ZEE BANGLA
 https://live.bongobd.com/hls/xL5ezSvLDzu0bytIxYayPA/1630091867/zee_bangla_hi/index.m3u8
 
+#EXTINF:-1, ZEE 24 GHANTA
+https://z5ams.akamaized.net/24ghanta/tracks-v1a1/hdntl=exp=1630391922~acl=%2f*~data=hdntl~hmac=185754ca8e0d77004a50becde45d7f28f5b1a9684047eace5a65db2a2c428d6c/mono.m3u8
+
 #EXTINF:-1, STAR JALSHA HD
 http://103.205.133.19/hls/chsj.m3u8
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
