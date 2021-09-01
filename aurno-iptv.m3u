@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1, LIVE SPORTS
-https://bdlivetv.xyz:2096/Sp0rts/LiveSports/chunks.m3u8
+http://173.199.120.51/hls/tsports.m3u8
 
 #EXTINF:-1, BEIN SPORTS USA
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
@@ -47,8 +47,8 @@ http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
-http://tv.aliflailabd.com:8989/tsports/index.m3u8
-#http://173.199.120.51/hls/tsports.m3u8
+#http://tv.aliflailabd.com:8989/tsports/index.m3u8
+http://173.199.120.51/hls/tsports.m3u8
 #http://113.212.111.246:8080/hls/col2.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
