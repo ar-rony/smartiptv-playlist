@@ -35,9 +35,6 @@ http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
 #EXTINF:-1, BT SPORTS 3 HD
 http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
 
-#EXTINF:-1, AZAM SPORTS 1 HD 
-https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
-
 #EXTINF:-1, SKY SPORTS CRICKET
 http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
 
@@ -51,8 +48,9 @@ http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
+http://bciptv.net:8082/tsports/tracks-v1a1/mono.m3u8?token=1a76319c7f3a276f325d453b7808f358fac54bd3-9911dea0d4a6c8441437c159c4165406-1631982660-1631971860
 #http://tv.aliflailabd.com:8989/tsports/index.m3u8
-http://173.199.120.51/hls/tsports.m3u8
+#http://173.199.120.51/hls/tsports.m3u8
 #http://113.212.111.246:8080/hls/col2.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
@@ -82,9 +80,9 @@ http://173.199.120.51/hls/ten2.m3u8
 http://173.199.120.51/hls/ten3.m3u8
 
 #EXTINF:-1, TEN 6 HD
-https://live.bongobd.com/hls/5IyRSmWOlLDuPMMh-zediQ/1630091446/sony_six_hi/index.m3u8
+#https://live.bongobd.com/hls/5IyRSmWOlLDuPMMh-zediQ/1630091446/sony_six_hi/index.m3u8
 #http://173.199.120.51/hls/sonysix.m3u8
-#http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, TSN SPORTS 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
@@ -386,8 +384,8 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://tv.aliflailabd.com:8989/setmax/index.m3u8
 #http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SONY MAX 2 HD
-http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY PIX
+http://bdiptv.net:8080/SonyPix/tracks-v1a1/mono.m3u8?token=db465f8ed246d192ca2ea33607a547c22fb131dd-4717b253b07908e9dc7ed395381cb7a0-1631981793-163197099\-'
 
 #EXTINF:-1 , Masti Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
