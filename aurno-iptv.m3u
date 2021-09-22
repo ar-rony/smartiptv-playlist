@@ -245,8 +245,8 @@ https://live.bongobd.com/hls/xL5ezSvLDzu0bytIxYayPA/1630091867/zee_bangla_hi/ind
 https://z5ams.akamaized.net/24ghanta/tracks-v1a1/hdntl=exp=1630391922~acl=%2f*~data=hdntl~hmac=185754ca8e0d77004a50becde45d7f28f5b1a9684047eace5a65db2a2c428d6c/mono.m3u8
 
 #EXTINF:-1, STAR JALSHA HD
-#http://103.205.133.19/hls/chsj.m3u8
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+http://103.205.133.19/hls/chsj.m3u8
+#https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, JALSHA MOVIES HD
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
@@ -318,8 +318,8 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 #EXTINF:-1, AND FLIX
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
-#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, AND PRIVATE HD
 https://list.iptvcat.com/my_list/s/577fa1d6d5cba1fe15588484147ad0a6.m3u8
@@ -381,8 +381,8 @@ http://103.205.133.19/hls/chs.m3u8
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 #EXTINF:-1, SONY MAX HD
-http://tv.aliflailabd.com:8989/setmax/index.m3u8
-#http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#http://tv.aliflailabd.com:8989/setmax/index.m3u8
+http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SONY PIX
 http://bdiptv.net:8080/SonyPix/tracks-v1a1/mono.m3u8?token=db465f8ed246d192ca2ea33607a547c22fb131dd-4717b253b07908e9dc7ed395381cb7a0-1631981793-163197099\-'
