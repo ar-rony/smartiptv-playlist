@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, DISCOVERY BANGLA HD
-http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, LIVE SPORTS
-http://bciptv.net:8082/tsports/tracks-v1a1/mono.m3u8
-#http://173.199.120.51/hls/tsports.m3u8
-
 #EXTINF:-1, BEIN SPORTS USA
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
@@ -48,9 +41,8 @@ http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 
 #EXTINF:-1, T Sports HD
-http://bciptv.net:8082/tsports/tracks-v1a1/mono.m3u8?token=1a76319c7f3a276f325d453b7808f358fac54bd3-9911dea0d4a6c8441437c159c4165406-1631982660-1631971860
+http://173.199.120.51/hls/chts.m3u8
 #http://tv.aliflailabd.com:8989/tsports/index.m3u8
-#http://173.199.120.51/hls/tsports.m3u8
 #http://113.212.111.246:8080/hls/col2.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
@@ -276,6 +268,9 @@ http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 
+#EXTINF:-1, DISCOVERY BANGLA HD
+http://89.187.182.181:9090/SS_BD_DISCOVERY/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, NATIONAL GEOGRAPHIC BANGLA
 http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 
@@ -283,9 +278,6 @@ http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1, RT NEWS ENGLISH
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtnews.stream/chunks.m3u8
 
 #EXTINF:-1, CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -295,9 +287,6 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
-
-#EXTINF:-1, STAR CLASSIC TWO
-http://23.237.132.90:8081/PREMIUM/STAR_CLASIC_TWO/playlist.m3u8
 
 #EXTINF:-1, MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
@@ -362,9 +351,6 @@ http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:-1, CINEMAX HD
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
 
-#EXTINF:-1, Stirr
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-
 #EXTINF:-1, AXN
 http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
 
@@ -398,21 +384,6 @@ http://103.205.133.19/hls/dhoommusic.m3u8
 
 #EXTINF:-1, Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-
-#EXTINF:-1, ZING
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1, ZEE BOLLYWOOD
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-
-#EXTINF:-1, ZEE BANGLA CINEMA
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, ZEE CINEMA HD
-https://live.bongobd.com/hls/TQWWAZcguV91LsVJa8sRPg/1630091664/zee_cinema_hi/index.m3u8
-
-#EXTINF:-1, ZEE CINEMA USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
 
 #EXTINF:-1, SONY BBC EARTH
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
