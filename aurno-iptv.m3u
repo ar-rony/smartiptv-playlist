@@ -83,7 +83,8 @@ http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:-1, ASIAN TV
-https://s1.bdtv.xyz:2096/token/asian/chunks.m3u8
+http://indo51.gcdn.co/BANGLA-BD-ASIANTV/tracks-v1a1/mono.m3u8
+#https://s1.bdtv.xyz:2096/token/asian/chunks.m3u8
 
 #EXTINF:-1 ,ATN Bangla
 http://103.205.133.19/hls/atnbangla.m3u8
@@ -101,9 +102,6 @@ http://103.205.133.19/hls/banglatv.m3u8
 
 #EXTINF:-1 ,Boishakhi
 http://103.205.133.19/hls/boisakhi.m3u8
-
-#EXTINF:-1 , BONGO MOVIES
-https://live.bongobd.com/hls/eyhgq-BKqCrljGCEmd0IQw/1630091224/bongo_movies_hi/index.m3u8
 
 #EXTINF:-1 ,BTV World
 http://103.205.133.19/hls/btvworld.m3u8
@@ -135,28 +133,27 @@ http://103.205.133.19/hls/dbcnews.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 ,Deepto TV
-https://tv.bdtv.xyz:2096/live/deeptotv/chunks.m3u8
-#http://103.205.133.19/hls/deeptotv.m3u8
+#https://tv.bdtv.xyz:2096/live/deeptotv/chunks.m3u8
+http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTINF:-1 ,Desh TV
 http://103.205.133.19/hls/deshtv.m3u8
 
-#EXTINF:-1,  DURANTA TV
-http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
+#EXTINF:-1,  DURONTO TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+#http://tv.aliflailabd.com:8989/duronto-tv/index.m3u8
 
 #EXTINF:-1 ,Ekushey TV
 http://103.205.133.19/hls/ekushey.m3u8
 
-#EXTINF:-1, Ekattor
-http://103.205.133.19/hls/ekatoortv.m3u8
-https://tv.bdtv.xyz:2096/live/ekattor/chunks.m3u8
 #EXTINF:-1 ,Gaan Bangla
 http://103.205.133.19/hls/gaanbangla.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1, GAZI TV
-http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
+http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+#http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1 ,Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -192,12 +189,11 @@ http://103.205.133.19/hls/rtv.m3u8
 
 #EXTINF:-1 ,SATV
 http://103.205.133.19/hls/satv.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 ,Shomoy TV
 http://103.205.133.19/hls/somoy.m3u8
 #https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
 #EXTINF:-1, Peace TV Bangla
@@ -212,9 +208,6 @@ http://str24.l9574.com/501.stream/index.m3u8
 #EXTINF:-1, Royal IPTV
 http://iptvbd.jagobd.com:1931/boishakhi/royaltv.stream/chunks.m3u8
 
-#EXTINF:-1, SWAPNO IPTV
-https://iptv9.raytahost.com/live/shwapno/index.m3u8
-
 #EXTINF:-1, MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
 
@@ -227,14 +220,8 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3
 #EXTINF:-1 ,Ruposhi Bangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
 
-#EXTINF:-1, ZEE BANGLA HD
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
-
 #EXTINF:-1, ZEE BANGLA
 https://live.bongobd.com/hls/xL5ezSvLDzu0bytIxYayPA/1630091867/zee_bangla_hi/index.m3u8
-
-#EXTINF:-1, ZEE 24 GHANTA
-https://z5ams.akamaized.net/24ghanta/tracks-v1a1/hdntl=exp=1630391922~acl=%2f*~data=hdntl~hmac=185754ca8e0d77004a50becde45d7f28f5b1a9684047eace5a65db2a2c428d6c/mono.m3u8
 
 #EXTINF:-1, STAR JALSHA HD
 http://103.205.133.19/hls/chsj.m3u8
@@ -258,9 +245,6 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1, Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1, BANGLA TALKIES
-https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 
 #EXTINF:-1, Star Movies HD
 http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
