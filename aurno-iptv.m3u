@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1, START SPORTS SELECT 2 HD
+http://jupiter.bdcabletv.com/select_2/video.m3u8
+
+#EXTINF:-1, SUPER SPORTS 2 HD
+https://list.iptvcat.com/my_list/s/bb5b48c09be06fe84e9bd0a567af14e2.m3u8
+
 #EXTINF:-1, BEIN SPORTS USA
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
@@ -47,14 +53,22 @@ http://173.199.120.51/hls/chts.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PTV Sports
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FOX SPORTS HD
 http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
 
-#EXTINF:-1, GEO SUPER SPORTS
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
+#EXTINF:-1, SPORT TV 1
+https://list.iptvcat.com/my_list/s/4ede6b8b83addf887b4790e2ce1e2065.m3u8
+
+#EXTINF:-1, SPORT TV 2
+https://list.iptvcat.com/my_list/s/325052f3a27c1172a0bbf8e66c423d07.m3u8
+
+#EXTINF:-1, SPORT TV 3
+https://list.iptvcat.com/my_list/s/3481b90c389fae8310346008b013b570.m3u8
+
+#EXTINF:-1, SPORT TV 4
+https://list.iptvcat.com/my_list/s/a975bb883414808ade031a5da2c20403.m3u8
 
 #EXTINF:-1, SPORT TV 5
 http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
@@ -63,18 +77,22 @@ http://31.220.41.88:8081/live/pt-sporttv5.stream/playlist.m3u8
 http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
 
 #EXTINF:-1, TEN 1
-http://173.199.120.51/hls/ten1.m3u8
+http://103.205.133.19/hls/ten1.m3u8
+#http://173.199.120.51/hls/ten1.m3u8
 
 #EXTINF:-1, TEN 2
-http://173.199.120.51/hls/ten2.m3u8
+http://103.205.133.19/hls/ten2.m3u8
+#http://173.199.120.51/hls/ten2.m3u8
 
 #EXTINF:-1, TEN 3
-http://173.199.120.51/hls/ten3.m3u8
+http://103.205.133.19/hls/ten3.m3u8
+#http://173.199.120.51/hls/ten3.m3u8
 
 #EXTINF:-1, TEN 6 HD
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #https://live.bongobd.com/hls/5IyRSmWOlLDuPMMh-zediQ/1630091446/sony_six_hi/index.m3u8
 #http://173.199.120.51/hls/sonysix.m3u8
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, TSN SPORTS 1
 http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
@@ -320,6 +338,12 @@ http://103.205.133.19/hls/9xm.m3u8
 #EXTINF:-1, 9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 
+#EXTINF:-1, B4U MUSIC
+http://173.199.120.51/hls/b4umusic.m3u8
+
+#EXTINF:-1, HUNGAMA DIL SE
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
+
 #EXTINF:-1, Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
@@ -340,6 +364,9 @@ http://103.205.133.19/hls/wowcinema.m3u8
 
 #EXTINF:-1, CINEMAX HD
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
+
+#EXTINF:-1, CINEMAX 2 HD
+https://list.iptvcat.com/my_list/s/9574eb8e4c92547915459b4232176994.m3u8
 
 #EXTINF:-1, AXN
 http://stream.tvtap.live:8081/live/es-axn.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDk6MDQ6NDMgQU0maGFzaF92YWx1ZT04ZkMrZWs1Skl0TWs5VFRyRE5XZENRPT0mdmFsaWRtaW51dGVzPTIw
