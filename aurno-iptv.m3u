@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, LIVE SPORTS
+https://tv.bdiptv.stream:2096/1lyBD/LiveSports/chunks.m3u8?nimblesessionid=195624&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIxIDU6Mjg6MjAgUE0maGFzaF92YWx1ZT1WR0R4WUNXVERQdDdDdWx0Z0EwbDl3PT0mdmFsaWRtaW51dGVzPTU=
+
 #EXTINF:-1, START SPORTS SELECT 2 HD
 http://jupiter.bdcabletv.com/select_2/video.m3u8
 
@@ -42,6 +45,9 @@ http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS MIX
 http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
+
+#EXTINF:-1, SKY PREMIERE LEAGUE
+https://tv.bdiptv.stream:2096/1lyBD/skypremier/chunks.m3u8?nimblesessionid=195672&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIxIDU6Mzc6MTUgUE0maGFzaF92YWx1ZT1SbnptbU1UdmxmUnVMaURsVGdNUmZBPT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:-1, ESPN HD
 http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
@@ -124,6 +130,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 #http://103.205.133.19/hls/boisakhi.m3u8
 
+#EXTINF:-1, BTV
+https://s1.bdtv.xyz:2096/token/btv/chunks.m3u8?nimblesessionid=1797208&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIxIDU6MzI6MzMgUE0maGFzaF92YWx1ZT1oeEpCZzI1UitKTy9ZRXFBOWpaOERRPT0mdmFsaWRtaW51dGVzPTU=
+
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV World
 #http://103.205.133.19/hls/btvworld.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -134,7 +143,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",Channel 9
 #http://103.205.133.19/hls/ninechannel.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+https://s1.bdtv.xyz:2096/token/channel9/chunks.m3u8?nimblesessionid=1797292&wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDIxIDU6MzQ6MzIgUE0maGFzaF92YWx1ZT0vVzBrRlowc2sxTTFiL3RmcUVsZElnPT0mdmFsaWRtaW51dGVzPTU=
 
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png", Channel 24
 #http://103.205.133.19/hls/channel24.m3u8
