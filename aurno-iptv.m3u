@@ -152,8 +152,9 @@ http://103.106.2.149:13456/btv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 ,Bijoy TV
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+#https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #https://iptvbd.jagobd.com:444/iptv/bijoy00.stream/chunks.m3u8
+https://tempamb.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",Channel 9
 #http://103.205.133.19/hls/ninechannel.m3u8
@@ -283,8 +284,8 @@ https://live.bongobd.com/hls/xL5ezSvLDzu0bytIxYayPA/1630091867/zee_bangla_hi/ind
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 
 #EXTINF:-1, STAR JALSHA HD
-http://103.205.133.19/hls/chsj.m3u8
-#https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#http://103.205.133.19/hls/chsj.m3u8
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, JALSHA MOVIES HD
 http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
@@ -322,6 +323,9 @@ http://stream.tvtap.live:8081/live/us-natgeo.stream/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
 #https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1, BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 #EXTINF:-1, CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
