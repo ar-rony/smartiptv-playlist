@@ -167,14 +167,20 @@ http://31.220.41.86:8081/live/skysports-cricket1.stream/chunks.m3u8
 #EXTINF:-1, CHAMPIONS LEAUGE LIVE
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1, START SPORTS SELECT 2 HD
-http://jupiter.bdcabletv.com/select_2/video.m3u8
+#EXTINF:-1, ABU DHABI SPORTS 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1, OMAN SPORTS
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
 
 #EXTINF:-1, BEIN SPORTS USA
 http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
 
 #EXTINF:-1, BEIN SPORTS EXTRA
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+
+#EXTINF:-1, BEIN SPORTS PREMIUM 2 HD
+http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
 
 #EXTINF:-1, BEIN SPORTS 1 HD FRENCH
 http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
@@ -344,8 +350,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1, CNN INTERNATIONAL
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1, COOL TV
+https://stream.y5.hu/stream/stream_cool/hls0/stream.m3u8
+
 #EXTINF:-1, ANIMAL PLANET HD
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-1, MBC 1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
 
 #EXTINF:-1, MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
@@ -409,6 +421,9 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 
 #EXTINF:-1, MANORAJAN MOVIES
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
+
+#EXTINF:-1, RISTEY CINEPLEX
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
 #EXTINF:-1, STAR GOLD 2
 http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
