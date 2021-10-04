@@ -93,6 +93,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU", GAZI TV
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
@@ -160,6 +161,9 @@ http://str24.l9574.com/503.stream/index.m3u8
 #EXTINF:-1, LIVE SPORTS BD
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, IPL LIVE 2021
+http://31.220.41.86:8081/live/skysports-cricket1.stream/chunks.m3u8
+
 #EXTINF:-1, CHAMPIONS LEAUGE LIVE
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
@@ -216,6 +220,9 @@ http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS MIX
 http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
+
+#EXTINF:-1, STAR SPORTS 1 HD
+http://93.152.174.144:4000/play/ss1in/13898579.m3u8
 
 #EXTINF:-1, Bundesliga Live
 http://stream.tvtap.live:8081/live/de-skybundes1.stream/playlist.m3u8
@@ -341,7 +348,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
 #EXTINF:-1, MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
 
 #EXTINF:-1, MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
