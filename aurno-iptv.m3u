@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://github.com/ar-rony/smartiptv-playlist/blob/fdb37cac478e9381fae9c651cfb70e4c9b8839cc/channel-logo/images.jpg", AB TV
+#EXTINF:-1, AB TV
 http://str24.l9574.com/501.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
