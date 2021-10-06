@@ -90,7 +90,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU", GAZI TV
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
-http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+#http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png", Independent
@@ -227,7 +227,8 @@ http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PTV Sports
-http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FOX SPORTS HD
 http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
@@ -345,8 +346,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
 #EXTINF:-1, AND FLIX
-#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8?token=soheliptv01826655778
+#https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, AND PRIVATE HD
 https://list.iptvcat.com/my_list/s/577fa1d6d5cba1fe15588484147ad0a6.m3u8
@@ -361,8 +362,8 @@ http://103.205.133.19/hls/andpicture.m3u8
 http://103.205.133.19/hls/chc.m3u8
 
 #EXTINF:-1, 9XM
-http://103.205.133.19/hls/9xm.m3u8
-#http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#http://103.205.133.19/hls/9xm.m3u8
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1, 9X Jalwa
@@ -429,10 +430,7 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #http://tv.aliflailabd.com:8989/setmax/index.m3u8
-#http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, SONY PIX
-http://bdiptv.net:8080/SonyPix/tracks-v1a1/mono.m3u8?token=db465f8ed246d192ca2ea33607a547c22fb131dd-4717b253b07908e9dc7ed395381cb7a0-1631981793-163197099\-'
+#http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 , Masti Music
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
