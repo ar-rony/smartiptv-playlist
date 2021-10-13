@@ -292,6 +292,9 @@ http://173.199.120.51/hls/sony8.m3u8
 #EXTINF:-1, Enter 10 Bangla
 https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
+#EXTINF:-1, RUPOSHI BANGLA
+http://173.199.120.51/hls/ruposhibangla.m3u8
+
 #EXTINF:-1, SUN BANGLA
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
@@ -316,6 +319,9 @@ http://173.199.120.51/hls/b4umusic.m3u8
 
 #EXTINF:-1, DIL SE
 https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
+
+#EXTINF:-1, DHOOM MUSIC
+http://173.199.120.51/hls/dhoommusic.m3u8
 
 #EXTINF:-1, MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
