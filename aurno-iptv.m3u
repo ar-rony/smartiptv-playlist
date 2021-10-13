@@ -335,7 +335,8 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 
 #EXTINF:-1, B4U Movies
-http://103.205.133.19/hls/b4umovies.m3u8
+http://173.199.120.51/hls/b4umovies.m3u8
+#http://103.205.133.19/hls/b4umovies.m3u8
 
 #EXTINF:-1, BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
@@ -357,7 +358,11 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 http://103.205.133.19/hls/wowcinema.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
+#EXTINF:-1, & PICTURES HD
+http://173.199.120.51/hls/andpicture.m3u8
+
 #EXTINF:-1,Star Plus
+http://173.199.120.51/hls/chsp.m3u8
 http://103.205.133.19/hls/chsp.m3u8
 
 #EXTINF:-1, SONY ENTERTAINMENT
@@ -394,6 +399,9 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 
 
 <!-- FOREIGN -->
+#EXTINF:-1, NICK HD PLUS
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
 #EXTINF:-1, M20 MUSIC USA
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
@@ -414,7 +422,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 
 #EXTINF:-1, Star Movies HD
-http://84.17.41.7/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
