@@ -59,6 +59,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://iptvbd.jagobd.com:444/iptv/channeli-8-org.stream/chunks.m3u8
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 
+#EXTINF:-1, CHANNEL H
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png", CHANNEL S
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
@@ -84,6 +87,10 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1, EKATTOR TV
+http://173.199.120.51/hls/ekatoortv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png", Gaan Bangla
 #http://103.205.133.19/hls/gaanbangla.m3u8
@@ -121,7 +128,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU",Nagorik TV
-http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
+http://173.199.120.51/hls/nagorik.m3u8
 #http://103.205.133.19/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png",News 24
@@ -129,7 +136,8 @@ http://jupiter.bdcabletv.com/NagorikTVHD-IRD/video.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 , NTV
-http://103.205.133.19/hls/ntv.m3u8
+http://173.199.120.51/hls/ntv.m3u8
+#http://103.205.133.19/hls/ntv.m3u8
 
 #EXTINF:-1, NOKSHI TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
@@ -264,14 +272,16 @@ http://str24.l9574.com/517.stream/index.m3u8
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA HD
+http://173.199.120.51/hls/chsj.m3u8
 #http://103.205.133.19/hls/chsj.m3u8
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1, JALSHA MOVIES HD
-http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
+#EXTINF:-1, ZEE BANGLA HD
+http://173.199.120.51/hls/zeebanglahd.m3u8
 
 #EXTINF:-1, COLORS BANGLA HD
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://173.199.120.51/hls/colorsbangla.m3u8
+#https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 ,Sony Aath
 http://173.199.120.51/hls/sony8.m3u8
