@@ -184,37 +184,14 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 #EXTINF:-1, ABU DHABI SPORTS 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
+#EXTINF:-1, ABU DHABI SPORTS 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
 #EXTINF:-1, OMAN SPORTS
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
 
-#EXTINF:-1, BEIN SPORTS USA
-http://31.220.41.88:8081/live/beinus.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS EXTRA
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-
-#EXTINF:-1, BEIN SPORTS PREMIUM 2 HD
-http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 1 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 2 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#http://31.220.41.90:8081/live/fr-beinsport2.stream/playlist.m3u8
-
-#EXTINF:-1, BEIN SPORTS 3 HD FRENCH
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8?SBN
-
-
-#EXTINF:-1, BEIN SPORTS 5
-http://stream.tvtap.live:8081/live/bein5.stream/chunks.m3u8
-
-#EXTINF:-1, BEIN SPORTS 7
-http://stream.tvtap.live:8081/live/bein7.stream/chunks.m3u8
+#EXTINF:-1, FOX SPORTS AUSTRALIA
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 
 #EXTINF:-1, BT SPORTS 1 
 http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
