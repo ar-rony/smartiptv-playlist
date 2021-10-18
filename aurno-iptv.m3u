@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, T20 WORLD CUP LIVE
+https://wc.banglatv.xyz/YTRwnMJHVHDBFcfjPxUmKzxaDATtzQe2RDzHPI65npX0ZwsAB94HNrQWcmM9lEj7MBmGas/gazitv/chunks.m3u8?nimblesessionid=24121&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMSA5OjUzOjM2IEFNJmhhc2hfdmFsdWU9anU3cW5aRXBPVFgvMU80QXE0ZjdMdz09JnZhbGlkbWludXRlcz01
+
 <!-- Bangladeshi -- >
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
@@ -74,7 +77,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.205.133.19/hls/deeptotv.m3u8
 
 #EXTINF:-1 ,Desh TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+http://173.199.120.51/hls/deshtv.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #http://103.205.133.19/hls/deshtv.m3u8
 
 #EXTINF:-1, DOYEL TV
