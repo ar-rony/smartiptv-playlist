@@ -175,12 +175,6 @@ http://str24.l9574.com/503.stream/index.m3u8
 
 <!-- Sports-- >
 
-#EXTINF:-1, LIVE SPORTS BD
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, IPL LIVE 2021
-http://31.220.41.86:8081/live/skysports-cricket1.stream/chunks.m3u8
-
 #EXTINF:-1, ABU DHABI SPORTS 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
@@ -196,60 +190,8 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?
 #EXTINF:-1, FOX SPORTS AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 
-#EXTINF:-1, BT SPORTS 1 
-http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
-
-#EXTINF:-1, BT SPORTS 2 HD
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-
-#EXTINF:-1, BT SPORTS 3 HD
-http://stream.tvtap.live:8081/live/bt33.stream/playlist.m3u8
-
-#EXTINF:-1, BT SPORTS ESPN HD
-http://stream.tvtap.live:8081/live/espnuk.stream/playlist.m3u8
-
-#EXTINF:-1, SKY SPORTS CRICKET
-http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8
-
 #EXTINF:-1, K SPORTS 1 HD
 http://93.157.62.180/KSport1/index.m3u8
-
-#EXTINF:-1, SKY SPORTS FOOTBALL
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
-
-#EXTINF:-1, SKY SPORTS MIX
-http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
-
-#EXTINF:-1, STAR SPORTS 1 HD
-http://93.152.174.144:4000/play/ss1in/13898579.m3u8
-
-#EXTINF:-1, ESPN HD
-http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-
-#EXTINF:-1, T Sports HD
-#http://173.199.120.51/hls/chts.m3u8
-#http://tv.aliflailabd.com:8989/tsports/index.m3u8
-#http://113.212.111.246:8080/hls/col2.m3u8
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, PTV Sports
-http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
-#http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, FOX SPORTS HD
-http://195.181.163.39:8080/DEP_FOX_SPORTS_ARG/index.m3u8
-
-#EXTINF:-1, TEN SPORTS HD
-http://jupiter.bdcabletv.com/ten_sports-sim/video.m3u8
-
-#EXTINF:-1, TEN SIX HD
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#https://live.bongobd.com/hls/5IyRSmWOlLDuPMMh-zediQ/1630091446/sony_six_hi/index.m3u8
-#http://173.199.120.51/hls/sonysix.m3u8
-
-#EXTINF:-1, TSN SPORTS 1
-http://31.220.41.88:8081/live/tsn1.stream/playlist.m3u8
 
 #EXTINF:-1, MAQ SPORTS TV
 http://str24.l9574.com/517.stream/index.m3u8
