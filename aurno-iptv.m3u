@@ -203,16 +203,16 @@ http://str24.l9574.com/517.stream/index.m3u8
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA HD
-http://173.199.120.51/hls/chsj.m3u8
+#http://173.199.120.51/hls/chsj.m3u8
 #http://103.205.133.19/hls/chsj.m3u8
-#https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, ZEE BANGLA HD
 http://173.199.120.51/hls/zeebanglahd.m3u8
 
 #EXTINF:-1, COLORS BANGLA HD
-http://173.199.120.51/hls/colorsbangla.m3u8
-#https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#http://173.199.120.51/hls/colorsbangla.m3u8
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 ,Sony Aath
 http://173.199.120.51/hls/sony8.m3u8
