@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, WORLD CUP QUALIFIER LIVE 1
-https://list.iptvcat.com/my_list/s/34843c9d6eb413cfec75dd335c1b137d.m3u8
-
-
-#EXTINF:-1, EUROPEAN QUALIFIER LIVE
-https://list.iptvcat.com/my_list/s/59754e7b15b6c83c1c2af179cd95d8a6.m3u8
-
 #EXTINF:-1, T20 WORLDCUP LIVE 1
 http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w703358015_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjM1NzA0NDAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjM1NzAwODAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9a3RCZTJMRk4wWE5KeXdPdkdYSkdBaWlLWWU2eE9RZ3JMQ3ZHNjhCdDZ4ST0=.m3u8
 
@@ -90,11 +83,6 @@ http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 #http://103.205.133.19/hls/deeptotv.m3u8
 
-#EXTINF:-1 ,Desh TV
-http://173.199.120.51/hls/deshtv.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#http://103.205.133.19/hls/deshtv.m3u8
-
 #EXTINF:-1, DOYEL TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 
@@ -117,7 +105,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU", GAZI TV
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
+https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
@@ -197,6 +186,14 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTINF:-1, ABU DHABI SPORTS 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
+
+#EXTINF:-1, FREE SPORTS
+https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+
+#EXTINF:-1, GEO SUPER
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1, OMAN SPORTS
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
 
@@ -214,6 +211,9 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1, SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+
+#EXTINF:-1, SWISS SPORTS TV
+http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
 
 
 <!-- Indian -->
@@ -258,11 +258,12 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 #EXTINF:-1, 9X Jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+#https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1, B4U MUSIC
-http://173.199.120.51/hls/b4umusic.m3u8
+#EXTINF:-1, SHEMAROOO MUSIC
+https://livechannel.shemaroome.com/linearplayout/test-linear-channel/playlist_cf.m3u8
 
 #EXTINF:-1, DIL SE
 https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
@@ -270,7 +271,7 @@ https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 #EXTINF:-1, DHOOM MUSIC
 http://173.199.120.51/hls/dhoommusic.m3u8
 
-#EXTINF:-1, MUSIC INDIA
+#EXTINF:-1, B4U MUSIC
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 
 #EXTINF:-1, KARAK HITS
@@ -436,6 +437,9 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1, MBC IRAQ HD
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
+#EXTINF:-1, MBC + 
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8
+
 #EXTINF:-1, CINEMAX HD
 http://stream.tvtap.live:8081/live/us-cinemax.stream/playlist.m3u8
 
@@ -457,3 +461,8 @@ http://balancer1.iptvmx.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
 #EXTINF:-1, MOVIE KINGDOM
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
+#EXTINF:-1, THAI 5
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+
+#EXTINF:-1, TRT CORUK TURKEY
+http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
