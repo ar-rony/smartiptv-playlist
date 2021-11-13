@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1, WORLD CUP QUALIFIER LIVE 1
+https://list.iptvcat.com/my_list/s/34843c9d6eb413cfec75dd335c1b137d.m3u8
+
+
+#EXTINF:-1, EUROPEAN QUALIFIER LIVE
+https://list.iptvcat.com/my_list/s/59754e7b15b6c83c1c2af179cd95d8a6.m3u8
+
 #EXTINF:-1, T20 WORLDCUP LIVE 1
 http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w703358015_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjM1NzA0NDAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjM1NzAwODAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9a3RCZTJMRk4wWE5KeXdPdkdYSkdBaWlLWWU2eE9RZ3JMQ3ZHNjhCdDZ4ST0=.m3u8
 
@@ -100,7 +107,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #http://103.205.133.19/hls/ekushey.m3u8
 
 #EXTINF:-1, EKATTOR TV
-http://173.199.120.51/hls/ekatoortv.m3u8
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#http://173.199.120.51/hls/ekatoortv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WaZyAOE.png", Gaan Bangla
