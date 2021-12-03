@@ -22,9 +22,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #http://103.205.133.19/hls/atnnews.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
-#EXTINF:-1, ASIAN TV
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8?nimblesessionid=82545072
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png",Banglavision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #http://103.205.133.19/hls/banglavision.m3u8
@@ -36,9 +33,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png", Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8?token=soheliptv01826655778
 #http://103.205.133.19/hls/boisakhi.m3u8
-
-#EXTINF:-1, BONGO MOVIES
-https://edge4.bioscopelive.com/hls/anonymous/1-PRPJJIcU0mkCDnX6q9AQ/1638563425/bongo_movies_hi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV World
 #http://103.205.133.19/hls/btvworld.m3u8
@@ -205,7 +199,8 @@ http://93.157.62.180/KSport1/index.m3u8
 http://str24.l9574.com/517.stream/index.m3u8
 
 #EXTINF:-1, STAR SPORTS 1 HD
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+http://172.16.29.28:8080/hls/live1-fnet.m3u8
+#http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1, SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
