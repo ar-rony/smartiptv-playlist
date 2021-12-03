@@ -68,7 +68,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" , DBC News
-http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
+https://live.bongobd.com/hls/ARvbbeikXa-9Lt5MoNbVSQ/1638552300/dbc_news_hi/index.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #http://103.205.133.19/hls/dbcnews.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
@@ -129,7 +130,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU",Nagorik TV
-http://173.199.120.51/hls/nagorik.m3u8
+https://live.bongobd.com/hls/MCUeyOrHrLIzZjw6XIbIBg/1638552300/nagorik_tv_hi/index.m3u8
+#http://173.199.120.51/hls/nagorik.m3u8
 #http://103.205.133.19/hls/nagorik.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TfqhT5g.png",News 24
@@ -218,7 +220,8 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, ZEE BANGLA HD
-http://103.109.56.116/live/skyfeed1004/index.m3u8
+https://z5ak-live.zee5.com/out/v1/9616200b22e049a8947aae755487d289/hdntl=exp=1638634475~acl=%2f*~data=hdntl~hmac=a4c851233fe8eb1599735562be3db2718aa2cff7b2687da72ab3062d715322ba/index_42.m3u8
+#http://103.109.56.116/live/skyfeed1004/index.m3u8
 #http://173.199.120.51/hls/zeebanglahd.m3u8
 
 #EXTINF:-1, COLORS BANGLA HD
@@ -459,3 +462,6 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 
 #EXTINF:-1, TRT CORUK TURKEY
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1, ABC AUSTRALIA
+https://live.bongobd.com/hls/sXqMBXvXS12i2zr9PGcGtA/1638552508/abc_australia_hi/index.m3u8
