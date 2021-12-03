@@ -1,15 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, T20 WORLDCUP LIVE 1
-http://wcdn.bdixsports.live:1935/live/event360.stream/chunklist_w703358015_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjM1NzA0NDAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjM1NzAwODAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9a3RCZTJMRk4wWE5KeXdPdkdYSkdBaWlLWWU2eE9RZ3JMQ3ZHNjhCdDZ4ST0=.m3u8
-
-#EXTINF:-1, T20 WORLDCUP LIVE 2
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635864086&md5=RD7TM1wFoAhTidxjiHWdDw&user=49729ec489674ef3912b6d7cd0822923
-
-#EXTINF:-1, T20 WORLDCUP LIVE 3
-https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
-
 <!-- Bangladeshi -- >
+#EXTINF:-1, T SPORTS HD
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
