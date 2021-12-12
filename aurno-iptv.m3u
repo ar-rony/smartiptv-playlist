@@ -182,6 +182,9 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1, FREE SPORTS
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
+#EXTINF:-1, FOX SPORTS 3
+http://190.211.0.52:8000/play/a0m4/index.m3u8
+
 #EXTINF:-1, GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
@@ -461,5 +464,3 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1, TRT CORUK TURKEY
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1, ABC AUSTRALIA
-https://live.bongobd.com/hls/sXqMBXvXS12i2zr9PGcGtA/1638552508/abc_australia_hi/index.m3u8
