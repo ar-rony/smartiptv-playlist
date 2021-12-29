@@ -2,7 +2,8 @@
 
 <!-- Bangladeshi -- >
 #EXTINF:-1, T SPORTS HD
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -42,8 +43,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8?nimblesessionid=675695076
 #http://103.205.133.19/hls/ninechannel.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1, CHANNEL 23 IPTV
 http://103.108.140.164:1009/channel23/livestream/playlist.m3u8
@@ -65,7 +67,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA5u4gk.png" , DBC News
-https://live.bongobd.com/hls/ARvbbeikXa-9Lt5MoNbVSQ/1638552300/dbc_news_hi/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8?nimblesessionid=675687690
+#https://live.bongobd.com/hls/ARvbbeikXa-9Lt5MoNbVSQ/1638552300/dbc_news_hi/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 #http://103.205.133.19/hls/dbcnews.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
@@ -215,19 +218,25 @@ http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+#http://103.109.56.116/live/skyfeed1003/index.m3u8
 #http://173.199.120.51/hls/chsj.m3u8
 #http://103.205.133.19/hls/chsj.m3u8
 #https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
 #EXTINF:-1, ZEE BANGLA HD
-https://z5ak-live.zee5.com/out/v1/9616200b22e049a8947aae755487d289/hdntl=exp=1638634475~acl=%2f*~data=hdntl~hmac=a4c851233fe8eb1599735562be3db2718aa2cff7b2687da72ab3062d715322ba/index_42.m3u8
+http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
+#https://z5ak-live.zee5.com/out/v1/9616200b22e049a8947aae755487d289/hdntl=exp=1638634475~acl=%2f*~data=hdntl~hmac=a4c851233fe8eb1599735562be3db2718aa2cff7b2687da72ab3062d715322ba/index_42.m3u8
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
 #http://173.199.120.51/hls/zeebanglahd.m3u8
 
 #EXTINF:-1, COLORS BANGLA HD
+http://208.86.19.21/904.stream/tracks-v1a1/mono.m3u8
 #http://173.199.120.51/hls/colorsbangla.m3u8
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
+#EXTINF:-1, AKASH BANGLA
+http://208.86.19.21/902.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,Sony Aath
 http://173.199.120.51/hls/sony8.m3u8
@@ -240,7 +249,8 @@ https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 http://173.199.120.51/hls/ruposhibangla.m3u8
 
 #EXTINF:-1, SUN BANGLA
-https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
+http://208.86.19.21/903.stream/tracks-v1a1/mono.m3u8
+#https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
 #EXTINF:-1, Sangeet Bangla
 #http://103.205.133.19/hls/sangeetbangla.m3u8
@@ -248,6 +258,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 #EXTINF:-1, NEWS 18 BANGLA
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
+
+#EXTINF:-1, ZEE 24 GHANTA
+http://208.86.19.21/901.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, 9XM
 #http://103.205.133.19/hls/9xm.m3u8
