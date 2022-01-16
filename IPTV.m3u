@@ -1,0 +1,2165 @@
+﻿#EXTM3U
+
+#EXTINF:1, CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+
+#EXTINF:2, BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:3, tvg-id="Mastiii" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/12/mastiii-logo_8.jpg" tvg-name="Mastiii"  group-title="",Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+#EXTINF:4, tvg-id="MK Tunes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/MK_Tunes.png/revision/latest?cb=20191225172859" tvg-name="MK Tunes"  group-title="Unsorted",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:5, t,ARY Digital
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:6, tvg-id="Shemaroo Bollywood Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" tvg-name="DW Germany"  group-title="",DW Germany
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:7, 0jVmlzghcLPf8W8n6ZzNttq2gX0WPVXTxayaoJpB9kxWHUAabz9a6dofZuvvuaO3LbeNdnGIZhGIZhGIZhGIZhXoa/HeuZkLwhbkEAAAAASUVORK5CYII=" tvg-name="Edge Sports"  group-title="Unsorted",Edge Sports
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#EXTINF:8, tvg-id="BBC World News" tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQSEhgPDw8SGBgPEQ8PERsbGxIbGxIPGBMZGRgTFSMoIC4xKB03HhgYJTcyKy4+QUE0GiM5PzkxPi4yNDABCwsLEA8QGBISHjArJCMyMjIyMjAwMDIyMjIyMj4yPjIyMD4+PjA+MjA+MDA+Mj4yPj41PjAyMD4+MjAwMjIwMv/AABEIAJEBXAMBIgACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYDBAcCCAH/xABPEAACAQMCAgYFCAUKAwYHAAABAgMABBEFEiExBhMiQVFhBzJScZEUI0JicoGhsRVzgpLRMzRTorLBwtLh8CRDYxZEZLO00yU1NlSDk6P/xAAZAQEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAnEQEAAgIBAwQDAAMBAAAAAAAAAQIDETEEEiEiQVGREzJhgaGxcf/aAAwDAQACEQMRAD8A7NSlKBSlKBSlKBSlKBSlKBSlKBSlV3WOl9lZkrcXSbh9BMu48iq5x9+KCxUrlt96YYRwtrKV/N3SMf1Q9Qk3pdvD6ltaqPMSMf7Y/Kg7ZSuFD0s6h7Fp/wDrk/8AcrbtvS9dA/OWts4+qZEP5t+VHdO10rmunel21k7NzbzRHxXbIv4Yb+rV00jX7W7GbW5jfvKg4dftKcEfeKOJalKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClK1ru6SFGlmkVEQZZmIVVHmaDYr8PurmGv+lmKPKWEXWEf8yTcifsr6x+/FUiXpBq2pEhJJSnqnq/mox9Vm4Z9xNdis+0OWmKxu06d4vdVt4P5xcwx/bdF/M1B3HT/TE53qt9hZX/FVP51yi16DOe3c3CKTzCLuJ+0x/gako+i1snrI7nxd2P4DH5Vor0l7fxlt1mOOJ2ulz6TdMIKMZnDDafmnwynmOOKrc+u9HJPW091+xGyf2HFav6MhUdm3iH7CfnitG5W2X1+oHkRH+VTnpJjm0OV6uLcVlr63a6K8byWN1cRuFZlRkmdHYLwTOOB7slqqyWchTrVTKr9k8ufDvFTs9zZD6MZ9yN/Cte41mMLtiQ+yoIwq/cPyqMYaV33Whd+S1v1j7Z3tI/6NB+ytaUqQ+rhM+X+labXgcHresYt3BlVV9w/jWJLmQcEY48AF/hVs56TxX/RWlo5l7uYVAymfcQ38K10dkYFCVZe0rKcFfrKRWwbmT1XGR5qwqS0UQSj5PcpsbPzMg7J4/Qc+/ln3eFUZKRa3p8JTftjc+Vj6Mek65tysd9mePON3ASovv5P9/wC9XYNH1iC7jE9tKrqeBxzRvZYcwfI18863oEtv2/XT2wMFf1g/v5VH2F/LA/WW88kb+ruRmU7fZbB4jyNU3pas6mEqXraN1ncPqqlcd9FXSLM05v7/ALcywLGJX4uymTOzJ7gQMeflXYQaik/aUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUqJ1y9lihLW1u00rdiJBwBduTO2RtQcySRyxzIoIvpb0ug02PtnfK4+bjB4txxvc/RTPf8Aa4zrOr3OoyBruRmOfmoEDEJ5BePHHectVub0dzSs99rOoohb5yUrglfexwqjGAMAjkBUBYadC+oxppBnMds6vLNI3r4OSRwXAIBUAjtZPACp0/bjaN51EyxaP0edbiJruyfq3fZhto7ZQlWdQeXDvronVhQAqgBeyoAwFX2VHdWe7LAZSMM30QW2hfrMcHx7hVM6TJfiNpHvLaJPYRnQt9VWK8T7q9Hu7I3p5mTea0bnSevr2KIfOyon2mUH4VX7vpTajKrI7/YVvz4VRYbWSUNIoJVO1I7cFX7bePgOZ7gaxQQtIwjRC7N6oAyWqi3VXn9YW06ClfNp2ktZv4peMRuQc8nfcu3948aio4yx2oCT4AZPwq0WvRyOPjdybn/o0Pq/bb+4Y95qSSQKNkUaIvgo4/tGpV6e957reFn560jtr5Uy4spIwGdCoY9nO3NSNpoDuiu0gXeN2MMTtPLdy7qdIX3SJHu9VF/eY/wAAKkIgbpigJWCPscOBlYfR93+n3Qrir3zXn4WWyW7Ytx8tOKzAbYlxC7eCxMx/aKg/nUxDYTD6Fq/v61T/AH/lUnbQKihEQKq9wH+81tIta6Ye2OfpiydRM8I6Ngn8tZKo9tFWRf2sDI/dqTt4oJV3IkLL5KhH2Tw/A1nRax3GnRyHfxR+54zsf/Ue+rJiY/rNbLE8+G5HCoXZtG3G3b3bfZ93lVV1DooY5Ovt4kkT6cL7e0p5rGfy8O7PKsuo6leWOGdUnjY7VcrtZW7lfHI/dxrY01p7+MzxukA3snYe4Ztw8V3qvxFUZLVt6deYW4qXp6u70yi5+jEE4/4R3hk/oZg+N3sru4/AtWnpPSe+0uT5OWYBPWikO6Nl8U8B5qfjVhubK5jAR9ZkTcVVS8TKjMeAXeDw+NUvVWuJI0nupd43zwpkqXR02l0cY5dpSM+PvrJkiscxqXodPa0++4d36JdMLfUVOzsSoMyRse0q+0p70z3j7wKtNfK+nXz28iXUDlHifeD+fvBHAjvBr6M6L6/HqFsl1FwLDbIucmOUesp/MeIINZ5jTSnKUpXApSlApSlApSlApSlApSlApSlApSlApSlBRPSNc31tEt7YXBVYuzcJsjcbCezNxUnAPA8eRB7jXO4/SfqY9aWJvfGn92K7xJGGUqygqwKsDxBU8CD5Yrg/pC6FtYuZ7dSbaR+yefUOf+W/1fZ+B48zq8+j3p219I9td7FlxviKBlDoB2lwSe0OfmM+zVz1rUPksD3PVPIIVLsqbdxUesRkjkMn3A18x21w8brLE5R43V0Yc1YHIZa+guhHSyPUoOOFniAE6fh1iDvQ/geB7iQr7+l63+hZXJPgTEP8RrXk6f6lc9nT9IZcjG9xI4H1s4RR95qv+kXoU1m5vbRW6h33MF52zk+r+rzyPdy8M1H/ALRXi8Plt1j9bL/mrtY3OnJ/jojdE728YS6zettU7ljQqQvwARfeAx86kn1TTtPj6hJYkC/QjO92b2nxntebGuTPdSTfy1xK/wBp3b8ya27O2jHHYD7+P+lbMeG3MREM+Sm+Z+luu+mc05KafbYHtybf3gvq/En3VA3wjRjJfSvczqN2wFgka/8AU8uXLHuqQ0ayuL47LXsRodskxHBfFIh3t7uXl3xnSLqlk/R9j6kL/PyHi08w5s7eypyABwzk+Bpf4idyrpTz8f8AWkHmvWAkdEij7gNscSn6Majm3u4nvOMkTdvKkKmO1QoG9dz/ACkn2j3D6q/jUfbxhVCLyX+/m3vr8mvFThzbw/zeFasWCtPVbzJf1eI4+G+telmHdxqEa6LcXbA+AodUVfVUsfgPjV18lYjcyh+GWtrbZmb3J/YFXPRbbZCiDAOxWY/WPE/iaqJsbm7belrIeG3IVtvD6x/jU9b9GdVcAb9g8DKi/guawUv23m0RM7TzVi9Yr3RGlqtrEHmxqSh06P6Sn41TR0F1U8p0P/5pf4Vhm6L63CMgXDBf6Obf/V3/AN1St1f8lRXopmd923Q3sLdF6yV9irt7RfA48Avvz3V6vbCKIeu+5uS9k/tHlwrnXRS4uJ9Rhg1CSZvkpkmVJN2UkVDt3AjnnB4+FXmdyzsx5s7fhwH4VLFa153vwq6qlcdYjUTMsckKupR0DK42spGQy/WFU+90C4sn+U6c7smdzx5ydvPbj6a/1h586uqCsyCrslInnlnw5LV44nmPZC6XrFtfxmAna7oySRscP57PHjyI4jHIVGX2j2E0pW4neC4BVnyyR9Y3dIMgqT37lI454A5FTOsdF7e77bqUf6MicG3d28cj9/xFVnU9Hv412Sxpewp6uQxkRfI5Dg+4sKyZN+8bbsXbv0zMfxNwdDLHY6dY7rInMyRna45SIQODc/LB4iqrfaNe6VILm1mbZ9GVOA2/RSZePD7XZ869WFlpEp2TPdW0n0kcrtVvqsY+X2qs2l6JdW67tMv4bmFvWikOVZTzVWBbH9XzFUzETHH001maz5n7SXRb0mpIRb6kohk7KiQZEbHxbPFD58V8xXR0cMAVIII3AjvB5EVxjVOjKyjsWz27/wBDIV6tm/8ACzDKg/VbgfBedRnR/pZd6RL8mlV3hBw0UgZWjG7iYzxwfcSv5iu1dLq227/SofQdbgvYhNaybhycHgyN7Ei9x/2MipioJlKUoFKUoFKUoFKUoFKUoFKUoFKUoFa1zbJKjRSqrpICrqwyGU81IrZpQcE6d9Ansi1zaqz27Hce9oPqv9Twb4+JqWlalJaypcW0hR4z2T3Mvejj2TyIr6kKgjB4g1yzpn6Mg+650wBW9ZoeAVvHqj9E/VPDwI5UdWroj0rg1SIqQqyKu2eJsEMpGCyZ9aM5/HB86N029GjIWudNQunN4ebp+q9pfq8x3Z5DniNNaTZHWQywP9ZXR/cfyPAjyrsHQ30kxXG23vyscvBQ/JJW8/Yb38PAjlQcYDFSVZcFTtYHgVYc1bzq8dCOiD34+UXB2W6sy4U9udxzTPcviefh4jpXSvobZ3qtJKBFIB/KrtU+XWZ4MPf8RXN7jo3qul75bOR5IpFbc8PaDJtOHdOOGA5MM49qroy212zPhGY3wsPTHpRHZRmy08IHROq7I7MH1VA+nzP58a5xYxbV7XNu039y1otNvZd/DB45P0v9/nXnU78/yMfM9lyP7I/vrVimlZm2/EeP8q5pOtR7s97qmD1cTcfpN/hXzrViJJAUFmbu5n/WvOnaeX8h9I/4RVs061VOyi8fpHvb76nX8mWd8Qhe9aR45aVh0deTDXD7B7I2lv8AT8asFvFaWvqRBnXv9Zv3jy+6vx8428q1Xiq+mGsedef6x3yWv+0+PiGzddJpzwiVEHu3N8T/AAqHudXuW53M33Oyj4DFZ3jrVkjq/ULMcVjiGsb+cdoXE4P6yT/NVt9HXSG4N6tvcXUjpJHIqo7sw6wDcu3OTyVvjVbtrAPl5ZBHHHt6x247c8kQfSc4OFHh4CthektvbEfo+wQuh7M0+533e0ighV+41i6maRGp5a6zvhu9Jbg2WuvcPnY8iTH60MkYR9vuO/8Adq9TKCd6cVftKRy48d3uPOuYXJ1HWGWQWzSdWGRWjRVVVJzsLcO/xPeamrDVbvSwltqdtIqY+bbskqvsBs7WHlnI+ArLgyxW0xPDP1fTzesTHMLogrMgqFt+k9pINy3UYPgx2H4HFZZNbtwP5zCB+sT+Nbu+tveHmdlq+JifpOJXoTIPWdB72WqRf9LbZfVlLnwQMfx4fnUXd6lfOnWw6dMqN6rmOZty+1kAVTfJjjmfppxYslvbX/rp5himGHSKQeYR/wCNajdFbIneLVEb2oy8bf1CtcqtOkBB+ed1dfBFXa33dqujdFekSSJ1bXSO7eoGG3texuBOfhu8jVcxWa91Z20xW8TqUn+hriP+a6hL9icLMjfV3dl8ftGtDUbuJVK63psajG1ZVVZYXwOC78BkPhvGPOp221VDILaUGKVvUR9uJFHNoW+mPIdod6ipgxhgQwBBG0gjIZTzUjwrPMr6x8uGFPmW1TTLe7sxCWVmV2kjfaRlNwwynJx2gVPIkV1zoHrEl5YR3E+N5MiOQMB2Ryu/Hdy4+eaiOlujx2ulXaWy7Edet2D1UcvHu6sdwOB2fHljNbXooH/wqH7dz/5z1VK6FzpSlcdKUpQKUpQKUpQKUpQKUpQKUpQKUpQKUpQQHSLota367bmLtAYSReEifZbw8jw8q5D0l9G13aZeFflEftIPnFX66f5c/dXfaUHz10W6fXVjiJ/nYV7PVuTuTxWNu77Jz7hV2tk07VO3p15LZXLcSsbtGWbv3IrBX96H3mrbrvRGzvQTcW43kY3p2JP3hz+/Nc81j0SSoS9jcq4HFUk7Dr4bWGQT9y0dVDpBot4tzOkpkuHttnXyKJH7DICjuceHefA8agYEXdlsf786uOl6zqOk3UxmhZ3ZIPlIk3yHq1BCN1ik4GMgcSOHlU7Jr2ial/PrV7aU+s6Dhu82Qdr9tKlWdTvQqFghchEXJb1cf75Va7awCLt5n6R/33ViPo+k/nGi6lFMvgHVX+zuUlT9+2o26vtSs+F9aNtX6TJgfc6ZU16NOsrPMaYeowXt+qYaGtd4q0rbpbA/rpIh8ey6/EfwqQj1CCT1J4yfDOD8DitFc1LcSxTjyV5hpPHWrJHUxLHWlIlWbWUsqWqXhdhGrdiMttHczn1nbzOMe4AVZPRt0WXULhnnXMNsFaReXWO2dkfu7JJ8gB31ULmMq7IeallrrvoRnXqbmL6Syxy+exo9o/FG+NeHktM2mbcvWrERHh0uGFUUIiqqqNqqAAFUcgAO6l1bJIpjkjR1bmrKrKfeDWxSoCn3Xo70xzu+SbCfYeVR+7ux8BX5B6NtLX/uhb7Uk5/x1caUERp/R2zt8G3s4EI+kETd+9jP41L0pQRmp6LbXS7bq2jk7ssoyv2W5j7jXHOnvQ8aYy3NrITDK+zYxyySbSQviyHB8xjjnOa7mwBGDxBqp6t6PtPuSXa3KO3042ZD8OK/1a7EzE7gUnolrCXyjS9QXesg3Wzk9uORRkKrdzAA7W8scQQKtWma3LYzrp2qPuST+ZXLcBKo/wCXMeQkHAZ78jPMEwU/oneNhJY6i6FCGTeh3Iw4hgyMOP7NbEXovkmYPqWqTTY7l3Z/edm/AVO9otO4jSMV0jp5bjpFdvbpJ1dnaSbmI5uuWCuR3u21iueCjjxPPqOl6dFawrbW6BEiGFH4kse85yT760ujnR6DT4jDaq2Gbe7Mcu7cgWOB3cBgf31O1WkUpSgUpSgUpSgUrEkqtnawOOeCDistApSlApSvDsAMk4oPdKxJIGGVII8jmstApSlApSlApSlApSlBVbpOp1iGb6N9Zz2h/XROJU+8oX/dqQ1Do1ZXHGeygcn6WxQ37wwfxr30gsWmiBix1tvJHc2+eA65DkIT3BgWQ+TmtyxuVljWVM4cZweBU96MO4g5BHcQRQVOX0Z6fu3wrPC3c0cjgr9ndurdg6NXMXCHWbsr7MywTD3ElQfxq1UoKdddCoJRuvIrN/aaOGSF2+szJLxP3VTtX6E6OpOzV0hb2Xkhfb+zwb8a7FWC4t0kG2SNGHgyqw+BoPm/VLaO1P8AwmqibjyjS4T8fV+BrUTWpxzk3faVT+NfQVz0QsJOLWFtnxEaKfwxWk3o80s/9yX7nnH+Op1yWrxMozSs8w4FeXhkILogbxG4bl+sCa3+iuvvp1ylzHxX1JEzjrI2Iyvv4Ag+IHnXb19H2mLysVPveZvwL1LWWgWkGDBZwIR3rHGD8cVG1ptO5SiIiNQzaTqUd1CtxCSUkGRkFSPEMPGuI3WkG+12ez69oxJcXPawWxtRn9XI8Mc677XGdB/+qZP199/5TVx1g1/oXeaVGb60v3dYdpk2742QFgN+3cwYZIyD48iM1Yp+kTah0fnnbhIkfUzY4Ayq6HcPAMrKcd2SO6rJ6QL1ItNuC5A6yGSFQfpSOu1VHnxz7gT3Vzro1bMOjt/Jg4kd2T7KCMM3uyD+6aC1+hok6e+ST/xcvP8AVx1WvTCxF/bYYj5he/8A6zVYfQw4+QOuRlbuTI71zHHj8j8KrnpfO7UbdF4nqIuA59qd9tBm9NrkTW20kfNT8j9da96r6MOot5LhNRk3RRyTYZNo7KFtpYNw5YzWP03/AMtbfqZ/7a1Jz+ihGQ7dRuCWXID4ZN3MZGRwoNv0Q6pPPayrcO7rBKqRu5YnaUBMe48wOB8t3hior0tX7zXFvpVtksxErKDjdI7bIw33bz+0DWT0Q6+xSayl2BLaP5QjgIuE3EPvwBnuO48eeSeGKjp/SqMaq+q3MUkg3yNEi7MrkbI859mPh76C9ehvVzJbyWTk7rZ96gnj1bk7h9zhv3hUH6YHI1C2wxHzCcj/ANZqh+j3SKOLWvlcStHDdysjo2MokpG7OO7rcN7hUv6Yv/mFt+oj/wDUNQXj0hsXghslbBv761t2xz6vrN7t8EHxrP8A9gtN/wDs/wD+k/8AnqN6TW73eqWtrHO8Rtba5vi6BGZGZliTgwI7m5jvNZ9R0C9WFzFrdyWVHZQyWwDMATtLKgI5Y4HhRw6I7oby909Hd4LU2rQb3LmFpYyzwhjk4yAQCeH31+9JA2oTHSoWYJEnyi+dTjiVPUW2fFjhz9VR41r6Rq0NppCXsMJD3QV1Qs7vcX0jbQrMe0xLDmeO0eVYejk97axFH0a5eWZ3uLmTrLMdZMx4nHWcBjAHgAKCf6D3Zl022dvWECRvn24+w2fvU1C2NudYZri4aQWSO8VrCrMgudh2tPMVxldwIVc44fHX6KTSfo2/t+rdHtptQVEJUtHvQyomQSMguRw8KsXQXZ+jLXq8bfksXL2tna+/duoNDUOg1psZrGL5NOqs0EkRZGVwMruwcEZwCD3Vo9Jb6eTRkWeNo7i/a1s3X1SsryBX4d2VVj7jVu1fU47SBrmckJEAWwMniwAAHjkgVXekEnX6hp1sN2FebUZARgqsUeI9w7jvfFBp9NtPa6mtdMt5GRkhursEHGxoo1SBj5dYw/GrL0Y1b5XapcEbXYbJl9i4Q7ZEI8mB+7FRmlHrtXu5+60t7SwT7TbppPxKCvNgfkepyW54RaorXcXgt6gAnQfaXa/3Gg1V1BI7/Ub+Vj1en2tvbL5ttMzqvnuZB7yK86R0ebUFW/1jc5lHWQW+5xFbxnioK5G58YJLeNQN+C+iXF0fV1DUvlMh/wDDm8RF+7ai/GuoSAlCIyFJUhDjIU47LY8OVBT9b6HxwxtdaRGYbmAdZGIyQs+OJidScEEZFXC0JeNHkQqzIjMvssVBK/cTj7qo/SY6jZwCX9Mb3eWG3hT5Nbr1ksjhQucnu3Hl9Gr9HyHHPn40HulKUClKUClKUClKUCo1YepdnT1JDukHsP3yL5H6Xn2uZbMlSg/Aa/a8qoHKvVApSlApSlApSlArlWseja6mvJryG/SMyyvImBKHRW+juUju8K6rSg5PF6KpZHVr/UndE7h1jNt7wrOx2/A10W30qGO2FkkSiERtDs7jGQQwPmcnJ8STUnSg5LL6M7y3kZ9L1Ixo/czyxvtzwV2QHd8BUh0c9HTx3IvtSuuvdWWRVBdg0g5PIzcWxgY4DkPdV2tdXilkaFC29TMBlJFDdU4STYxADYcgHB7xXiPW4Ht/lauWj3bMhXJZ+s2BQuM8WIxw5EHkaCt9P+hcmpyRPHPHGIUdGDK53bmB4Y91Q0nQDVHUxvrblGG1gXuSCvs43YxV8k1yFY1m+cKySGFdscxKyCTq+rdduVO/s8QOIrbubtY4zLIdqKu4kg592OeeQwBzOKCm2XQP5LZT2lpOOuvVWKWVlYDq89pUUE4G0sOfNuJ4AVLdBujH6Ot2hZ1d5JWkdwMA8AqqPIAfEmpP9MxdU02XxHIkLrsl3rK7qqoUxuyS6Y4cmB5Vt/KV6vrTuVQm9twYMFAydwxkHFBU+n/Qs6l1TxSpG8O9WZlY7omwdvDvBHD3mtDpN0Eub17aVrqIPbW8UMxKud7qxZnX3576t0OvQPE84dgkCCSTckisIym4PtKg7SvEEDuPgayz6pFGJGZmxbukUmFckSMsbKqgDiSJE5ePkaDUsdGZb64v5HVuvjt4YgAcxxoCWBPmxzwqUvoTJE8attMkbxg+yzKQG/GtN9ahW3a7d2ESMUYlXDK4k6tlZcbt2/Ixjurca7QOsWe1IkkqcDgohQMc/tr8aCraJ0TeN7X5TKjpplusUCKGwbk8HuGz344Ad3OrnUfdalFE8cUr7Xn6zqhhu1sTc/d3Lx41g/TsBiinVndLo7YdscrM56tn9XbkdlGPEd1Bg0vRmhu7q53qUvjbuqYOUkRCjk+IPA1FwaDd2bMNLuIOpd2cQTrIVhZjluqdTnbnPZI4VO3msQxSCKRmVmRHzscqiu/VqXbGF7XDiRWwt6m+SPd2oFR5OBAVWDFTn3KfhQV1ej1zdSpLqtxEyQOskcEKusRlHqySMxLPjuHAfiDIpo7fpFr9nUr8kW0iXBynzhkd2PmcDh4VIadfR3Ea3ELbkkG5DhhniQcggEHII4+FYJdZgSNpnk2ok/ydyVcBZesCbTw5bj63LvzigwdHdIa269pHVmu7ua6JUEBVbaET7lUCsXSzRGvIVSKTq5YpUmgkxnY4yrZx3bGYfeK3X1WMIJMswaWSBAquXeVGdWRVxk4KOc+Ck8uNb0bZAPHiM8QRz8R40EVbaDELBNNkAdFt0tn7t21QpceeePvqIstM1S2UW8F1aTRINsbTpMsqIPVQlDhsDhngeFXKlBS5eis88sFze3SySQXMc2FQpHHEgZuriXJJYvsJZiThccKulKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUClKUEBF0fSNJurfEtwbz5zBJjWeRpMIuccCy8sZKgmsS9GUWGW2SRurnktpNrbmKdX1YZdxbJBEajy41ZKUEFFogW3jtg/C3njmU7BlkScSKjceLEKAW5k5YjJrc1SxFxC0JZl3bGVhx2yI6ujeeGVT54qRpQQEmgdZHJHNIGa5uba5mITCt1TRYjVSTwKQqpyTzJ8qlZrYNG0I7KsjRjA9VSu0Y+6tqlBWYOjmIJYZZ97XFvHZ7lQIEhRGVNq5bjl3JJPHPcBWWbQmeGeKWZGe7mjndurwgKLEoXZvOV2xKDlu8+6rDSgra9GgYY7d5n2RzyzuEDRht2/bEmGJVFL5AyfVHGtux0gxG3YyljaW0lrkrgyKxiw7ceYEQ+JqZpQQGv6CLsrukKbEdBgZPaliZmHHh2Y2X3OfCsd10dDQxQo8eLa5luUEib0IcTARld68FEvDj9AVY6UFf1TQTcS9YZtqSQxQTIEBLokhk7DbuzknByDw5YPGst7ovWfKPnSovY4YXwvFEUOrbTnmVcjPdz41N0oIzSdOFuroruyvM8q7iSU3gMwznjly7Z+tjurVl0FXjaF23LJdtdsCvBlaXeY2GeWOGfPlU7Sgrtt0fMcMMSXBL2kss0buu7fv6wMJBuBPZlYZBHEA+VTcecDcQTgZIGAT3kDJ4ffWelApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlApSlB//Z" tvg-name="Dubai Racing"  group-title="",Dubai Racing
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+
+#EXTINF:9, tvg-id="Zoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Channel_Win.png/revision/latest?cb=20191228150301" tvg-name="Channel Win"  group-title="",Channel Win
+https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+#EXTINF:-1, tvg-id="STAR WORLD (IN):-" tvg-logo="Logo N/A" tvg-name="STAR WORLD (IN):-"  group-title="Unsorted",STAR WORLD (IN):-
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TLC HD" tvg-logo="Logo N/A" tvg-name="TLC HD"  group-title="Unsorted",TLC HD
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="92 UK" tvg-logo="Logo N/A" tvg-name="92 UK"  group-title="Unsorted",92 UK
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="MTV Beats" tvg-logo="Logo N/A" tvg-name="MTV Beats"  group-title="Unsorted",MTV Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+#EXTINF:-1, tvg-id="92 News" tvg-logo="Logo N/A" tvg-name="92 News"  group-title="Unsorted",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Harvest TV USA" tvg-logo="Logo N/A" tvg-name="Harvest TV USA"  group-title="Unsorted",Harvest TV USA
+http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Zindagi TV" tvg-logo="Logo N/A" tvg-name="Zindagi TV"  group-title="Unsorted",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Dunya News" tvg-logo="Logo N/A" tvg-name="Dunya News"  group-title="Unsorted",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+
+#EXTINF:-1, tvg-id="Olympic Channel (HD)" tvg-logo="Logo N/A" tvg-name="Olympic Channel (HD)"  group-title="Unsorted",Olympic Channel (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
+#EXTINF:-1, tvg-id="NBC" tvg-logo="Logo N/A" tvg-name="NBC"  group-title="Unsorted",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+
+#EXTINF:-1, tvg-id="Subrang TV (USA)" tvg-logo="Logo N/A" tvg-name="Subrang TV (USA)"  group-title="Unsorted",Subrang TV (USA)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="EBS KIDS" tvg-logo="Logo N/A" tvg-name="EBS KIDS"  group-title="Unsorted",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ESPN News" tvg-logo="Logo N/A" tvg-name="ESPN News"  group-title="Unsorted",ESPN News
+https://gma2.blab.email/espnews.m3u8
+
+#EXTINF:-1, tvg-id="HBO2 [720p]" tvg-logo="Logo N/A" tvg-name="HBO2 [720p]"  group-title="Unsorted",HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+
+#EXTINF:-1, tvg-id="Filmrise Crime" tvg-logo="Logo N/A" tvg-name="Filmrise Crime"  group-title="Unsorted",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="Logo N/A" tvg-name="ESPN 2"  group-title="Unsorted",ESPN 2
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1, tvg-id="Ads sport cricket" tvg-logo="Logo N/A" tvg-name="Ads sport cricket"  group-title="Unsorted",Ads sport cricket
+http://212.47.252.54/hls/stream.m3u8
+
+#EXTINF:-1, tvg-id="ESPN U" tvg-logo="Logo N/A" tvg-name="ESPN U"  group-title="Unsorted",ESPN U
+https://gma2.blab.email/espnu.m3u8
+
+#EXTINF:-1, tvg-id="GOLF NETWORK" tvg-logo="Logo N/A" tvg-name="GOLF NETWORK"  group-title="Unsorted",GOLF NETWORK
+http://203.162.235.41:16924
+
+#EXTINF:-1, tvg-id="ABC News" tvg-logo="Logo N/A" tvg-name="ABC News"  group-title="Unsorted",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1, tvg-id="IRIB Press TV" tvg-logo="Logo N/A" tvg-name="IRIB Press TV"  group-title="Unsorted",IRIB Press TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BBC News" tvg-logo="Logo N/A" tvg-name="BBC News"  group-title="Unsorted",BBC News
+http://51.52.156.22:8888/http/004
+
+#EXTINF:-1, tvg-id="CGTN" tvg-logo="Logo N/A" tvg-name="CGTN"  group-title="Unsorted",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
+#EXTINF:-1, tvg-id="Arirang" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Newsmax" tvg-logo="Logo N/A" tvg-name="Newsmax"  group-title="Unsorted",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1, tvg-id="Cheddar Big News" tvg-logo="Logo N/A" tvg-name="Cheddar Big News"  group-title="Unsorted",Cheddar Big News
+https://live.chdrstatic.com/cbn/index.m3u8
+
+#EXTINF:-1, tvg-id="Deutsche Welle (English)" tvg-logo="Logo N/A" tvg-name="Deutsche Welle (English)"  group-title="Unsorted",Deutsche Welle (English)
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+
+#EXTINF:-1, tvg-id="NASA" tvg-logo="Logo N/A" tvg-name="NASA"  group-title="Unsorted",NASA
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="France 24" tvg-logo="Logo N/A" tvg-name="France 24"  group-title="Unsorted",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+
+#EXTINF:-1, tvg-id="Euronews" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Unsorted",Euronews
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/EuroNews.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg Asia" tvg-logo="Logo N/A" tvg-name="Bloomberg Asia"  group-title="Unsorted",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1, tvg-id="Tennis Channel" tvg-logo="Logo N/A" tvg-name="Tennis Channel"  group-title="Unsorted",Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+
+#EXTINF:-1, tvg-id="TRT World" tvg-logo="Logo N/A" tvg-name="TRT World"  group-title="Unsorted",TRT World
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+
+#EXTINF:-1, tvg-id="Cheddar" tvg-logo="Logo N/A" tvg-name="Cheddar"  group-title="Unsorted",Cheddar
+https://live.chdrstatic.com/cheddar/index.m3u8
+
+#EXTINF:-1, tvg-id="RT" tvg-logo="Logo N/A" tvg-name="RT"  group-title="Unsorted",RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+
+#EXTINF:-1, tvg-id="Fox Sports 501" tvg-logo="Logo N/A" tvg-name="Fox Sports 501"  group-title="Unsorted",Fox Sports 501
+http://45.58.62.92:8080
+
+#EXTINF:-1, tvg-id="AVT KHYBER" tvg-logo="Logo N/A" tvg-name="AVT KHYBER"  group-title="Unsorted",AVT KHYBER
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Docurama" tvg-logo="Logo N/A" tvg-name="Docurama"  group-title="Unsorted",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="One Golf" tvg-logo="Logo N/A" tvg-name="One Golf"  group-title="Unsorted",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Sports" tvg-logo="Logo N/A" tvg-name="Discovery Sports"  group-title="Unsorted",Discovery Sports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+
+#EXTINF:-1, tvg-id="Tennis Channel+" tvg-logo="Logo N/A" tvg-name="Tennis Channel+"  group-title="Unsorted",Tennis Channel+
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+
+#EXTINF:-1, tvg-id="Bollywood TV" tvg-logo="Logo N/A" tvg-name="Bollywood TV"  group-title="Unsorted",Bollywood TV
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+
+#EXTINF:-1, tvg-id="Monarch TV" tvg-logo="Logo N/A" tvg-name="Monarch TV"  group-title="Unsorted",Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+
+#EXTINF:-1, tvg-id="TMZ" tvg-logo="Logo N/A" tvg-name="TMZ"  group-title="Unsorted",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="Filmrise Movies" tvg-logo="Logo N/A" tvg-name="Filmrise Movies"  group-title="Unsorted",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
+#EXTINF:-1, tvg-id="Filmrise Classics" tvg-logo="Logo N/A" tvg-name="Filmrise Classics"  group-title="Unsorted",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="People TV" tvg-logo="Logo N/A" tvg-name="People TV"  group-title="Unsorted",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+
+#EXTINF:-1, tvg-id="Filmrise Family" tvg-logo="Logo N/A" tvg-name="Filmrise Family"  group-title="Unsorted",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="Spydar TV" tvg-logo="Logo N/A" tvg-name="Spydar TV"  group-title="Unsorted",Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Movies Kingdom" tvg-logo="Logo N/A" tvg-name="Movies Kingdom"  group-title="Unsorted",Movies Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1, tvg-id="Screamfest" tvg-logo="Logo N/A" tvg-name="Screamfest"  group-title="Unsorted",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1, tvg-id="CGTN Documentary" tvg-logo="Logo N/A" tvg-name="CGTN Documentary"  group-title="Unsorted",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1, tvg-id="Mylife4U" tvg-logo="Logo N/A" tvg-name="Mylife4U"  group-title="Unsorted",Mylife4U
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+
+#EXTINF:-1, tvg-id="FASTWAY NEWS" tvg-logo="Logo N/A" tvg-name="FASTWAY NEWS"  group-title="Unsorted",FASTWAY NEWS
+http://163.47.214.155:1935/fwnews/live/chunklist_w1742074574.m3u8
+
+#EXTINF:-1, tvg-id="Aaj Tak" tvg-logo="Logo N/A" tvg-name="Aaj Tak"  group-title="Unsorted",Aaj Tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Bollywood Now" tvg-logo="Logo N/A" tvg-name="Bollywood Now"  group-title="Unsorted",Bollywood Now
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
+#EXTINF:-1, tvg-id="Hulchul TV" tvg-logo="Logo N/A" tvg-name="Hulchul TV"  group-title="Unsorted",Hulchul TV
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+
+#EXTINF:-1, tvg-id="Malaimurasu" tvg-logo="Logo N/A" tvg-name="Malaimurasu"  group-title="Unsorted",Malaimurasu
+https://wowzaprod170-i.akamaihd.net/hls/live/630629/b6055932/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Vasanth TV" tvg-logo="Logo N/A" tvg-name="Vasanth TV"  group-title="Unsorted",Vasanth TV
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+
+#EXTINF:-1, tvg-id="Marutam TV" tvg-logo="Logo N/A" tvg-name="Marutam TV"  group-title="Unsorted",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
+#EXTINF:-1, tvg-id="Velicham" tvg-logo="Logo N/A" tvg-name="Velicham"  group-title="Unsorted",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Tamil Business" tvg-logo="Logo N/A" tvg-name="Tamil Business"  group-title="Unsorted",Tamil Business
+http://santhoratv.zecast.net/tamilbusinesstv/tamilbusinesstv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Suria" tvg-logo="Logo N/A" tvg-name="Suria"  group-title="Unsorted",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1, tvg-id="KTV Tamil Movie Classic" tvg-logo="Logo N/A" tvg-name="KTV Tamil Movie Classic"  group-title="Unsorted",KTV Tamil Movie Classic
+https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/index.m3u8
+
+#EXTINF:-1, tvg-id="IBC Kids" tvg-logo="Logo N/A" tvg-name="IBC Kids"  group-title="Unsorted",IBC Kids
+https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+
+#EXTINF:-1, tvg-id="Santhora Short Flim" tvg-logo="Logo N/A" tvg-name="Santhora Short Flim"  group-title="Unsorted",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
+#EXTINF:-1, tvg-id="Channel U" tvg-logo="Logo N/A" tvg-name="Channel U"  group-title="Unsorted",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+#EXTINF:-1, tvg-id="B4U Music" tvg-logo="Logo N/A" tvg-name="B4U Music"  group-title="Unsorted",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+
+#EXTINF:-1, tvg-id="Channel 5" tvg-logo="Logo N/A" tvg-name="Channel 5"  group-title="Unsorted",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1, tvg-id="Astro Awani" tvg-logo="Logo N/A" tvg-name="Astro Awani"  group-title="Unsorted",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1, tvg-id="Channel NewsAsia" tvg-logo="Logo N/A" tvg-name="Channel NewsAsia"  group-title="Unsorted",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1, tvg-id="Channel 5" tvg-logo="Logo N/A" tvg-name="Channel 5"  group-title="Unsorted",Channel 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1, tvg-id="Vasantham" tvg-logo="Logo N/A" tvg-name="Vasantham"  group-title="Unsorted",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1, tvg-id="Astro Go Shop" tvg-logo="Logo N/A" tvg-name="Astro Go Shop"  group-title="Unsorted",Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+
+#EXTINF:-1, tvg-id="8TV" tvg-logo="Logo N/A" tvg-name="8TV"  group-title="Unsorted",8TV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+
+#EXTINF:-1, tvg-id="HOLLYWOOD" tvg-logo="Logo N/A" tvg-name="HOLLYWOOD"  group-title="Unsorted",HOLLYWOOD
+http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+
+#EXTINF:-1, tvg-id="TV Ikim" tvg-logo="Logo N/A" tvg-name="TV Ikim"  group-title="Unsorted",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Fox Action Movies" tvg-logo="Logo N/A" tvg-name="Fox Action Movies"  group-title="Unsorted",Fox Action Movies
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+
+#EXTINF:-1, tvg-id="Drama Sangat" tvg-logo="Logo N/A" tvg-name="Drama Sangat"  group-title="Unsorted",Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+
+#EXTINF:-1, tvg-id="TV9" tvg-logo="Logo N/A" tvg-name="TV9"  group-title="Unsorted",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1, tvg-id="BritCom" tvg-logo="Logo N/A" tvg-name="BritCom"  group-title="Unsorted",BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+
+#EXTINF:-1, tvg-id="BYUtv" tvg-logo="Logo N/A" tvg-name="BYUtv"  group-title="Unsorted",BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+
+#EXTINF:-1, tvg-id="Dove Channel" tvg-logo="Logo N/A" tvg-name="Dove Channel"  group-title="Unsorted",Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+
+#EXTINF:-1, tvg-id="AMGTV" tvg-logo="Logo N/A" tvg-name="AMGTV"  group-title="Unsorted",AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="American Horrors" tvg-logo="Logo N/A" tvg-name="American Horrors"  group-title="Unsorted",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="WHDH-TV" tvg-logo="Logo N/A" tvg-name="WHDH-TV"  group-title="Unsorted",WHDH-TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+
+#EXTINF:-1, tvg-id="Sony Movies" tvg-logo="Logo N/A" tvg-name="Sony Movies"  group-title="Unsorted",Sony Movies
+http://51.52.156.22:8888/http/009
+
+#EXTINF:-1, tvg-id="Punjabi Zindabad" tvg-logo="Logo N/A" tvg-name="Punjabi Zindabad"  group-title="Unsorted",Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="Only Music" tvg-logo="Logo N/A" tvg-name="Only Music"  group-title="Unsorted",Only Music
+http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
+
+#EXTINF:-1, tvg-id="92 News" tvg-logo="Logo N/A" tvg-name="92 News"  group-title="Unsorted",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Life Punjabi" tvg-logo="Logo N/A" tvg-name="Life Punjabi"  group-title="Unsorted",Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+
+#EXTINF:-1, tvg-id="MH1 Prim" tvg-logo="Logo N/A" tvg-name="MH1 Prim"  group-title="Unsorted",MH1 Prim
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+
+#EXTINF:-1, tvg-id="BritAsia TV" tvg-logo="Logo N/A" tvg-name="BritAsia TV"  group-title="Unsorted",BritAsia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+
+#EXTINF:-1, tvg-id="MH1 Music" tvg-logo="Logo N/A" tvg-name="MH1 Music"  group-title="Unsorted",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Global Punjab" tvg-logo="Logo N/A" tvg-name="Global Punjab"  group-title="Unsorted",Global Punjab
+https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Channel Y" tvg-logo="Logo N/A" tvg-name="Channel Y"  group-title="Unsorted",Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV Punjab" tvg-logo="Logo N/A" tvg-name="TV Punjab"  group-title="Unsorted",TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+#EXTINF:-1, tvg-id="Naura" tvg-logo="Logo N/A" tvg-name="Naura"  group-title="Unsorted",Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1, tvg-id="DD National" tvg-logo="Logo N/A" tvg-name="DD National"  group-title="Unsorted",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1, tvg-id="ARY Family" tvg-logo="Logo N/A" tvg-name="ARY Family"  group-title="Unsorted",ARY Family
+http://95.211.211.168/live/aryfamily0071/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="FastWay" tvg-logo="Logo N/A" tvg-name="FastWay"  group-title="Unsorted",FastWay
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
+
+#EXTINF:-1, tvg-id="92 News" tvg-logo="Logo N/A" tvg-name="92 News"  group-title="Unsorted",92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Desh TV" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted",Desh TV
+https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Eawaz TV (CA)" tvg-logo="Logo N/A" tvg-name="Eawaz TV (CA)"  group-title="Unsorted",Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="B4U Kadak" tvg-logo="Logo N/A" tvg-name="B4U Kadak"  group-title="Unsorted",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Channel-S" tvg-logo="Logo N/A" tvg-name="Channel-S"  group-title="Unsorted",Channel-S
+https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+
+#EXTINF:-1, tvg-id="Dunya News" tvg-logo="Logo N/A" tvg-name="Dunya News"  group-title="Unsorted",Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Lahore News" tvg-logo="Logo N/A" tvg-name="Lahore News"  group-title="Unsorted",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Eye 95 America (US)" tvg-logo="Logo N/A" tvg-name="Eye 95 America (US)"  group-title="Unsorted",Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="B4U Music" tvg-logo="Logo N/A" tvg-name="B4U Music"  group-title="Unsorted",B4U Music
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Khyber News TV" tvg-logo="Logo N/A" tvg-name="Khyber News TV"  group-title="Unsorted",Khyber News TV
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Zindagi TV" tvg-logo="Logo N/A" tvg-name="Zindagi TV"  group-title="Unsorted",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Nazrana TV" tvg-logo="Logo N/A" tvg-name="Nazrana TV"  group-title="Unsorted",Nazrana TV
+http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Bangla TV" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted",Bangla TV
+http://103.205.133.14/hls/banglatv.m3u8
+
+#EXTINF:-1, tvg-id="Tag TV" tvg-logo="Logo N/A" tvg-name="Tag TV"  group-title="Unsorted",Tag TV
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="NTV (US Pacific Time)" tvg-logo="Logo N/A" tvg-name="NTV (US Pacific Time)"  group-title="Unsorted",NTV (US Pacific Time)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+
+#EXTINF:-1, tvg-id="Channel T1" tvg-logo="Logo N/A" tvg-name="Channel T1"  group-title="Unsorted",Channel T1
+http://128.199.212.160/channelt1/1080/index.m3u8
+
+#EXTINF:-1, tvg-id="PakUs TV" tvg-logo="Logo N/A" tvg-name="PakUs TV"  group-title="Unsorted",PakUs TV
+https://livestream.5centscdn.com/pakustv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="NTV (UK Time)" tvg-logo="Logo N/A" tvg-name="NTV (UK Time)"  group-title="Unsorted",NTV (UK Time)
+https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
+
+#EXTINF:-1, tvg-id="Maasranga TV" tvg-logo="Logo N/A" tvg-name="Maasranga TV"  group-title="Unsorted",Maasranga TV
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Madani TV Bangla" tvg-logo="Logo N/A" tvg-name="Madani TV Bangla"  group-title="Unsorted",Madani TV Bangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Deepto TV" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted",Deepto TV
+https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Gazi TV" tvg-logo="Logo N/A" tvg-name="Gazi TV"  group-title="Unsorted",Gazi TV
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Channel 24" tvg-logo="Logo N/A" tvg-name="Channel 24"  group-title="Unsorted",Channel 24
+https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted",NTV
+https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick Sonic Bangla" tvg-logo="Logo N/A" tvg-name="Nick Sonic Bangla"  group-title="Unsorted",Nick Sonic Bangla
+https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Hum News" tvg-logo="Logo N/A" tvg-name="Hum News"  group-title="Unsorted",Hum News
+http://95.211.211.168/live/humnews0189/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="Star Jalsha Movie" tvg-logo="Logo N/A" tvg-name="Star Jalsha Movie"  group-title="Unsorted",Star Jalsha Movie
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1, tvg-id="IN: SONY TEN 3" tvg-logo="Logo N/A" tvg-name="IN: SONY TEN 3"  group-title="Unsorted",IN: SONY TEN 3
+http://103.205.133.19/hls/ten3.m3u8
+
+#EXTINF:-1, tvg-id="Nick JR." tvg-logo="Logo N/A" tvg-name="Nick JR."  group-title="Unsorted",Nick JR.
+https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Duronto TV" tvg-logo="Logo N/A" tvg-name="Duronto TV"  group-title="Unsorted",Duronto TV
+https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="IN: SONY TEN 2" tvg-logo="Logo N/A" tvg-name="IN: SONY TEN 2"  group-title="Unsorted",IN: SONY TEN 2
+http://103.205.133.19/hls/ten2.m3u8
+
+#EXTINF:-1, tvg-id="Asian TV" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Unsorted",Asian TV
+https://itpolly.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN News" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted",ATN News
+http://103.205.133.14/hls/atnnews.m3u8
+
+#EXTINF:-1, tvg-id="Anando TV" tvg-logo="Logo N/A" tvg-name="Anando TV"  group-title="Unsorted",Anando TV
+http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Asian TV" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Unsorted",Asian TV
+https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Disney Channel india" tvg-logo="Logo N/A" tvg-name="Disney Channel india"  group-title="Unsorted",Disney Channel india
+http://45.249.187.238:8081/hls/live0.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+https://itpolly.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://103.205.133.14/hls/atnbangla.m3u8
+
+#EXTINF:-1, tvg-id="Lahore News" tvg-logo="Logo N/A" tvg-name="Lahore News"  group-title="Unsorted",Lahore News
+http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/106.m3u8
+
+#EXTINF:-1, tvg-id="ATN Music" tvg-logo="Logo N/A" tvg-name="ATN Music"  group-title="Unsorted",ATN Music
+http://103.49.168.172:8081/ebox/bd_atn_music/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN News" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted",ATN News
+https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ATN Bangla" tvg-logo="Logo N/A" tvg-name="ATN Bangla"  group-title="Unsorted",ATN Bangla
+http://103.205.133.19/hls/atnbangla.m3u8
+
+#EXTINF:-1, tvg-id="ATN News" tvg-logo="Logo N/A" tvg-name="ATN News"  group-title="Unsorted",ATN News
+http://103.205.133.19/hls/atnnews.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+https://itpolly.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted",BTV
+http://103.205.133.14/hls/btv.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://103.205.133.14/hls/banglavision.m3u8
+
+#EXTINF:-1, tvg-id="Boishakhi" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Unsorted",Boishakhi
+https://itpolly.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+http://iptv.kitv.live:1935/live/Shari/MTV-P/120.m3u8
+
+#EXTINF:-1, tvg-id="Banglavision" tvg-logo="Logo N/A" tvg-name="Banglavision"  group-title="Unsorted",Banglavision
+https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Bangla TV" tvg-logo="Logo N/A" tvg-name="Bangla TV"  group-title="Unsorted",Bangla TV
+http://103.205.133.19/hls/banglatv.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+http://103.205.133.14/hls/btvworld.m3u8
+
+#EXTINF:-1, tvg-id="Boishakhi" tvg-logo="Logo N/A" tvg-name="Boishakhi"  group-title="Unsorted",Boishakhi
+https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Asian TV" tvg-logo="Logo N/A" tvg-name="Asian TV"  group-title="Unsorted",Asian TV
+http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/122.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+http://103.205.133.19/hls/btvworld.m3u8
+
+#EXTINF:-1, tvg-id="BTV World" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted",BTV World
+https://itpolly.iptv.digijadoo.net/live/btv_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BTV" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted",BTV
+http://103.205.133.19/hls/btv.m3u8
+
+#EXTINF:-1, tvg-id="Channel 9" tvg-logo="Logo N/A" tvg-name="Channel 9"  group-title="Unsorted",Channel 9
+https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+#EXTINF:-1, tvg-id="DBC News" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted",DBC News
+http://103.205.133.19/hls/dbcnews.m3u8
+
+#EXTINF:-1, tvg-id="Channel 9" tvg-logo="Logo N/A" tvg-name="Channel 9"  group-title="Unsorted",Channel 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/111.m3u8
+
+#EXTINF:-1, tvg-id="Channel I" tvg-logo="Logo N/A" tvg-name="Channel I"  group-title="Unsorted",Channel I
+https://itpolly.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Channel 9" tvg-logo="Logo N/A" tvg-name="Channel 9"  group-title="Unsorted",Channel 9
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Channel 24" tvg-logo="Logo N/A" tvg-name="Channel 24"  group-title="Unsorted",Channel 24
+http://103.205.133.19/hls/channel24.m3u8
+
+#EXTINF:-1, tvg-id="DBC News" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted",DBC News
+https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Channel I" tvg-logo="Logo N/A" tvg-name="Channel I"  group-title="Unsorted",Channel I
+https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+http://iptv.kitv.live:1935/live/Shari/MTV-P/115.m3u8
+
+#EXTINF:-1, tvg-id="DBC News" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted",DBC News
+https://itpolly.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="DBC News" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted",DBC News
+http://103.205.133.14/hls/dbcnews.m3u8
+
+#EXTINF:-1, tvg-id="Channel I" tvg-logo="Logo N/A" tvg-name="Channel I"  group-title="Unsorted",Channel I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/108.m3u8
+
+#EXTINF:-1, tvg-id="DBC News" tvg-logo="Logo N/A" tvg-name="DBC News"  group-title="Unsorted",DBC News
+http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Deepto TV" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted",Deepto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/109.m3u8
+
+#EXTINF:-1, tvg-id="Duronto TV" tvg-logo="Logo N/A" tvg-name="Duronto TV"  group-title="Unsorted",Duronto TV
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Deepto TV" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted",Deepto TV
+http://103.205.133.19/hls/deeptotv.m3u8
+
+#EXTINF:-1, tvg-id="Desh TV" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted",Desh TV
+http://103.205.133.14/hls/deshtv.m3u8
+
+#EXTINF:-1, tvg-id="Desh TV" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted",Desh TV
+https://itpolly.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Deepto TV" tvg-logo="Logo N/A" tvg-name="Deepto TV"  group-title="Unsorted",Deepto TV
+http://103.205.133.14/hls/deeptotv.m3u8
+
+#EXTINF:-1, tvg-id="Desh TV" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted",Desh TV
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Channel 24" tvg-logo="Logo N/A" tvg-name="Channel 24"  group-title="Unsorted",Channel 24
+http://103.205.133.14/hls/channel24.m3u8
+
+#EXTINF:-1, tvg-id="Duronto TV" tvg-logo="Logo N/A" tvg-name="Duronto TV"  group-title="Unsorted",Duronto TV
+https://itpolly.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ekattor" tvg-logo="Logo N/A" tvg-name="Ekattor"  group-title="Unsorted",Ekattor
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Duronto TV" tvg-logo="Logo N/A" tvg-name="Duronto TV"  group-title="Unsorted",Duronto TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/169.m3u8
+
+#EXTINF:-1, tvg-id="Desh TV" tvg-logo="Logo N/A" tvg-name="Desh TV"  group-title="Unsorted",Desh TV
+http://103.135.208.14/live/ibox/bd/33.m3u8
+
+#EXTINF:-1, tvg-id="Ekattor" tvg-logo="Logo N/A" tvg-name="Ekattor"  group-title="Unsorted",Ekattor
+http://iptv.kitv.live:1935/live/Shari/MTV-P/105.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+http://103.205.133.19/hls/ekushey.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="GTV" tvg-logo="Logo N/A" tvg-name="GTV"  group-title="Unsorted",GTV
+http://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+http://103.205.133.14/hls/ekushey.m3u8
+
+#EXTINF:-1, tvg-id="Gaan Bangla" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted",Gaan Bangla
+https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/118.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Gaan Bangla" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted",Gaan Bangla
+http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Gaan Bangla" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted",Gaan Bangla
+http://103.205.133.14/hls/gaanbangla.m3u8
+
+#EXTINF:-1, tvg-id="Gaan Bangla" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted",Gaan Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/121.m3u8
+
+#EXTINF:-1, tvg-id="GTV" tvg-logo="Logo N/A" tvg-name="GTV"  group-title="Unsorted",GTV
+http://103.214.202.218:8081/live/gazi-bd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="GTV" tvg-logo="Logo N/A" tvg-name="GTV"  group-title="Unsorted",GTV
+http://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Gaan Bangla" tvg-logo="Logo N/A" tvg-name="Gaan Bangla"  group-title="Unsorted",Gaan Bangla
+http://103.205.133.19/hls/gaanbangla.m3u8
+
+#EXTINF:-1, tvg-id="GTV" tvg-logo="Logo N/A" tvg-name="GTV"  group-title="Unsorted",GTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/110.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+http://103.205.133.14/hls/independent.m3u8
+
+#EXTINF:-1, tvg-id="GTV" tvg-logo="Logo N/A" tvg-name="GTV"  group-title="Unsorted",GTV
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+http://103.205.133.19/hls/independent.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Independent" tvg-logo="Logo N/A" tvg-name="Independent"  group-title="Unsorted",Independent
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="JAMUNA TV" tvg-logo="Logo N/A" tvg-name="JAMUNA TV"  group-title="Unsorted",JAMUNA TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/116.m3u8
+
+#EXTINF:-1, tvg-id="JAMUNA TV" tvg-logo="Logo N/A" tvg-name="JAMUNA TV"  group-title="Unsorted",JAMUNA TV
+https://edge01.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ekushey TV" tvg-logo="Logo N/A" tvg-name="Ekushey TV"  group-title="Unsorted",Ekushey TV
+http://103.135.208.14/live/ibox/bd/20.m3u8
+
+#EXTINF:-1, tvg-id="JAMUNA TV" tvg-logo="Logo N/A" tvg-name="JAMUNA TV"  group-title="Unsorted",JAMUNA TV
+http://103.205.133.19/hls/jamunatv.m3u8
+
+#EXTINF:-1, tvg-id="Maasranga" tvg-logo="Logo N/A" tvg-name="Maasranga"  group-title="Unsorted",Maasranga
+http://pioneer.anytv.live:8080/masranga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="Maasranga" tvg-logo="Logo N/A" tvg-name="Maasranga"  group-title="Unsorted",Maasranga
+https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+
+#EXTINF:-1, tvg-id="JAMUNA TV" tvg-logo="Logo N/A" tvg-name="JAMUNA TV"  group-title="Unsorted",JAMUNA TV
+http://103.205.133.14/hls/jamunatv.m3u8
+
+#EXTINF:-1, tvg-id="Maasranga" tvg-logo="Logo N/A" tvg-name="Maasranga"  group-title="Unsorted",Maasranga
+http://iptv.kitv.live:1935/live/Shari/MTV-P/104.m3u8
+
+#EXTINF:-1, tvg-id="MOHONA TV" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted",MOHONA TV
+https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MOHONA TV" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted",MOHONA TV
+http://103.205.133.14/hls/mohonatv.m3u8
+
+#EXTINF:-1, tvg-id="MY TV" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted",MY TV
+http://103.205.133.14/hls/mytv.m3u8
+
+#EXTINF:-1, tvg-id="MOHONA TV" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted",MOHONA TV
+https://itpolly.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MY TV" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted",MY TV
+https://itpolly.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MY TV" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted",MY TV
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MOHONA TV" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted",MOHONA TV
+http://103.205.133.19/hls/mohonatv.m3u8
+
+#EXTINF:-1, tvg-id="Nagorik TV" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="Unsorted",Nagorik TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/107.m3u8
+
+#EXTINF:-1, tvg-id="MY TV" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted",MY TV
+http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nagorik TV" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="Unsorted",Nagorik TV
+http://103.205.133.14/hls/nagorik.m3u8
+
+#EXTINF:-1, tvg-id="Sangsad TV" tvg-logo="Logo N/A" tvg-name="Sangsad TV"  group-title="Unsorted",Sangsad TV
+https://itpolly.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MY TV" tvg-logo="Logo N/A" tvg-name="MY TV"  group-title="Unsorted",MY TV
+http://103.205.133.19/hls/mytv.m3u8
+
+#EXTINF:-1, tvg-id="Nagorik TV" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="Unsorted",Nagorik TV
+http://103.135.208.14/live/ibox/bd/100.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nagorik TV" tvg-logo="Logo N/A" tvg-name="Nagorik TV"  group-title="Unsorted",Nagorik TV
+http://103.205.133.19/hls/nagorik.m3u8
+
+#EXTINF:-1, tvg-id="MOHONA TV" tvg-logo="Logo N/A" tvg-name="MOHONA TV"  group-title="Unsorted",MOHONA TV
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+http://103.205.133.19/hls/news24.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/119.m3u8
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted",NTV
+http://103.205.133.14/hls/ntv.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+http://103.205.133.14/hls/news24.m3u8
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted",NTV
+https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+
+#EXTINF:-1, tvg-id="RTV" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted",RTV
+http://103.205.133.14/hls/rtv.m3u8
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted",NTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/112.m3u8
+
+#EXTINF:-1, tvg-id="RTV" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted",RTV
+https://itpolly.iptv.digijadoo.net/live/rtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NTV" tvg-logo="Logo N/A" tvg-name="NTV"  group-title="Unsorted",NTV
+http://103.205.133.19/hls/ntv.m3u8
+
+#EXTINF:-1, tvg-id="RTV" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted",RTV
+http://103.205.133.19/hls/rtv.m3u8
+
+#EXTINF:-1, tvg-id="RTV" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted",RTV
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="RTV" tvg-logo="Logo N/A" tvg-name="RTV"  group-title="Unsorted",RTV
+https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla" tvg-logo="Logo N/A" tvg-name="Zee Bangla"  group-title="Unsorted",Zee Bangla
+https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="SATV" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted",SATV
+https://itpolly.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="SATV" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted",SATV
+https://edge01.iptv.digijadoo.net/live/sa_tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sangsad TV" tvg-logo="Logo N/A" tvg-name="Sangsad TV"  group-title="Unsorted",Sangsad TV
+https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="SATV" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted",SATV
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="SATV" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted",SATV
+http://103.205.133.14/hls/satv.m3u8
+
+#EXTINF:-1, tvg-id="Shopno TV" tvg-logo="Logo N/A" tvg-name="Shopno TV"  group-title="Unsorted",Shopno TV
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+http://103.205.133.19/hls/somoy.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/117.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold SD" tvg-logo="Logo N/A" tvg-name="Star Gold SD"  group-title="Unsorted",Star Gold SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/141.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+http://103.205.133.14/hls/somoy.m3u8
+
+#EXTINF:-1, tvg-id="Star Jalsha HD" tvg-logo="Logo N/A" tvg-name="Star Jalsha HD"  group-title="Unsorted",Star Jalsha HD
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Jalsha HD" tvg-logo="Logo N/A" tvg-name="Star Jalsha HD"  group-title="Unsorted",Star Jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Shomoy TV" tvg-logo="Logo N/A" tvg-name="Shomoy TV"  group-title="Unsorted",Shomoy TV
+http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
+
+#EXTINF:-1, tvg-id="SATV" tvg-logo="Logo N/A" tvg-name="SATV"  group-title="Unsorted",SATV
+http://103.205.133.19/hls/satv.m3u8
+
+#EXTINF:-1, tvg-id="Jalsha Movies" tvg-logo="Logo N/A" tvg-name="Jalsha Movies"  group-title="Unsorted",Jalsha Movies
+https://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla" tvg-logo="Logo N/A" tvg-name="Zee Bangla"  group-title="Unsorted",Zee Bangla
+http://103.205.133.19/hls/zeebangla.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla" tvg-logo="Logo N/A" tvg-name="Zee Bangla"  group-title="Unsorted",Zee Bangla
+http://43.251.86.2:8080/hls/channel_1.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla" tvg-logo="Logo N/A" tvg-name="Zee Bangla"  group-title="Unsorted",Zee Bangla
+http://103.205.133.14/hls/zeebangla.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla" tvg-logo="Logo N/A" tvg-name="Zee Bangla"  group-title="Unsorted",Zee Bangla
+https://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors Bangla HD" tvg-logo="Logo N/A" tvg-name="Colors Bangla HD"  group-title="Unsorted",Colors Bangla HD
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee 24 Ghanta" tvg-logo="Logo N/A" tvg-name="Zee 24 Ghanta"  group-title="Unsorted",Zee 24 Ghanta
+http://iptv.kitv.live:1935/live/Shari/MTV-P/192.m3u8
+
+#EXTINF:-1, tvg-id="Colors Bangla HD" tvg-logo="Logo N/A" tvg-name="Colors Bangla HD"  group-title="Unsorted",Colors Bangla HD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Jalsha HD" tvg-logo="Logo N/A" tvg-name="Star Jalsha HD"  group-title="Unsorted",Star Jalsha HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/125.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bangla HD" tvg-logo="Logo N/A" tvg-name="Zee Bangla HD"  group-title="Unsorted",Zee Bangla HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/124.m3u8
+
+#EXTINF:-1, tvg-id="Colors Bangla SD" tvg-logo="Logo N/A" tvg-name="Colors Bangla SD"  group-title="Unsorted",Colors Bangla SD
+https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors Bangla SD" tvg-logo="Logo N/A" tvg-name="Colors Bangla SD"  group-title="Unsorted",Colors Bangla SD
+https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors Bangla HD" tvg-logo="Logo N/A" tvg-name="Colors Bangla HD"  group-title="Unsorted",Colors Bangla HD
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="News 24" tvg-logo="Logo N/A" tvg-name="News 24"  group-title="Unsorted",News 24
+http://pioneer.anytv.live:8080/news24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="Ruposhi Bangla" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted",Ruposhi Bangla
+https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ruposhi Bangla" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted",Ruposhi Bangla
+http://103.205.133.14/hls/ruposhibangla.m3u8
+
+#EXTINF:-1, tvg-id="Sony Aath" tvg-logo="Logo N/A" tvg-name="Sony Aath"  group-title="Unsorted",Sony Aath
+http://103.205.133.14/hls/sony8.m3u8
+
+#EXTINF:-1, tvg-id="Ruposhi Bangla" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted",Ruposhi Bangla
+https://itpolly.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Tara Bangla" tvg-logo="Logo N/A" tvg-name="Tara Bangla"  group-title="Unsorted",Tara Bangla
+https://itpolly.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Tara Bangla" tvg-logo="Logo N/A" tvg-name="Tara Bangla"  group-title="Unsorted",Tara Bangla
+https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ruposhi Bangla" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted",Ruposhi Bangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+
+#EXTINF:-1, tvg-id="SangeetBangla" tvg-logo="Logo N/A" tvg-name="SangeetBangla"  group-title="Unsorted",SangeetBangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Aath" tvg-logo="Logo N/A" tvg-name="Sony Aath"  group-title="Unsorted",Sony Aath
+http://iptv.kitv.live:1935/live/Shari/MTV-P/123.m3u8
+
+#EXTINF:-1, tvg-id="Akash Aath" tvg-logo="Logo N/A" tvg-name="Akash Aath"  group-title="Unsorted",Akash Aath
+http://iptv.kitv.live:1935/live/Shari/MTV-P/130.m3u8
+
+#EXTINF:-1, tvg-id="PTV Sports" tvg-logo="Logo N/A" tvg-name="PTV Sports"  group-title="Unsorted",PTV Sports
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Aath" tvg-logo="Logo N/A" tvg-name="Sony Aath"  group-title="Unsorted",Sony Aath
+http://103.205.133.19/hls/sony8.m3u8
+
+#EXTINF:-1, tvg-id="SangeetBangla" tvg-logo="Logo N/A" tvg-name="SangeetBangla"  group-title="Unsorted",SangeetBangla
+https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="SangeetBangla" tvg-logo="Logo N/A" tvg-name="SangeetBangla"  group-title="Unsorted",SangeetBangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/176.m3u8
+
+#EXTINF:-1, tvg-id="DD Bangla" tvg-logo="Logo N/A" tvg-name="DD Bangla"  group-title="Unsorted",DD Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/313.m3u8
+
+#EXTINF:-1, tvg-id="Ruposhi Bangla" tvg-logo="Logo N/A" tvg-name="Ruposhi Bangla"  group-title="Unsorted",Ruposhi Bangla
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Bangla Time" tvg-logo="Logo N/A" tvg-name="Bangla Time"  group-title="Unsorted",Bangla Time
+http://103.205.133.14/hls/banglatime.m3u8
+
+#EXTINF:-1, tvg-id="Bangla Time" tvg-logo="Logo N/A" tvg-name="Bangla Time"  group-title="Unsorted",Bangla Time
+http://103.205.133.19/hls/banglatime.m3u8
+
+#EXTINF:-1, tvg-id="Sony Six HD" tvg-logo="Logo N/A" tvg-name="Sony Six HD"  group-title="Unsorted",Sony Six HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/158.m3u8
+
+#EXTINF:-1, tvg-id="Kolkata TV" tvg-logo="Logo N/A" tvg-name="Kolkata TV"  group-title="Unsorted",Kolkata TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/320.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports Select 1 HD" tvg-logo="Logo N/A" tvg-name="Star Sports Select 1 HD"  group-title="Unsorted",Star Sports Select 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/194.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports Select 2 HD" tvg-logo="Logo N/A" tvg-name="Star Sports Select 2 HD"  group-title="Unsorted",Star Sports Select 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/163.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports 1 HD" tvg-logo="Logo N/A" tvg-name="Star Sports 1 HD"  group-title="Unsorted",Star Sports 1 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/161.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 1 HD" tvg-logo="Logo N/A" tvg-name="Sony Ten 1 HD"  group-title="Unsorted",Sony Ten 1 HD
+http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 1" tvg-logo="Logo N/A" tvg-name="Sony Ten 1"  group-title="Unsorted",Sony Ten 1
+http://103.205.133.14/hls/ten1.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 1" tvg-logo="Logo N/A" tvg-name="Sony Ten 1"  group-title="Unsorted",Sony Ten 1
+http://103.205.133.19/hls/ten1.m3u8
+
+#EXTINF:-1, tvg-id="SangeetBangla" tvg-logo="Logo N/A" tvg-name="SangeetBangla"  group-title="Unsorted",SangeetBangla
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Six" tvg-logo="Logo N/A" tvg-name="Sony Six"  group-title="Unsorted",Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 2 HD" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 HD"  group-title="Unsorted",Sony Ten 2 HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/159.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 2 HD" tvg-logo="Logo N/A" tvg-name="Sony Ten 2 HD"  group-title="Unsorted",Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Ten 1" tvg-logo="Logo N/A" tvg-name="Sony Ten 1"  group-title="Unsorted",Sony Ten 1
+http://iptv.kitv.live:1935/live/Shari/MTV-P/156.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+http://iptv.kitv.live:1935/live/Shari/MTV-P/136.m3u8
+
+#EXTINF:-1, tvg-id="DD Sports" tvg-logo="Logo N/A" tvg-name="DD Sports"  group-title="Unsorted",DD Sports
+https://itpolly.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+
+#EXTINF:-1, tvg-id="DD Sports" tvg-logo="Logo N/A" tvg-name="DD Sports"  group-title="Unsorted",DD Sports
+https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Max" tvg-logo="Logo N/A" tvg-name="Sony Max"  group-title="Unsorted",Sony Max
+http://iptv.kitv.live:1935/live/Shari/MTV-P/140.m3u8
+
+#EXTINF:-1, tvg-id="Euro Sports" tvg-logo="Logo N/A" tvg-name="Euro Sports"  group-title="Unsorted",Euro Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/157.m3u8
+
+#EXTINF:-1, tvg-id="Sony TV" tvg-logo="Logo N/A" tvg-name="Sony TV"  group-title="Unsorted",Sony TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/133.m3u8
+
+#EXTINF:-1, tvg-id="Sony TV" tvg-logo="Logo N/A" tvg-name="Sony TV"  group-title="Unsorted",Sony TV
+http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="D Sports" tvg-logo="Logo N/A" tvg-name="D Sports"  group-title="Unsorted",D Sports
+http://iptv.kitv.live:1935/live/Shari/MTV-P/162.m3u8
+
+#EXTINF:-1, tvg-id="ZEE TV SD" tvg-logo="Logo N/A" tvg-name="ZEE TV SD"  group-title="Unsorted",ZEE TV SD
+http://103.205.133.19/hls/zeetv.m3u8
+
+#EXTINF:-1, tvg-id="ZEE TV SD" tvg-logo="Logo N/A" tvg-name="ZEE TV SD"  group-title="Unsorted",ZEE TV SD
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ZEE TV SD" tvg-logo="Logo N/A" tvg-name="ZEE TV SD"  group-title="Unsorted",ZEE TV SD
+https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Pix" tvg-logo="Logo N/A" tvg-name="Sony Pix"  group-title="Unsorted",Sony Pix
+http://iptv.kitv.live:1935/live/Shari/MTV-P/148.m3u8
+
+#EXTINF:-1, tvg-id="ZEE TV SD" tvg-logo="Logo N/A" tvg-name="ZEE TV SD"  group-title="Unsorted",ZEE TV SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/135.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bollywood" tvg-logo="Logo N/A" tvg-name="Zee Bollywood"  group-title="Unsorted",Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ZEE TV SD" tvg-logo="Logo N/A" tvg-name="ZEE TV SD"  group-title="Unsorted",ZEE TV SD
+http://103.205.133.14/hls/zeetv.m3u8
+
+#EXTINF:-1, tvg-id="Fox Sports News" tvg-logo="Logo N/A" tvg-name="Fox Sports News"  group-title="Unsorted",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+http://103.205.133.14/hls/zeecinema.m3u8
+
+#EXTINF:-1, tvg-id="Zee ETC" tvg-logo="Logo N/A" tvg-name="Zee ETC"  group-title="Unsorted",Zee ETC
+http://iptv.kitv.live:1935/live/Shari/MTV-P/179.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zee Cinema" tvg-logo="Logo N/A" tvg-name="Zee Cinema"  group-title="Unsorted",Zee Cinema
+http://103.205.133.19/hls/zeecinema.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus HD" tvg-logo="Logo N/A" tvg-name="Star Plus HD"  group-title="Unsorted",Star Plus HD
+https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus" tvg-logo="Logo N/A" tvg-name="Star Plus"  group-title="Unsorted",Star Plus
+https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus" tvg-logo="Logo N/A" tvg-name="Star Plus"  group-title="Unsorted",Star Plus
+http://iptv.kitv.live:1935/live/Shari/MTV-P/134.m3u8
+
+#EXTINF:-1, tvg-id="Zee Bollywood" tvg-logo="Logo N/A" tvg-name="Zee Bollywood"  group-title="Unsorted",Zee Bollywood
+https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus" tvg-logo="Logo N/A" tvg-name="Star Plus"  group-title="Unsorted",Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold HD" tvg-logo="Logo N/A" tvg-name="Star Gold HD"  group-title="Unsorted",Star Gold HD
+https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Plus HD" tvg-logo="Logo N/A" tvg-name="Star Plus HD"  group-title="Unsorted",Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Arirang" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
+https://edge01.iptv.digijadoo.net/live/arirang/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Bharat" tvg-logo="Logo N/A" tvg-name="Star Bharat"  group-title="Unsorted",Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Bharat" tvg-logo="Logo N/A" tvg-name="Star Bharat"  group-title="Unsorted",Star Bharat
+https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star World" tvg-logo="Logo N/A" tvg-name="Star World"  group-title="Unsorted",Star World
+https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold International" tvg-logo="Logo N/A" tvg-name="Star Gold International"  group-title="Unsorted",Star Gold International
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold 2" tvg-logo="Logo N/A" tvg-name="Star Gold 2"  group-title="Unsorted",Star Gold 2
+https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Bharat" tvg-logo="Logo N/A" tvg-name="Star Bharat"  group-title="Unsorted",Star Bharat
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors HD" tvg-logo="Logo N/A" tvg-name="Colors HD"  group-title="Unsorted",Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="HBO" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/153.m3u8
+
+#EXTINF:-1, tvg-id="Colors Rishtey" tvg-logo="Logo N/A" tvg-name="Colors Rishtey"  group-title="Unsorted",Colors Rishtey
+https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+
+#EXTINF:-1, tvg-id="TLC English" tvg-logo="Logo N/A" tvg-name="TLC English"  group-title="Unsorted",TLC English
+http://iptv.kitv.live:1935/live/Shari/MTV-P/312.m3u8
+
+#EXTINF:-1, tvg-id="AXN SD" tvg-logo="Logo N/A" tvg-name="AXN SD"  group-title="Unsorted",AXN SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/151.m3u8
+
+#EXTINF:-1, tvg-id="Colors HD" tvg-logo="Logo N/A" tvg-name="Colors HD"  group-title="Unsorted",Colors HD
+https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors SD" tvg-logo="Logo N/A" tvg-name="Colors SD"  group-title="Unsorted",Colors SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/139.m3u8
+
+#EXTINF:-1, tvg-id="Colors Rishtey" tvg-logo="Logo N/A" tvg-name="Colors Rishtey"  group-title="Unsorted",Colors Rishtey
+https://edge01.iptv.digijadoo.net/live/rishtey/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold 2" tvg-logo="Logo N/A" tvg-name="Star Gold 2"  group-title="Unsorted",Star Gold 2
+https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Mastii" tvg-logo="Logo N/A" tvg-name="Mastii"  group-title="Unsorted",Mastii
+http://iptv.kitv.live:1935/live/Shari/MTV-P/184.m3u8
+
+#EXTINF:-1, tvg-id="Fox Life" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Unsorted",Fox Life
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
+#EXTINF:-1, tvg-id="FYI TV18" tvg-logo="Logo N/A" tvg-name="FYI TV18"  group-title="Unsorted",FYI TV18
+https://itpolly.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors Infinity" tvg-logo="Logo N/A" tvg-name="Colors Infinity"  group-title="Unsorted",Colors Infinity
+https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BBC Lifestyle" tvg-logo="Logo N/A" tvg-name="BBC Lifestyle"  group-title="Unsorted",BBC Lifestyle
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BBC Lifestyle" tvg-logo="Logo N/A" tvg-name="BBC Lifestyle"  group-title="Unsorted",BBC Lifestyle
+http://iptv.kitv.live:1935/live/Shari/MTV-P/155.m3u8
+
+#EXTINF:-1, tvg-id="Fox Life" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Unsorted",Fox Life
+https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+
+#EXTINF:-1, tvg-id="TLC English" tvg-logo="Logo N/A" tvg-name="TLC English"  group-title="Unsorted",TLC English
+http://103.205.133.14/hls/tlc.m3u8
+
+#EXTINF:-1, tvg-id="TLC HD English" tvg-logo="Logo N/A" tvg-name="TLC HD English"  group-title="Unsorted",TLC HD English
+https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Colors Infinity" tvg-logo="Logo N/A" tvg-name="Colors Infinity"  group-title="Unsorted",Colors Infinity
+https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
+
+#EXTINF:-1, tvg-id="FYI TV18" tvg-logo="Logo N/A" tvg-name="FYI TV18"  group-title="Unsorted",FYI TV18
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Star Gold International" tvg-logo="Logo N/A" tvg-name="Star Gold International"  group-title="Unsorted",Star Gold International
+https://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+
+#EXTINF:-1, tvg-id="TLC English" tvg-logo="Logo N/A" tvg-name="TLC English"  group-title="Unsorted",TLC English
+http://103.205.133.19/hls/tlc.m3u8
+
+#EXTINF:-1, tvg-id="TLC HD Hindi" tvg-logo="Logo N/A" tvg-name="TLC HD Hindi"  group-title="Unsorted",TLC HD Hindi
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick Jr" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="Unsorted",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+
+#EXTINF:-1, tvg-id="History TV HD" tvg-logo="Logo N/A" tvg-name="History TV HD"  group-title="Unsorted",History TV HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="History TV HD" tvg-logo="Logo N/A" tvg-name="History TV HD"  group-title="Unsorted",History TV HD
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="History TV SD" tvg-logo="Logo N/A" tvg-name="History TV SD"  group-title="Unsorted",History TV SD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/193.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo Wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Unsorted",Nat Geo Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Cartoon Network" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Unsorted",Cartoon Network
+http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo" tvg-logo="Logo N/A" tvg-name="Nat Geo"  group-title="Unsorted",Nat Geo
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo" tvg-logo="Logo N/A" tvg-name="Nat Geo"  group-title="Unsorted",Nat Geo
+https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo Wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Unsorted",Nat Geo Wild
+https://edge01.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo Wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Unsorted",Nat Geo Wild
+http://103.49.168.172:8081/ebox/in_natgeo_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Maasranga" tvg-logo="Logo N/A" tvg-name="Maasranga"  group-title="Unsorted",Maasranga
+http://pioneer.anytv.live:8080/masranga/index.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo Wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Unsorted",Nat Geo Wild
+http://iptv.kitv.live:1935/live/Shari/MTV-P/166.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo People" tvg-logo="Logo N/A" tvg-name="Nat Geo People"  group-title="Unsorted",Nat Geo People
+https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Discovery HD" tvg-logo="Logo N/A" tvg-name="Discovery HD"  group-title="Unsorted",Discovery HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/167.m3u8
+
+#EXTINF:-1, tvg-id="BBC Earth" tvg-logo="Logo N/A" tvg-name="BBC Earth"  group-title="Unsorted",BBC Earth
+http://iptv.kitv.live:1935/live/Shari/MTV-P/168.m3u8
+
+#EXTINF:-1, tvg-id="Cheebies Asia" tvg-logo="Logo N/A" tvg-name="Cheebies Asia"  group-title="Unsorted",Cheebies Asia
+https://itpolly.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="Unsorted",Nick
+https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="Unsorted",Nick
+https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="Unsorted",Nick
+http://iptv.kitv.live:1935/live/Shari/MTV-P/174.m3u8
+
+#EXTINF:-1, tvg-id="Nick" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="Unsorted",Nick
+https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick HD+" tvg-logo="Logo N/A" tvg-name="Nick HD+"  group-title="Unsorted",Nick HD+
+https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Nick Sonic" tvg-logo="Logo N/A" tvg-name="Nick Sonic"  group-title="Unsorted",Nick Sonic
+https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sony Yay" tvg-logo="Logo N/A" tvg-name="Sony Yay"  group-title="Unsorted",Sony Yay
+http://iptv.kitv.live:1935/live/Shari/MTV-P/172.m3u8
+
+#EXTINF:-1, tvg-id="Disney XD" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="Unsorted",Disney XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/171.m3u8
+
+#EXTINF:-1, tvg-id="Cheebies Asia" tvg-logo="Logo N/A" tvg-name="Cheebies Asia"  group-title="Unsorted",Cheebies Asia
+https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Comedy Central" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Unsorted",Comedy Central
+https://edge01.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Comedy Central" tvg-logo="Logo N/A" tvg-name="Comedy Central"  group-title="Unsorted",Comedy Central
+https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Cheebies Asia" tvg-logo="Logo N/A" tvg-name="Cheebies Asia"  group-title="Unsorted",Cheebies Asia
+http://iptv.kitv.live:1935/live/Shari/MTV-P/173.m3u8
+
+#EXTINF:-1, tvg-id="Diva" tvg-logo="Logo N/A" tvg-name="Diva"  group-title="Unsorted",Diva
+https://itpolly.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BBC Lifestyle" tvg-logo="Logo N/A" tvg-name="BBC Lifestyle"  group-title="Unsorted",BBC Lifestyle
+https://itpolly.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MTV Europe" tvg-logo="Logo N/A" tvg-name="MTV Europe"  group-title="Unsorted",MTV Europe
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1, tvg-id="Movies Now" tvg-logo="Logo N/A" tvg-name="Movies Now"  group-title="Unsorted",Movies Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Lotus Macaw" tvg-logo="Logo N/A" tvg-name="Lotus Macaw"  group-title="Unsorted",Lotus Macaw
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MTV India" tvg-logo="Logo N/A" tvg-name="MTV India"  group-title="Unsorted",MTV India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/181.m3u8
+
+#EXTINF:-1, tvg-id="MN+ HD" tvg-logo="Logo N/A" tvg-name="MN+ HD"  group-title="Unsorted",MN+ HD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/147.m3u8
+
+#EXTINF:-1, tvg-id="Romedy Now" tvg-logo="Logo N/A" tvg-name="Romedy Now"  group-title="Unsorted",Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Movies Now" tvg-logo="Logo N/A" tvg-name="Movies Now"  group-title="Unsorted",Movies Now
+https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Manoranjan TV" tvg-logo="Logo N/A" tvg-name="Manoranjan TV"  group-title="Unsorted",Manoranjan TV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/321.m3u8
+
+#EXTINF:-1, tvg-id="Rai Italia" tvg-logo="Logo N/A" tvg-name="Rai Italia"  group-title="Unsorted",Rai Italia
+https://edge01.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Manoranjan Movies" tvg-logo="Logo N/A" tvg-name="Manoranjan Movies"  group-title="Unsorted",Manoranjan Movies
+https://itpolly.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:-1, tvg-id="& Flix HD" tvg-logo="Logo N/A" tvg-name="& Flix HD"  group-title="Unsorted",& Flix HD
+http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Lotus Macaw" tvg-logo="Logo N/A" tvg-name="Lotus Macaw"  group-title="Unsorted",Lotus Macaw
+https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NHKWorld Japan" tvg-logo="Logo N/A" tvg-name="NHKWorld Japan"  group-title="Unsorted",NHKWorld Japan
+https://itpolly.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NHKWorld Japan" tvg-logo="Logo N/A" tvg-name="NHKWorld Japan"  group-title="Unsorted",NHKWorld Japan
+https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Manoranjan Movies" tvg-logo="Logo N/A" tvg-name="Manoranjan Movies"  group-title="Unsorted",Manoranjan Movies
+https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Movies Now" tvg-logo="Logo N/A" tvg-name="Movies Now"  group-title="Unsorted",Movies Now
+http://103.49.168.172:8081/ebox/in_movies_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="YTN" tvg-logo="Logo N/A" tvg-name="YTN"  group-title="Unsorted",YTN
+https://edge01.iptv.digijadoo.net/live/ytn/chunks.m3u8
+
+#EXTINF:-1, tvg-id="YTN" tvg-logo="Logo N/A" tvg-name="YTN"  group-title="Unsorted",YTN
+http://103.135.208.14/live/ibox/bd/74.m3u8
+
+#EXTINF:-1, tvg-id="Enterr Ten" tvg-logo="Logo N/A" tvg-name="Enterr Ten"  group-title="Unsorted",Enterr Ten
+https://itpolly.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+
+#EXTINF:-1, tvg-id="YTN" tvg-logo="Logo N/A" tvg-name="YTN"  group-title="Unsorted",YTN
+https://itpolly.iptv.digijadoo.net/live/ytn/chunks.m3u8
+
+#EXTINF:-1, tvg-id="TV P" tvg-logo="Logo N/A" tvg-name="TV P"  group-title="Unsorted",TV P
+http://iptv.kitv.live:1935/live/Shari/MTV-P/150.m3u8
+
+#EXTINF:-1, tvg-id="Rai Italia" tvg-logo="Logo N/A" tvg-name="Rai Italia"  group-title="Unsorted",Rai Italia
+https://itpolly.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Arirang" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
+https://itpolly.iptv.digijadoo.net/live/arirang/chunks.m3u8
+
+#EXTINF:-1, tvg-id="& Pictures" tvg-logo="Logo N/A" tvg-name="& Pictures"  group-title="Unsorted",& Pictures
+http://103.205.133.19/hls/andpicture.m3u8
+
+#EXTINF:-1, tvg-id="& TV" tvg-logo="Logo N/A" tvg-name="& TV"  group-title="Unsorted",& TV
+http://103.205.133.14/hls/andtv.m3u8
+
+#EXTINF:-1, tvg-id="& TV" tvg-logo="Logo N/A" tvg-name="& TV"  group-title="Unsorted",& TV
+http://103.205.133.19/hls/andtv.m3u8
+
+#EXTINF:-1, tvg-id="NHKWorld Japan" tvg-logo="Logo N/A" tvg-name="NHKWorld Japan"  group-title="Unsorted",NHKWorld Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
+
+#EXTINF:-1, tvg-id="Enterr Ten" tvg-logo="Logo N/A" tvg-name="Enterr Ten"  group-title="Unsorted",Enterr Ten
+https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
+
+#EXTINF:-1, tvg-id="& Pictures HD" tvg-logo="Logo N/A" tvg-name="& Pictures HD"  group-title="Unsorted",& Pictures HD
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="& Flix HD" tvg-logo="Logo N/A" tvg-name="& Flix HD"  group-title="Unsorted",& Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
+#EXTINF:-1, tvg-id="& Pictures" tvg-logo="Logo N/A" tvg-name="& Pictures"  group-title="Unsorted",& Pictures
+http://103.205.133.14/hls/andpicture.m3u8
+
+#EXTINF:-1, tvg-id="9XO" tvg-logo="Logo N/A" tvg-name="9XO"  group-title="Unsorted",9XO
+http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
+
+#EXTINF:-1, tvg-id="PTV Global" tvg-logo="Logo N/A" tvg-name="PTV Global"  group-title="Unsorted",PTV Global
+https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV Home" tvg-logo="Logo N/A" tvg-name="PTV Home"  group-title="Unsorted",PTV Home
+https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV World" tvg-logo="Logo N/A" tvg-name="PTV World"  group-title="Unsorted",PTV World
+https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV Global" tvg-logo="Logo N/A" tvg-name="PTV Global"  group-title="Unsorted",PTV Global
+https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV News" tvg-logo="Logo N/A" tvg-name="PTV News"  group-title="Unsorted",PTV News
+https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV World" tvg-logo="Logo N/A" tvg-name="PTV World"  group-title="Unsorted",PTV World
+https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV Home" tvg-logo="Logo N/A" tvg-name="PTV Home"  group-title="Unsorted",PTV Home
+https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Hum Masala" tvg-logo="Logo N/A" tvg-name="Hum Masala"  group-title="Unsorted",Hum Masala
+http://iptv.kitv.live:1935/live/Shari/MTV-P/142.m3u8
+
+#EXTINF:-1, tvg-id="Ary Asia" tvg-logo="Logo N/A" tvg-name="Ary Asia"  group-title="Unsorted",Ary Asia
+https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ary Zindigi" tvg-logo="Logo N/A" tvg-name="Ary Zindigi"  group-title="Unsorted",Ary Zindigi
+https://itpolly.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Diva" tvg-logo="Logo N/A" tvg-name="Diva"  group-title="Unsorted",Diva
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ary Asia" tvg-logo="Logo N/A" tvg-name="Ary Asia"  group-title="Unsorted",Ary Asia
+https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Hum Sitaray" tvg-logo="Logo N/A" tvg-name="Hum Sitaray"  group-title="Unsorted",Hum Sitaray
+http://iptv.kitv.live:1935/live/Shari/MTV-P/143.m3u8
+
+#EXTINF:-1, tvg-id="Geo News" tvg-logo="Logo N/A" tvg-name="Geo News"  group-title="Unsorted",Geo News
+https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Ary Zindigi" tvg-logo="Logo N/A" tvg-name="Ary Zindigi"  group-title="Unsorted",Ary Zindigi
+https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
+
+#EXTINF:-1, tvg-id="PTV News" tvg-logo="Logo N/A" tvg-name="PTV News"  group-title="Unsorted",PTV News
+https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Geo News" tvg-logo="Logo N/A" tvg-name="Geo News"  group-title="Unsorted",Geo News
+http://103.205.133.19/hls/geonews.m3u8
+
+#EXTINF:-1, tvg-id="9XM" tvg-logo="Logo N/A" tvg-name="9XM"  group-title="Unsorted",9XM
+http://103.205.133.14/hls/9xm.m3u8
+
+#EXTINF:-1, tvg-id="Zoom" tvg-logo="Logo N/A" tvg-name="Zoom"  group-title="Unsorted",Zoom
+https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Geo News" tvg-logo="Logo N/A" tvg-name="Geo News"  group-title="Unsorted",Geo News
+http://103.205.133.14/hls/geonews.m3u8
+
+#EXTINF:-1, tvg-id="Music India" tvg-logo="Logo N/A" tvg-name="Music India"  group-title="Unsorted",Music India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
+
+#EXTINF:-1, tvg-id="9XM" tvg-logo="Logo N/A" tvg-name="9XM"  group-title="Unsorted",9XM
+http://103.205.133.19/hls/9xm.m3u8
+
+#EXTINF:-1, tvg-id="Zing" tvg-logo="Logo N/A" tvg-name="Zing"  group-title="Unsorted",Zing
+https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zing" tvg-logo="Logo N/A" tvg-name="Zing"  group-title="Unsorted",Zing
+http://iptv.kitv.live:1935/live/Shari/MTV-P/322.m3u8
+
+#EXTINF:-1, tvg-id="Geo News" tvg-logo="Logo N/A" tvg-name="Geo News"  group-title="Unsorted",Geo News
+https://edge01.iptv.digijadoo.net/live/geo_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Zing" tvg-logo="Logo N/A" tvg-name="Zing"  group-title="Unsorted",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+#EXTINF:-1, tvg-id="MTV Beats India" tvg-logo="Logo N/A" tvg-name="MTV Beats India"  group-title="Unsorted",MTV Beats India
+https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+
+#EXTINF:-1, tvg-id="B4U Music" tvg-logo="Logo N/A" tvg-name="B4U Music"  group-title="Unsorted",B4U Music
+http://iptv.kitv.live:1935/live/Shari/MTV-P/185.m3u8
+
+#EXTINF:-1, tvg-id="E 24" tvg-logo="Logo N/A" tvg-name="E 24"  group-title="Unsorted",E 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports 1 HD (Backup)" tvg-logo="Logo N/A" tvg-name="Star Sports 1 HD (Backup)"  group-title="Unsorted",Star Sports 1 HD (Backup)
+http://iptv.kitv.live:1935/live/Shari/MTV-P/183.m3u8
+
+#EXTINF:-1, tvg-id="B4U Movies" tvg-logo="Logo N/A" tvg-name="B4U Movies"  group-title="Unsorted",B4U Movies
+http://103.205.133.14/hls/b4umovies.m3u8
+
+#EXTINF:-1, tvg-id="B4U Movies" tvg-logo="Logo N/A" tvg-name="B4U Movies"  group-title="Unsorted",B4U Movies
+http://103.205.133.19/hls/b4umovies.m3u8
+
+#EXTINF:-1, tvg-id="Bflix Movies" tvg-logo="Logo N/A" tvg-name="Bflix Movies"  group-title="Unsorted",Bflix Movies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
+
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="Logo N/A" tvg-name="BBC World"  group-title="Unsorted",BBC World
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="Logo N/A" tvg-name="BBC World"  group-title="Unsorted",BBC World
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="Logo N/A" tvg-name="BBC World"  group-title="Unsorted",BBC World
+http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
+
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="Logo N/A" tvg-name="BBC World"  group-title="Unsorted",BBC World
+http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+http://103.205.133.14/hls/aljazeera.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+http://103.205.133.19/hls/aljazeera.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="NBC News" tvg-logo="Logo N/A" tvg-name="NBC News"  group-title="Unsorted",NBC News
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+
+#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Unsorted",DW
+https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
+
+#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Unsorted",DW
+https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8
+
+#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Unsorted",DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1, tvg-id="DW" tvg-logo="Logo N/A" tvg-name="DW"  group-title="Unsorted",DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Euronews" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Unsorted",Euronews
+https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Euronews" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Unsorted",Euronews
+https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNA" tvg-logo="Logo N/A" tvg-name="CNA"  group-title="Unsorted",CNA
+https://itpolly.iptv.digijadoo.net/live/channel_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNA" tvg-logo="Logo N/A" tvg-name="CNA"  group-title="Unsorted",CNA
+https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNN" tvg-logo="Logo N/A" tvg-name="CNN"  group-title="Unsorted",CNN
+https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNN" tvg-logo="Logo N/A" tvg-name="CNN"  group-title="Unsorted",CNN
+https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Sky News" tvg-logo="Logo N/A" tvg-name="Sky News"  group-title="Unsorted",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+
+#EXTINF:-1, tvg-id="ET Now" tvg-logo="Logo N/A" tvg-name="ET Now"  group-title="Unsorted",ET Now
+https://itpolly.iptv.digijadoo.net/live/et_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ET Now" tvg-logo="Logo N/A" tvg-name="ET Now"  group-title="Unsorted",ET Now
+https://edge01.iptv.digijadoo.net/live/et_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ET Now" tvg-logo="Logo N/A" tvg-name="ET Now"  group-title="Unsorted",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+
+#EXTINF:-1, tvg-id="ABP News" tvg-logo="Logo N/A" tvg-name="ABP News"  group-title="Unsorted",ABP News
+https://itpolly.iptv.digijadoo.net/live/abp_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ABP News" tvg-logo="Logo N/A" tvg-name="ABP News"  group-title="Unsorted",ABP News
+https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNBC18" tvg-logo="Logo N/A" tvg-name="CNBC18"  group-title="Unsorted",CNBC18
+https://itpolly.iptv.digijadoo.net/live/cnbc/chunks.m3u8
+
+#EXTINF:-1, tvg-id="CNBC18" tvg-logo="Logo N/A" tvg-name="CNBC18"  group-title="Unsorted",CNBC18
+https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
+
+#EXTINF:-1, tvg-id="APN" tvg-logo="Logo N/A" tvg-name="APN"  group-title="Unsorted",APN
+https://itpolly.iptv.digijadoo.net/live/apn_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="APN" tvg-logo="Logo N/A" tvg-name="APN"  group-title="Unsorted",APN
+https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Times Now" tvg-logo="Logo N/A" tvg-name="Times Now"  group-title="Unsorted",Times Now
+https://itpolly.iptv.digijadoo.net/live/times_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="Times Now" tvg-logo="Logo N/A" tvg-name="Times Now"  group-title="Unsorted",Times Now
+https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
+
+#EXTINF:-1, tvg-id="ITV1 UK" tvg-logo="Logo N/A" tvg-name="ITV1 UK"  group-title="Unsorted",ITV1 UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg Asia" tvg-logo="Logo N/A" tvg-name="Bloomberg Asia"  group-title="Unsorted",Bloomberg Asia
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg US" tvg-logo="Logo N/A" tvg-name="Bloomberg US"  group-title="Unsorted",Bloomberg US
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg Europe" tvg-logo="Logo N/A" tvg-name="Bloomberg Europe"  group-title="Unsorted",Bloomberg Europe
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1, tvg-id="Bloomberg Australia" tvg-logo="Logo N/A" tvg-name="Bloomberg Australia"  group-title="Unsorted",Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/btv/desktop/aus_live.m3u8
+
+#EXTINF:-1, tvg-id="News Max" tvg-logo="Logo N/A" tvg-name="News Max"  group-title="Unsorted",News Max
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1, tvg-id="CBSN" tvg-logo="Logo N/A" tvg-name="CBSN"  group-title="Unsorted",CBSN
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1, tvg-id="NDTV 24x7" tvg-logo="Logo N/A" tvg-name="NDTV 24x7"  group-title="Unsorted",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1, tvg-id="MGM Scifi" tvg-logo="Logo N/A" tvg-name="MGM Scifi"  group-title="Unsorted",MGM Scifi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+
+#EXTINF:-1, tvg-id="Bollywood Classic" tvg-logo="Logo N/A" tvg-name="Bollywood Classic"  group-title="Unsorted",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1, tvg-id="Bollywood TV" tvg-logo="Logo N/A" tvg-name="Bollywood TV"  group-title="Unsorted",Bollywood TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+
+#EXTINF:-1, tvg-id="Redbull TV" tvg-logo="Logo N/A" tvg-name="Redbull TV"  group-title="Unsorted",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1, tvg-id="TV5 Style" tvg-logo="Logo N/A" tvg-name="TV5 Style"  group-title="Unsorted",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+
+#EXTINF:-1, tvg-id="TV5Monde Pacifique" tvg-logo="Logo N/A" tvg-name="TV5Monde Pacifique"  group-title="Unsorted",TV5Monde Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1, tvg-id="TV5Monde Asie" tvg-logo="Logo N/A" tvg-name="TV5Monde Asie"  group-title="Unsorted",TV5Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+
+#EXTINF:-1, tvg-id="TV5Monde Asie RU" tvg-logo="Logo N/A" tvg-name="TV5Monde Asie RU"  group-title="Unsorted",TV5Monde Asie RU
+https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
+
+#EXTINF:-1, tvg-id="TV5Monde Asie France" tvg-logo="Logo N/A" tvg-name="TV5Monde Asie France"  group-title="Unsorted",TV5Monde Asie France
+https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
+
+#EXTINF:-1, tvg-id="BFM TV" tvg-logo="Logo N/A" tvg-name="BFM TV"  group-title="Unsorted",BFM TV
+https://bcovlive-a.akamaihd.net/fb3647b53c1a4c278eaecf83230ee4c5/eu-central-1/876450610001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="Ant1" tvg-logo="Logo N/A" tvg-name="Ant1"  group-title="Unsorted",Ant1
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
+
+#EXTINF:-1, tvg-id="Film Detective" tvg-logo="Logo N/A" tvg-name="Film Detective"  group-title="Unsorted",Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+
+#EXTINF:-1, tvg-id="Ditty TV" tvg-logo="Logo N/A" tvg-name="Ditty TV"  group-title="Unsorted",Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+
+#EXTINF:-1, tvg-id="TCT Kids" tvg-logo="Logo N/A" tvg-name="TCT Kids"  group-title="Unsorted",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Realtime" tvg-logo="Logo N/A" tvg-name="Discovery Realtime"  group-title="Unsorted",Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Giallo" tvg-logo="Logo N/A" tvg-name="Discovery Giallo"  group-title="Unsorted",Discovery Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+
+#EXTINF:-1, tvg-id="Discovery Nove" tvg-logo="Logo N/A" tvg-name="Discovery Nove"  group-title="Unsorted",Discovery Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+
+#EXTINF:-1, tvg-id="Deejay TV" tvg-logo="Logo N/A" tvg-name="Deejay TV"  group-title="Unsorted",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+
+#EXTINF:-1, tvg-id="Wow Cinema" tvg-logo="Logo N/A" tvg-name="Wow Cinema"  group-title="Unsorted",Wow Cinema
+http://103.205.133.14/hls/wowcinema.m3u8
+
+#EXTINF:-1, tvg-id="Wow Cinema" tvg-logo="Logo N/A" tvg-name="Wow Cinema"  group-title="Unsorted",Wow Cinema
+http://103.205.133.19/hls/wowcinema.m3u8
+
+#EXTINF:-1, tvg-id="Alif TV" tvg-logo="Logo N/A" tvg-name="Alif TV"  group-title="Unsorted",Alif TV
+http://128.199.212.160/alif/1080/index.m3u8
+
+#EXTINF:-1, tvg-id="Bangla Channel" tvg-logo="Logo N/A" tvg-name="Bangla Channel"  group-title="Unsorted",Bangla Channel
+http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="ITV Bangla" tvg-logo="Logo N/A" tvg-name="ITV Bangla"  group-title="Unsorted",ITV Bangla
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Movies Select HD" tvg-logo="Logo N/A" tvg-name="Star Movies Select HD"  group-title="Unsorted",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
+#EXTINF:-1, tvg-id="Warner Bros TV" tvg-logo="Logo N/A" tvg-name="Warner Bros TV"  group-title="Unsorted",Warner Bros TV
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+#EXTINF:-1, tvg-id="Cinema World" tvg-logo="Logo N/A" tvg-name="Cinema World"  group-title="Unsorted",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+
+#EXTINF:-1, tvg-id="Fight Sports" tvg-logo="Logo N/A" tvg-name="Fight Sports"  group-title="Unsorted",Fight Sports
+http://45.126.83.51/uq2663/h/h05/index.m3u8
+
+#EXTINF:-1, tvg-id="KIX" tvg-logo="Logo N/A" tvg-name="KIX"  group-title="Unsorted",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1, tvg-id="NHK World Japan" tvg-logo="Logo N/A" tvg-name="NHK World Japan"  group-title="Unsorted",NHK World Japan
+http://45.126.83.51/uq2663/h/h23/index.m3u8
+
+#EXTINF:-1, tvg-id="Hits" tvg-logo="Logo N/A" tvg-name="Hits"  group-title="Unsorted",Hits
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+
+#EXTINF:-1, tvg-id="Aniplus" tvg-logo="Logo N/A" tvg-name="Aniplus"  group-title="Unsorted",Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1, tvg-id="AXN" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Unsorted",AXN
+http://45.126.83.51/dr9445/h/h09/index.m3u8
+
+#EXTINF:-1, tvg-id="E!" tvg-logo="Logo N/A" tvg-name="E!"  group-title="Unsorted",E!
+http://45.126.83.51/dr9445/h/h10/index.m3u8
+
+#EXTINF:-1, tvg-id="Blue Ant Extreme" tvg-logo="Logo N/A" tvg-name="Blue Ant Extreme"  group-title="Unsorted",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1, tvg-id="Blue Ant Entertainment" tvg-logo="Logo N/A" tvg-name="Blue Ant Entertainment"  group-title="Unsorted",Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1, tvg-id="AnTV" tvg-logo="Logo N/A" tvg-name="AnTV"  group-title="Unsorted",AnTV
+http://45.126.83.51/qwr9ew/s/s07/index.m3u8
+
+#EXTINF:-1, tvg-id="Euro News" tvg-logo="Logo N/A" tvg-name="Euro News"  group-title="Unsorted",Euro News
+http://45.126.83.51/qwr9ew/s/s15/index.m3u8
+
+#EXTINF:-1, tvg-id="Al Jazeera" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Unsorted",Al Jazeera
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1, tvg-id="RT News" tvg-logo="Logo N/A" tvg-name="RT News"  group-title="Unsorted",RT News
+http://45.126.83.51/qwr9ew/s/s23/index.m3u8
+
+#EXTINF:-1, tvg-id="TBN Asia" tvg-logo="Logo N/A" tvg-name="TBN Asia"  group-title="Unsorted",TBN Asia
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+
+#EXTINF:-1, tvg-id="V Channel" tvg-logo="Logo N/A" tvg-name="V Channel"  group-title="Unsorted",V Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1, tvg-id="Nat Geo Wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Unsorted",Nat Geo Wild
+https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Discovery HD" tvg-logo="Logo N/A" tvg-name="Discovery HD"  group-title="Unsorted",Discovery HD
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Discovery Asia" tvg-logo="Logo N/A" tvg-name="Discovery Asia"  group-title="Unsorted",Discovery Asia
+https://delivery.macan.live/stream/id_discoveryasia/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Animal Planet" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Unsorted",Animal Planet
+https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="History" tvg-logo="Logo N/A" tvg-name="History"  group-title="Unsorted",History
+https://delivery.macan.live/stream/history/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="TLC" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Unsorted",TLC
+https://delivery.macan.live/stream/tlc/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Boomerang" tvg-logo="Logo N/A" tvg-name="Boomerang"  group-title="Unsorted",Boomerang
+https://delivery.macan.live/stream/boomerang/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Nick" tvg-logo="Logo N/A" tvg-name="Nick"  group-title="Unsorted",Nick
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Zoomoo TV" tvg-logo="Logo N/A" tvg-name="Zoomoo TV"  group-title="Unsorted",Zoomoo TV
+https://delivery.macan.live/stream/zoomoo/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="HGTV" tvg-logo="Logo N/A" tvg-name="HGTV"  group-title="Unsorted",HGTV
+https://delivery.macan.live/stream/hgtv/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Cinemax" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Unsorted",Cinemax
+https://delivery.macan.live/stream/cinemax/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Asian Food Network" tvg-logo="Logo N/A" tvg-name="Asian Food Network"  group-title="Unsorted",Asian Food Network
+https://delivery.macan.live/stream/id_afc/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Fox" tvg-logo="Logo N/A" tvg-name="Fox"  group-title="Unsorted",Fox
+https://delivery.macan.live/stream/id_fox/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="HBO" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="FX" tvg-logo="Logo N/A" tvg-name="FX"  group-title="Unsorted",FX
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Channel V" tvg-logo="Logo N/A" tvg-name="Channel V"  group-title="Unsorted",Channel V
+https://delivery.macan.live/stream/id_channelv/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Warner Bros TV" tvg-logo="Logo N/A" tvg-name="Warner Bros TV"  group-title="Unsorted",Warner Bros TV
+https://delivery.macan.live/stream/warnertv/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Lifetime" tvg-logo="Logo N/A" tvg-name="Lifetime"  group-title="Unsorted",Lifetime
+https://delivery.macan.live/stream/lifetime/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="AXN" tvg-logo="Logo N/A" tvg-name="AXN"  group-title="Unsorted",AXN
+https://delivery.macan.live/stream/id_axn/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Fox Life" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Unsorted",Fox Life
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="BBC World" tvg-logo="Logo N/A" tvg-name="BBC World"  group-title="Unsorted",BBC World
+https://delivery.macan.live/stream/id_bbcworldnews/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="TransTV" tvg-logo="Logo N/A" tvg-name="TransTV"  group-title="Unsorted",TransTV
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Animax" tvg-logo="Logo N/A" tvg-name="Animax"  group-title="Unsorted",Animax
+https://delivery.macan.live/stream/id_animax/index.m3u8?token=gratisan
+
+#EXTINF:-1, tvg-id="Star Sports" tvg-logo="Logo N/A" tvg-name="Star Sports"  group-title="Unsorted",Star Sports
+http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Star Sports Select 2 HD" tvg-logo="Logo N/A" tvg-name="Star Sports Select 2 HD"  group-title="Unsorted",Star Sports Select 2 HD
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AXN HD" tvg-logo="Logo N/A" tvg-name="AXN HD"  group-title="Unsorted",AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+
+#EXTINF:-1, tvg-id="HBO" tvg-logo="Logo N/A" tvg-name="HBO"  group-title="Unsorted",HBO
+http://45.249.187.238:8081/hls/new13.m3u8
+
+#EXTINF:-1, tvg-id="Mastii" tvg-logo="Logo N/A" tvg-name="Mastii"  group-title="Unsorted",Mastii
+http://45.249.187.238:8081/hls/new12.m3u8
+
+#EXTINF:-1, tvg-id="Cartoon Network HD" tvg-logo="Logo N/A" tvg-name="Cartoon Network HD"  group-title="Unsorted",Cartoon Network HD
+http://45.249.187.238:8081/hls/new14.m3u8
+
+#EXTINF:-1, tvg-id="Sony Yay" tvg-logo="Logo N/A" tvg-name="Sony Yay"  group-title="Unsorted",Sony Yay
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+
+#EXTINF:-1, tvg-id="Star Movies" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="Unsorted",Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+
+#EXTINF:-1, tvg-id="Animal planet" tvg-logo="Logo N/A" tvg-name="Animal planet"  group-title="Unsorted",Animal planet
+http://45.249.187.238:8081/hls/tsl-1.m3u8
+
+#EXTINF:-1, tvg-id="Fillmon TV (Live Hajj)" tvg-logo="Logo N/A" tvg-name="Fillmon TV (Live Hajj)"  group-title="Unsorted",Fillmon TV (Live Hajj)
+http://45.249.187.238:8081/hls/new15.m3u8
+
+#EXTINF:-1, tvg-id="Iqraa TV (Live Hajj)" tvg-logo="Logo N/A" tvg-name="Iqraa TV (Live Hajj)"  group-title="Unsorted",Iqraa TV (Live Hajj)
+http://45.249.187.238:8081/hls/new11.m3u8
+
+#EXTINF:-1, tvg-id="Hungama TV" tvg-logo="Logo N/A" tvg-name="Hungama TV"  group-title="Unsorted",Hungama TV
+http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 .GTV HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 .GTV HD"  group-title="Unsorted",#EXTINF:-1 .GTV HD
+http://45.249.187.238:8081/hls/live5.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 5.News 24 HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 5.News 24 HD"  group-title="Unsorted",#EXTINF:-1 5.News 24 HD
+http://45.249.187.238:8081/hls/live4.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 6.Shomoy TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 6.Shomoy TV"  group-title="Unsorted",#EXTINF:-1 6.Shomoy TV
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 7.Independent" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 7.Independent"  group-title="Unsorted",#EXTINF:-1 7.Independent
+http://45.249.187.238:8081/hls/hdmi4.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 9.Channel 9 HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 9.Channel 9 HD"  group-title="Unsorted",#EXTINF:-1 9.Channel 9 HD
+http://45.249.187.238:8081/hls/live3.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 11.JAMUNA TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 11.JAMUNA TV"  group-title="Unsorted",#EXTINF:-1 11.JAMUNA TV
+http://45.249.187.238:8081/hls/live2.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 12.Channel I HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 12.Channel I HD"  group-title="Unsorted",#EXTINF:-1 12.Channel I HD
+http://45.249.187.238:8081/hls/live7.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 15.RTV HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 15.RTV HD"  group-title="Unsorted",#EXTINF:-1 15.RTV HD
+http://45.249.187.238:8081/hls/live1.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 16.RTV Music HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 16.RTV Music HD"  group-title="Unsorted",#EXTINF:-1 16.RTV Music HD
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 18.NTV UK" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 18.NTV UK"  group-title="Unsorted",#EXTINF:-1 18.NTV UK
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 20.Maasranga HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 20.Maasranga HD"  group-title="Unsorted",#EXTINF:-1 20.Maasranga HD
+http://45.249.187.238:8081/hls/live6.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 22.ATN Bangla UK" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 22.ATN Bangla UK"  group-title="Unsorted",#EXTINF:-1 22.ATN Bangla UK
+http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 24.ATN Music" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 24.ATN Music"  group-title="Unsorted",#EXTINF:-1 24.ATN Music
+http://tempamb.jagobd.com:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 25.ATN Islam" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 25.ATN Islam"  group-title="Unsorted",#EXTINF:-1 25.ATN Islam
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 28.MY Cinema" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 28.MY Cinema"  group-title="Unsorted",#EXTINF:-1 28.MY Cinema
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 3.Movie Bangla TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 3.Movie Bangla TV"  group-title="Unsorted",#EXTINF:-1 3.Movie Bangla TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 6.Nagorik TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 6.Nagorik TV"  group-title="Unsorted",#EXTINF:-1 6.Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 8.Anando TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 8.Anando TV"  group-title="Unsorted",#EXTINF:-1 8.Anando TV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 43.Alpona TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 43.Alpona TV"  group-title="Unsorted",#EXTINF:-1 43.Alpona TV
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/live-orgin/alponatv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 44.Probashi Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 44.Probashi Bangla"  group-title="Unsorted",#EXTINF:-1 44.Probashi Bangla
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 45.Nokshi TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 45.Nokshi TV"  group-title="Unsorted",#EXTINF:-1 45.Nokshi TV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 46.RANG IPTV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 46.RANG IPTV"  group-title="Unsorted",#EXTINF:-1 46.RANG IPTV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 47.Deshe Bideshe" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 47.Deshe Bideshe"  group-title="Unsorted",#EXTINF:-1 47.Deshe Bideshe
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 48.Royal TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 48.Royal TV"  group-title="Unsorted",#EXTINF:-1 48.Royal TV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 49.NRB IPTV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 49.NRB IPTV"  group-title="Unsorted",#EXTINF:-1 49.NRB IPTV
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 50.NRB Connect" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 50.NRB Connect"  group-title="Unsorted",#EXTINF:-1 50.NRB Connect
+http://vod.beeiptv.com:8081/NRB/nrbconnect/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 51.Varendra TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 51.Varendra TV"  group-title="Unsorted",#EXTINF:-1 51.Varendra TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 52.Nan TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 52.Nan TV"  group-title="Unsorted",#EXTINF:-1 52.Nan TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 53.71 Bangla TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 53.71 Bangla TV"  group-title="Unsorted",#EXTINF:-1 53.71 Bangla TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 54.Joy Jatra TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 54.Joy Jatra TV"  group-title="Unsorted",#EXTINF:-1 54.Joy Jatra TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 56.AB TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 56.AB TV"  group-title="Unsorted",#EXTINF:-1 56.AB TV
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/live-orgin/abtvusa.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 57.Pan Vision TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 57.Pan Vision TV"  group-title="Unsorted",#EXTINF:-1 57.Pan Vision TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 59.Channel TT" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 59.Channel TT"  group-title="Unsorted",#EXTINF:-1 59.Channel TT
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 61.Channel S BD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 61.Channel S BD"  group-title="Unsorted",#EXTINF:-1 61.Channel S BD
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/live-orgin/channelsbd.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 62.MTV Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 62.MTV Bangla"  group-title="Unsorted",#EXTINF:-1 62.MTV Bangla
+http://stream.telelivebd.com/mtvbangla/mtvbangla.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 63.Cumilla 24 TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 63.Cumilla 24 TV"  group-title="Unsorted",#EXTINF:-1 63.Cumilla 24 TV
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 64.Tollywood" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 64.Tollywood"  group-title="Unsorted",#EXTINF:-1 64.Tollywood
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 66.Nandan TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 66.Nandan TV"  group-title="Unsorted",#EXTINF:-1 66.Nandan TV
+http://nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 69.Digi Bangla 24" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 69.Digi Bangla 24"  group-title="Unsorted",#EXTINF:-1 69.Digi Bangla 24
+http://23.106.120.42:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/digibangla.stream/live-orgin/digibangla.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 70.Torongo TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 70.Torongo TV"  group-title="Unsorted",#EXTINF:-1 70.Torongo TV
+http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 72.QTV Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 72.QTV Bangla"  group-title="Unsorted",#EXTINF:-1 72.QTV Bangla
+http://stream.telelivebd.com/Qtvbangla/Qtvbangla.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 73.Al Dawah" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 73.Al Dawah"  group-title="Unsorted",#EXTINF:-1 73.Al Dawah
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 74.Medina TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 74.Medina TV"  group-title="Unsorted",#EXTINF:-1 74.Medina TV
+http://45.249.187.238:8081/hls/new9.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 75.Iqra Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 75.Iqra Bangla"  group-title="Unsorted",#EXTINF:-1 75.Iqra Bangla
+http://appcdn.jagobd.com:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 76.Azan TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 76.Azan TV"  group-title="Unsorted",#EXTINF:-1 76.Azan TV
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 Peace TV Urdu" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 Peace TV Urdu"  group-title="Unsorted",#EXTINF:-1 Peace TV Urdu
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 Peace TV Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 Peace TV Bangla"  group-title="Unsorted",#EXTINF:-1 Peace TV Bangla
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 .DD Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 .DD Bangla"  group-title="Unsorted",#EXTINF:-1 .DD Bangla
+https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 83.News 18 Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 83.News 18 Bangla"  group-title="Unsorted",#EXTINF:-1 83.News 18 Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 88.Zee Bangla HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 88.Zee Bangla HD"  group-title="Unsorted",#EXTINF:-1 88.Zee Bangla HD
+http://45.249.187.238:8081/hls/new8.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 92.Zee TV HD USA" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 92.Zee TV HD USA"  group-title="Unsorted",#EXTINF:-1 92.Zee TV HD USA
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 93.Zee TV HD Canada" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 93.Zee TV HD Canada"  group-title="Unsorted",#EXTINF:-1 93.Zee TV HD Canada
+http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 95.Zee Cinema USA" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 95.Zee Cinema USA"  group-title="Unsorted",#EXTINF:-1 95.Zee Cinema USA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 96.Zee Cinema UK" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 96.Zee Cinema UK"  group-title="Unsorted",#EXTINF:-1 96.Zee Cinema UK
+http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 98.Zee Action" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 98.Zee Action"  group-title="Unsorted",#EXTINF:-1 98.Zee Action
+http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 100.Zee Bioskop" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 100.Zee Bioskop"  group-title="Unsorted",#EXTINF:-1 100.Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 101.Zee Smile" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 101.Zee Smile"  group-title="Unsorted",#EXTINF:-1 101.Zee Smile
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 102.Zee Anmol Cinama" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 102.Zee Anmol Cinama"  group-title="Unsorted",#EXTINF:-1 102.Zee Anmol Cinama
+https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 104.Zee Cafe HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 104.Zee Cafe HD"  group-title="Unsorted",#EXTINF:-1 104.Zee Cafe HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 106.Sony TV HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 106.Sony TV HD"  group-title="Unsorted",#EXTINF:-1 106.Sony TV HD
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 108.Sony Max HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 108.Sony Max HD"  group-title="Unsorted",#EXTINF:-1 108.Sony Max HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 109.Sony SAB" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 109.Sony SAB"  group-title="Unsorted",#EXTINF:-1 109.Sony SAB
+http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 110.Sony SAB HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 110.Sony SAB HD"  group-title="Unsorted",#EXTINF:-1 110.Sony SAB HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 112.Star Jalsha HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 112.Star Jalsha HD"  group-title="Unsorted",#EXTINF:-1 112.Star Jalsha HD
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 120.Star Movies Select HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 120.Star Movies Select HD"  group-title="Unsorted",#EXTINF:-1 120.Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
+
+#EXTINF:-1, tvg-id="126.Sony Yay" tvg-logo="Logo N/A" tvg-name="126.Sony Yay"  group-title="Unsorted",126.Sony Yay
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
+
+#EXTINF:-1, tvg-id="127.Disney XD" tvg-logo="Logo N/A" tvg-name="127.Disney XD"  group-title="Unsorted",127.Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
+
+#EXTINF:-1, tvg-id="129.Tom & Jerry" tvg-logo="Logo N/A" tvg-name="129.Tom & Jerry"  group-title="Unsorted",129.Tom & Jerry
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+
+#EXTINF:-1, tvg-id="130.Mr Bean Show" tvg-logo="Logo N/A" tvg-name="130.Mr Bean Show"  group-title="Unsorted",130.Mr Bean Show
+http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv?needwm=0
+
+#EXTINF:-1, tvg-id="131.Sonic" tvg-logo="Logo N/A" tvg-name="131.Sonic"  group-title="Unsorted",131.Sonic
+https://edge01.iptv.digijadoo.net:443/live/sonic/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 132.Discovery Bangla" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 132.Discovery Bangla"  group-title="Unsorted",#EXTINF:-1 132.Discovery Bangla
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 132.Discovery HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 132.Discovery HD"  group-title="Unsorted",#EXTINF:-1 132.Discovery HD
+http://live-ng-01.more.tv:80/hls/Discovery_HD/index_1.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 135.National Geographic" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 135.National Geographic"  group-title="Unsorted",#EXTINF:-1 135.National Geographic
+http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 137.BBC Earth" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 137.BBC Earth"  group-title="Unsorted",#EXTINF:-1 137.BBC Earth
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 138.Travel XP HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 138.Travel XP HD"  group-title="Unsorted",#EXTINF:-1 138.Travel XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 138.Travel Channel" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 138.Travel Channel"  group-title="Unsorted",#EXTINF:-1 138.Travel Channel
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 141.Colors Bangla HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 141.Colors Bangla HD"  group-title="Unsorted",#EXTINF:-1 141.Colors Bangla HD
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 142.Colors" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 142.Colors"  group-title="Unsorted",#EXTINF:-1 142.Colors
+https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 146.& Prive HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 146.& Prive HD"  group-title="Unsorted",#EXTINF:-1 146.& Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+
+#EXTINF:-1, tvg-id="154.Sony Ten 2 [1]" tvg-logo="Logo N/A" tvg-name="154.Sony Ten 2 [1]"  group-title="Unsorted",154.Sony Ten 2 [1]
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="155.Star Sports 1 Hindi" tvg-logo="Logo N/A" tvg-name="155.Star Sports 1 Hindi"  group-title="Unsorted",155.Star Sports 1 Hindi
+http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
+
+#EXTINF:-1, tvg-id="156.Star Sports Select 1 HD" tvg-logo="Logo N/A" tvg-name="156.Star Sports Select 1 HD"  group-title="Unsorted",156.Star Sports Select 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8
+
+#EXTINF:-1, tvg-id="157.Bein Sports Xtra HD" tvg-logo="Logo N/A" tvg-name="157.Bein Sports Xtra HD"  group-title="Unsorted",157.Bein Sports Xtra HD
+https://chostv.mobie.in/choos/sports/beinxtra.m3u8
+
+#EXTINF:-1, tvg-id="158.Bein Sports Haber SD" tvg-logo="Logo N/A" tvg-name="158.Bein Sports Haber SD"  group-title="Unsorted",158.Bein Sports Haber SD
+http://94.46.195.170:9000/bein-sports-haber/live.m3u8
+
+#EXTINF:-1, tvg-id="159.Sky Sports Cricket" tvg-logo="Logo N/A" tvg-name="159.Sky Sports Cricket"  group-title="Unsorted",159.Sky Sports Cricket
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+
+#EXTINF:-1, tvg-id="160.Sky Sports Football" tvg-logo="Logo N/A" tvg-name="160.Sky Sports Football"  group-title="Unsorted",160.Sky Sports Football
+http://livetv.colorsbd.com:8081/hdcrictv/ctg_skyfootball/chunks.m3u8
+
+#EXTINF:-1, tvg-id="162.Ten Sports" tvg-logo="Logo N/A" tvg-name="162.Ten Sports"  group-title="Unsorted",162.Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="163.Geo Super" tvg-logo="Logo N/A" tvg-name="163.Geo Super"  group-title="Unsorted",163.Geo Super
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="165.Dubai Sports" tvg-logo="Logo N/A" tvg-name="165.Dubai Sports"  group-title="Unsorted",165.Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+
+#EXTINF:-1, tvg-id="166.Dubai Sports 1" tvg-logo="Logo N/A" tvg-name="166.Dubai Sports 1"  group-title="Unsorted",166.Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 172.Dhoom Music" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 172.Dhoom Music"  group-title="Unsorted",#EXTINF:-1 172.Dhoom Music
+https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 178.Ary Musik" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 178.Ary Musik"  group-title="Unsorted",#EXTINF:-1 178.Ary Musik
+https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 183.Jhanjar Music" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 183.Jhanjar Music"  group-title="Unsorted",#EXTINF:-1 183.Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 186.FOX Movies" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 186.FOX Movies"  group-title="Unsorted",#EXTINF:-1 186.FOX Movies
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 189.UTV Action" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 189.UTV Action"  group-title="Unsorted",#EXTINF:-1 189.UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 192.Bflix Movies" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 192.Bflix Movies"  group-title="Unsorted",#EXTINF:-1 192.Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 196.Manoranjan Movies" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 196.Manoranjan Movies"  group-title="Unsorted",#EXTINF:-1 196.Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 198.Maha Movie" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 198.Maha Movie"  group-title="Unsorted",#EXTINF:-1 198.Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 239.Jhanjar HD" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 239.Jhanjar HD"  group-title="Unsorted",#EXTINF:-1 239.Jhanjar HD
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 279.Wixlar" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 279.Wixlar"  group-title="Unsorted",#EXTINF:-1 279.Wixlar
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 280.RU.TV" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 280.RU.TV"  group-title="Unsorted",#EXTINF:-1 280.RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 281.Thrill" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 281.Thrill"  group-title="Unsorted",#EXTINF:-1 281.Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 282.MTA English" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 282.MTA English"  group-title="Unsorted",#EXTINF:-1 282.MTA English
+http://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 284.Series Zone" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 284.Series Zone"  group-title="Unsorted",#EXTINF:-1 284.Series Zone
+https://m-c09-j2apps.s.llnwi.net/hls/8010.SeriesZone.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 286.Box Hits" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 286.Box Hits"  group-title="Unsorted",#EXTINF:-1 286.Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 287.Baraza TV Greek Music Hits" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 287.Baraza TV Greek Music Hits"  group-title="Unsorted",#EXTINF:-1 287.Baraza TV Greek Music Hits
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 288.The ShortFilms" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 288.The ShortFilms"  group-title="Unsorted",#EXTINF:-1 288.The ShortFilms
+https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 290.California Music Channel" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 290.California Music Channel"  group-title="Unsorted",#EXTINF:-1 290.California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 301.Food Channel" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 301.Food Channel"  group-title="Unsorted",#EXTINF:-1 301.Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 302.Food 52" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 302.Food 52"  group-title="Unsorted",#EXTINF:-1 302.Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 303.Cooking 4U" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 303.Cooking 4U"  group-title="Unsorted",#EXTINF:-1 303.Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 304.Living Foodz" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 304.Living Foodz"  group-title="Unsorted",#EXTINF:-1 304.Living Foodz
+http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 2.Ekattor HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 2.Ekattor HD [Extra]"  group-title="Unsorted",#EXTINF:-1 2.Ekattor HD [Extra]
+http://ctgiptv.kitv.live:1935/live/test/test1/11.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 6.Shomoy TV [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 6.Shomoy TV [Extra]"  group-title="Unsorted",#EXTINF:-1 6.Shomoy TV [Extra]
+http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 9.Channel 9 HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 9.Channel 9 HD [Extra]"  group-title="Unsorted",#EXTINF:-1 9.Channel 9 HD [Extra]
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 27.My TV HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 27.My TV HD [Extra]"  group-title="Unsorted",#EXTINF:-1 27.My TV HD [Extra]
+http://103.214.202.218:8081/live/mytv/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 88.Zee Bangla HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 88.Zee Bangla HD [Extra]"  group-title="Unsorted",#EXTINF:-1 88.Zee Bangla HD [Extra]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 88.Zee Bangla HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 88.Zee Bangla HD [Extra]"  group-title="Unsorted",#EXTINF:-1 88.Zee Bangla HD [Extra]
+http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 106.Sony TV HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 106.Sony TV HD [Extra]"  group-title="Unsorted",#EXTINF:-1 106.Sony TV HD [Extra]
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 112.Star Jalsha HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 112.Star Jalsha HD [Extra]"  group-title="Unsorted",#EXTINF:-1 112.Star Jalsha HD [Extra]
+http://ctgiptv.kitv.live:1935/live/test/test1/27.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 112.Star Jalsha HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 112.Star Jalsha HD [Extra]"  group-title="Unsorted",#EXTINF:-1 112.Star Jalsha HD [Extra]
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 117.Star Gold HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 117.Star Gold HD [Extra]"  group-title="Unsorted",#EXTINF:-1 117.Star Gold HD [Extra]
+http://103.214.202.218:8081/live/stargold/chunks.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 118.Star Bharat [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 118.Star Bharat [Extra]"  group-title="Unsorted",#EXTINF:-1 118.Star Bharat [Extra]
+http://103.205.133.19/hls/starbharat.m3u8
+
+#EXTINF:-1, tvg-id="#EXTINF:-1 141.Colors Bangla HD [Extra]" tvg-logo="Logo N/A" tvg-name="#EXTINF:-1 141.Colors Bangla HD [Extra]"  group-title="Unsorted",#EXTINF:-1 141.Colors Bangla HD [Extra]
+http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
+
+#EXTINF:-1, tvg-id="154.Sony Ten 2 [Extra]" tvg-logo="Logo N/A" tvg-name="154.Sony Ten 2 [Extra]"  group-title="Unsorted",154.Sony Ten 2 [Extra]
+http://103.205.133.14/hls/ten2.m3u8
+
+#EXTINF:-1, tvg-id="154.Sony Ten 3 [Extra]" tvg-logo="Logo N/A" tvg-name="154.Sony Ten 3 [Extra]"  group-title="Unsorted",154.Sony Ten 3 [Extra]
+http://103.205.133.14/hls/ten3.m3u8
+
+#EXTINF:-1, tvg-id="154.Sony Ten 3 [Extra]" tvg-logo="Logo N/A" tvg-name="154.Sony Ten 3 [Extra]"  group-title="Unsorted",154.Sony Ten 3 [Extra]
+http://43.231.22.238:8081/hdcrictv/ctg_ten3hd/chunks.m3u8
+
+#EXTINF:-1, tvg-id="225.Tag TV 1" tvg-logo="Logo N/A" tvg-name="225.Tag TV 1"  group-title="Pakistani",225.Tag TV 1
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#EXTINF:-1, tvg-id="224.Subrang TV" tvg-logo="Logo N/A" tvg-name="224.Subrang TV"  group-title="Pakistani",224.Subrang TV
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1, tvg-id="223.Sahar Urdu" tvg-logo="Logo N/A" tvg-name="223.Sahar Urdu"  group-title="Pakistani",223.Sahar Urdu
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="222.Kay 2" tvg-logo="Logo N/A" tvg-name="222.Kay 2"  group-title="Pakistani",222.Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+
+#EXTINF:-1, tvg-id="226.Tag TV 2" tvg-logo="Logo N/A" tvg-name="226.Tag TV 2"  group-title="Pakistani",226.Tag TV 2
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+

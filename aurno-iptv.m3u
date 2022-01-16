@@ -1,13 +1,14 @@
 #EXTM3U
 
 <!-- Sports -->
-#EXTINF: -1, BEIN SPORTS 7 FR
-http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
+#EXTINF: -1, GAZI TV - U19 WC LIVE
+http://103.70.140.27:8080/hls/gtv.m3u8
 
 <!-- Bangladeshi -- >
 #EXTINF:-1, T SPORTS HD
-http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
-#http://103.70.140.27:8080/hls/tsports.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -206,9 +207,12 @@ http://93.157.62.180/KSport1/index.m3u8
 #EXTINF:-1, MAQ SPORTS TV
 http://str24.l9574.com/517.stream/index.m3u8
 
-#EXTINF:-1, STAR SPORTS 1 HD
+#EXTINF:-1, STAR SPORTS SELECT 1 HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
+
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8

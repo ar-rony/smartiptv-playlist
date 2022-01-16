@@ -1,0 +1,264 @@
+Invalid XML: #EXTM3U
+
+
+#EXTINF:-1,ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?iptvsrc
+#EXTINF:-1,ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?iptvsrc
+
+#EXTINF:-1,Willow Cricket
+http://54.36.61.6:8000/live/WillowCricket/WiLlOwCrICkEt/213.ts
+#EXTINF:-1,Sony ESPN
+http://54.36.61.6:8000/live/SonyTen/Udayisul/214.ts
+#EXTINF:-1,IN| TEN 1 HD
+http://54.36.61.6:8000/live/SonyTen/Udayisul/187.ts
+#EXTINF:-1,IN| TEN 2
+http://54.36.61.6:8000/live/SonyTen/Udayisul/188.ts
+#EXTINF:-1,IN| TEN 3
+http://54.36.61.6:8000/live/SonyTen/Udayisul/189.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/128.ts
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/126.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/125.ts
+#EXTINF:-1,UK: Sky Sports HD Premier League
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/123.ts
+#EXTINF:-1,UK: Sky Sports HD F1
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/120.ts
+#EXTINF:-1,UK: Sky Sports HD Cricket
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/119.ts
+#EXTINF:-1,UK: Sky Sports HD Action
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/118.ts
+#EXTINF:-1,UK:SKY SPORTS GOLF
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/116.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/115.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/112.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA HD
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/111.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/110.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/108.ts
+#EXTINF:-1,Star Sports 1 LQ
+http://54.36.61.6:8000/live/SkySportsUK/Uio450@hjdyj/2.ts
+#EXTINF:-1,PTV Sports MQ
+http://54.36.61.6:8000/live/PTVSports/PTvSpOrTs3105/212.ts
+#EXTINF:-1,PTV Sports
+http://54.36.61.6:8000/live/PTVSports/PTvSpOrTs3105/211.ts
+#EXTINF:-1,NEO Sports
+http://54.36.61.6:8000/live/NEOPrime/NeOPriMe/228.ts
+#EXTINF:-1,IN| NEO Prime
+http://54.36.61.6:8000/live/NEOPrime/NeOPriMe/210.ts
+#EXTINF:-1,UK| BT Sport 1 HD
+http://54.36.61.6:8000/live/BTSportsUK/Guh@78iLo/196.ts
+#EXTINF:-1,UK| BT Sport 2 HD
+http://54.36.61.6:8000/live/BTSportsUK/Guh@78iLo/197.ts
+#EXTINF:-1,UK| BT Sport 3 HD
+http://54.36.61.6:8000/live/BTSportsUK/Guh@78iLo/198.ts
+#EXTINF:-1,UK| BT Sport | ESPN HD
+http://54.36.61.6:8000/live/BTSportsUK/Guh@78iLo/195.ts
+#EXTINF:-1,VIP ES: Bein Sports HD ( 1080P )
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/450.ts
+#EXTINF:-1,TR: Turkish Bein Sports 1
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/451.ts
+#EXTINF:-1,FR: beIN SPORTS1 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/447.ts
+#EXTINF:-1,FR: BeIN SPORTS 1 HD (1080P)
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/452.ts
+#EXTINF:-1,FR: beIN SPORTS 2HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/446.ts
+#EXTINF:-1,FR: BeIN SPORTS 2 HD (1080P)
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/453.ts
+#EXTINF:-1,FR: beIN SPORTS 3HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/448.ts
+#EXTINF:-1,FR: Bein Sport Max 5
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/444.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/443.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/442.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/441.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/440.ts
+#EXTINF:-1,FR: Bein Sport Max 10
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/445.ts
+#EXTINF:-1,AR: beIN SPorts
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/486.ts
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/485.ts
+#EXTINF:-1,AR: beIN Sports 2 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/476.ts
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/475.ts
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/474.ts
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/473.ts
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/472.ts
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/471.ts
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/470.ts
+#EXTINF:-1,AR: beIN Sports 9 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/469.ts
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/484.ts
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://54.36.61.6:8000/live/BeinSports2/Huj@Jiuty/483.ts
+#EXTINF:-1,WWE
+http://54.36.61.6:8000/live/WWE/zee_18/489.ts
+
+#EXTINF:-1 tvg-logo="http://www.adsports.ae/wp-content/uploads/2015/08/result-copy-copy1.jpg", AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.adsports.ae/wp-content/uploads/2015/08/result-copy-copy1.jpg", AD SPORTS 1 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+
+#EXTINF:-1 tvg-logo="http://www.adsports.ae/wp-content/uploads/2015/08/result-copy-copy1.jpg", AD SPORTS 2 HD
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+
+#EXTINF:-1 tvg-logo="http://www.adsports.ae/wp-content/uploads/2015/08/result-copy-copy1.jpg", AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://qatarnews.com.br/eng/wp-content/uploads/bfi_thumb/AL-KASS-CUP-2yd07mszyo2ay55yqekruy.jpg", Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1 tvg-logo="http://qatarnews.com.br/eng/wp-content/uploads/bfi_thumb/AL-KASS-CUP-2yd07mszyo2ay55yqekruy.jpg", Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1 tvg-logo="http://qatarnews.com.br/eng/wp-content/uploads/bfi_thumb/AL-KASS-CUP-2yd07mszyo2ay55yqekruy.jpg", Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1 tvg-logo="http://gruposalinas.com/img/Enero2018/TVA%20UNO.jpg", AZTECA UNO
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3Dsnm4cqXXM/maxresdefault.jpg", Bursaspor TV (Turk)
+https://live.dgn.net.tr/Bursaspor/bursaspor/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/3Dsnm4cqXXM/maxresdefault.jpg", Bursaspor TV (Turk)
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png", CDO
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png", CDO 
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png", CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dazplayer.com/img_chh/cdo.png", CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.desifree.tv/wp-content/uploads/DUBAI-SPORTS.jpg", DUBAI SPORTS
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Eurosport_hd.png", EUROSPORT HD
+http://65.254.55.10:4000/live/197/197.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/espn.jpg", USA | ESPN
+https://free-cors-proxy.herokuapp.com/http://demn-espn-vod-sonytv-i.secure.footprint.net/PROD09/sony/DEMN_ESPN/live/master_wired.m3u8|User-Agent=Adobe%20Primetime/1.4%20Dalvik/2.1.0%20(Linux;%20U;%20Android%206.0.1%20Build/MOB31H)&Cookie=reqPayload=%22iaodNwtkT225JhvKtpRLb%2BjpeFpWv4aiQAGGeKu0UO0xAsJdu4leyx6jabp7vz5j0CEp4%2BI75PO0mf7SSCXc7FdRXAkiJvCNO8YWMkaYqaxLEt4NJ3CxFc5bKkJfq3NVgDw3uL6NBwlajw3BMtBJ9abkjb298d12ERIY9n6vplh%2BBhlThNwPrj2bbJzkv3bgAPoCcribsU8pKw%2By9JjceYe6iqPh%2B8Vp8jDLwnB7Cj%2FaBhg%2B8wB7NAxB8ZPaZzUkqiynMtuDhlW9qQkXTcBMdJjGLZfArRt8bo%2BMFDRCCHYrtXd1xWqc62cCrUh4Ydnd5CxBuf6D2Kj%2BMybe4Jy%2BBjZYZ%2FNP1gya4P07R2VMhSEmHdNyvpJMAfCBRfcFCd0%2F1M9piGYlHPEaVS7x24O268Im28wwCHPwzFsVqEXuf2S%2BJjtNqgvwWZEd11MwwG4m76GZos6ng9Zf4ea8cxZCg4O97W6vkkqoCbqn6suUhVuWHl%2BQ8nCLXT7MObKyiXLTOAur3EFrdjpI1N6%2B4Sz%2BvSLJpSLg8ajlBwaV%2BSW4tRk%2BSzdsd5CCggUVwnXRAY%2B63x0TSMV1uMHZyXDVgRwGmExSAA1%2BNWszSaAcWUfxZpcNKZWEyvo3TpgXP%2BDATT6MbnA%2FGokGyAYBk%2BFXSfLBkUmekbdJ6oSyjn1ueQiTgDx5lFgN9TB28E8pFX018oadwf2G2U0EXbD54wBLJg%2Bm08kdnhLebE%2BQMmEYwSmDBrBVvRMEee7GcfpJhankMvRV5L2v1QwXM3%2BI%2Bq4hSqLt9hiXmxN0o3K9hMHfDnYsuItTz%2BPfVnciJbWwlQ9tLCGa20M%2B%22
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg?w=605" group-title="USA", GOLF CHANNEL
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 type="stream" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg?w=605", GOLF CHANNEL
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/golf-channel-logo.jpg?w=605" group-title="USA", GOLF CHANNEL HD 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="http://www.ktvlive.co.uk/wp-content/uploads/2015/03/ktv_logo.png", KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
+#EXTINF:-1 tvg-logo="http://m.mlb.com/assets/images/6/9/4/265794694/cuts/620x349/cut.jpg", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-logo="http://m.mlb.com/assets/images/6/9/4/265794694/cuts/620x349/cut.jpg", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
+
+#EXTINF:-1 tvg-logo="http://m.mlb.com/assets/images/6/9/4/265794694/cuts/620x349/cut.jpg", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.audioacrobat.com/wp-content/uploads/2014/08/audioacrobat-featured-on-msnbc.jpg", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.baocalitoday.com/wp-content/uploads/2017/01/2015_NFL_Logo_Generic_FULL_91677_1463702561296_1329565_ver1.0.jpg", NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/NFL_NOW2.png", NFL NOW HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/NFL_NOW2.png", NFL NOW HD
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_4500k.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/NFL_NOW2.png", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/NFL_NOW2.png", NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-arizona.jpg", PAC 12 ARIZONA
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/network-bay-area.jpg", PAC 12 BAY AREA
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-losangeles.jpg", PAC 12 LOS ANGELES
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg", PAC 12 MOUTAIN
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cpradof.darkwebrepo.gq/logos/network-national.jpg" group-title="USA", PAC-12 NATIONAL
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-oregon.jpg", PAC 12 OREGON
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg", PAC 12 WASHINGTON
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2013/05/Sin-t%C3%ADtulo8.jpg?x=634&y=309", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2013/05/Sin-t%C3%ADtulo8.jpg?x=634&y=309", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2013/05/Sin-t%C3%ADtulo8.jpg?x=634&y=309", REAL MADRID TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2013/05/Sin-t%C3%ADtulo8.jpg?x=634&y=309", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.tv/app/uploads/2013/05/Sin-t%C3%ADtulo8.jpg?x=634&y=309", REALMADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2017/04/sevilla--644x362.jpg", SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2017/04/sevilla--644x362.jpg", SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.newsx.com/wp-content/uploads/2017/04/sevilla--644x362.jpg", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/16/07/1600x900/cc3285001a9755f21dfa93b8e69bf3b0b257cbb9c2ddb3eee04d17156e4758b6_3739039.jpg?20170321214350", SKY 
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/16/07/1600x900/cc3285001a9755f21dfa93b8e69bf3b0b257cbb9c2ddb3eee04d17156e4758b6_3739039.jpg?20170321214350", SKY News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/16/07/1600x900/cc3285001a9755f21dfa93b8e69bf3b0b257cbb9c2ddb3eee04d17156e4758b6_3739039.jpg?20170321214350", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/16/07/1600x900/cc3285001a9755f21dfa93b8e69bf3b0b257cbb9c2ddb3eee04d17156e4758b6_3739039.jpg?20170321214350", SKY NEWS (AMERICAS)
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+
+#EXTINF:-1 tvg-logo="http://insufficientscotty.com/wp-content/uploads/2014/08/WWE-Network-Logo.png", WWE NETWORK
+http://hlslive-akc.med2.net.wwe.com/ls01/wwe/LINEAR/master_wired.m3u8|Cookie=mediaAuth_v2=e3a8cff5910f220164a55042ac35b339b24eed30da31ce6771d298b82b6b9aa3114b9098b291c016bfffadf2f0ac6074f08813714bcc51b4b7b2b3dec9307272cbf5fff695635b025a32b42dcc4376d859148ef182d57c4e91fe173a17959c1592ffb11fa4c0a2545889e89e81f0ef0e0745e262172e5856e26f265285bd27617dfe81604062c1fc85f54f200defe2109c994df11909a79bee8944e43d1f620afbb7407ff5a893e0313c0fe14b45f8f1423c803646475319f6e8844f62ab984101d914782e0d483ca71853c66bf5b6c5526dee9d4256c15f1a71664384068cf8fc438e3f15350a1c6894170c748d55400c0228199ee4876cc30190ce2ac08988bb69e3eac0a9714b2a7feed00394ea3963b9552d702317e428481361cfb5ddace5f468f9acf2de985c9f552e468a8c8e5c57100472d0d75c2f5a9749436ade00f7ac9fc407fcdaeb359b7d4ec562387ed3170ad2988cfa1650de23424f12fa4567cef329b158e0293c8f36ff2318d234ffbc05832c8e824ad1b154a15fcfbfabddc419a28518b530e35cc69973f8b94b4aacbbf686c1fc8e467a70d750cfb9108a3bbd6e6d74d1a315d3ba8f5ecb10141774a7b215db288a73d394d2a5c58637390246c381744ef62ee86ec522a150056925fc1767a175d9a49f16fe943ba127a0fc0d7eadb2070898614540b4cc3b81a1e7a95518b24309]]></link>
