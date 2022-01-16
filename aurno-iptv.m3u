@@ -186,7 +186,8 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 
 
 #EXTINF:-1, FREE SPORTS
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
 #EXTINF:-1, FOX SPORTS 3
 http://190.211.0.52:8000/play/a0m4/index.m3u8
