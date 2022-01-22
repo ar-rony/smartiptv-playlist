@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, TEN SPORTS
+http://208.86.19.21/711.stream/index.m3u8
+
 <!-- Sports -->
 #EXTINF: -1, GAZI TV - U19 WC LIVE
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
@@ -11,6 +14,8 @@ http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
+
+http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
@@ -299,7 +304,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-1 , Masti Music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
 
 #EXTINF:-1,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
