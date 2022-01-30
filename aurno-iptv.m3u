@@ -8,9 +8,9 @@ http://208.86.19.21/711.stream/index.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
 #http://103.70.140.27:8080/hls/gtv.m3u8
 
-<!-- Bangladeshi -- >
 #EXTINF:-1, T SPORTS HD
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
