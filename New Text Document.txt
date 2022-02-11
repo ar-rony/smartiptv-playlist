@@ -1,5 +1,10 @@
 https://iptvmate.net/files/xxx.m3u
 https://iptv-org.github.io/iptv/index.m3u
 
+http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8   channel i
 http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8  ekushey tv
 http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8  ntv
+http://103.159.4.38:5868/BD-BANGLA-6/tracks-v1a1/mono.m3u8   atn bangla
+http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8  Boishaki tv
+http://103.159.4.38:5868/BD-BANGLA-12/tracks-v1a1/mono.m3u8  news24
+http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8  atn news
