@@ -1,12 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1, TEN SPORTS
-http://208.86.19.21/711.stream/index.m3u8
+https://stream.crichd.vip/update/tensp.php
 
 <!-- Sports -->
-#EXTINF: -1, GAZI TV - U19 WC LIVE
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1642959605&md5=pwofeTutWTkNWEdjGf8yBg&user=49729ec489674ef3912b6d7cd0822923
-#http://103.70.140.27:8080/hls/gtv.m3u8
+#EXTINF: -1, GAZI TV - BPL T20 LIVE
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w264092588_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ0NjA1MzgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ0NTk4MzgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9d3JmamhfcmRnRXFkRjc5Vm83bHZPbDdEcmg1dlgxTzhqanM5OENtMVY0cz0=.m3u8
 
 #EXTINF:-1, T SPORTS HD
 http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
@@ -22,6 +21,9 @@ http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1, ASIAN TV
+http://103.159.4.38:8080/BD-BANGLA-22/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg", Alpona TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
@@ -113,7 +115,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU", GAZI TV
 #https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
-http://indo51.gcdn.co/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w423947879_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ0NjA4MzgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ0NjAxMzgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9eTZWdWZBZ0I3WTZDQ2RZdHh0aGNzV3d4Ymdyb2hXOW1hal91NnBpQ0s0RT0=.m3u8
 #http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png", Independent
@@ -151,7 +153,8 @@ https://live.bongobd.com/hls/MCUeyOrHrLIzZjw6XIbIBg/1638552300/nagorik_tv_hi/ind
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 , NTV
-http://173.199.120.51/hls/ntv.m3u8
+http://103.159.4.38:8080/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#http://173.199.120.51/hls/ntv.m3u8
 #http://103.205.133.19/hls/ntv.m3u8
 
 #EXTINF:-1, NOKSHI TV
@@ -380,6 +383,9 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 
 
 <!-- FOREIGN -->
+#EXTINF:-1, CSAT VISION
+http://103.159.4.38:8080/BD-BANGLA-19/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, NICK HD PLUS
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
