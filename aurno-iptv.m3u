@@ -14,7 +14,9 @@ http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
 
+#EXTINF:-1, SKYNET SPORTS
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
@@ -253,7 +255,8 @@ http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA
-http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+#http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
 #http://173.199.120.51/hls/chsj.m3u8
 #http://103.205.133.19/hls/chsj.m3u8
