@@ -262,8 +262,9 @@ http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #http://103.205.133.19/hls/chsj.m3u8
 #https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1, ZEE BANGLA HD
-http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ZEE BANGLA
+http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+#http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
 #https://z5ak-live.zee5.com/out/v1/9616200b22e049a8947aae755487d289/hdntl=exp=1638634475~acl=%2f*~data=hdntl~hmac=a4c851233fe8eb1599735562be3db2718aa2cff7b2687da72ab3062d715322ba/index_42.m3u8
 #http://103.109.56.116/live/skyfeed1004/index.m3u8
 #http://173.199.120.51/hls/zeebanglahd.m3u8
@@ -368,8 +369,9 @@ http://173.199.120.51/hls/andpicture.m3u8
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Star Plus
-http://173.199.120.51/hls/chsp.m3u8
-http://103.205.133.19/hls/chsp.m3u8
+http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+#http://173.199.120.51/hls/chsp.m3u8
+#http://103.205.133.19/hls/chsp.m3u8
 
 #EXTINF:-1, SONY ENTERTAINMENT
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
