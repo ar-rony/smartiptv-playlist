@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, IPL-BEIN SPORTS 3
+#EXTINF:-1 tvg-group="Sports", IPL-BEIN SPORTS 3
 https://ib.qqkkqqk.com/live/ch_5.m3u8
 
-#EXTINF:-1, IPL-STAR SPORTS 1HD
+#EXTINF:-1 tvg-group="Sports", IPL-STAR SPORTS 1HD
 http://103.149.130.122:8089/25/index.m3u8
 
 <!-- Sports -->
