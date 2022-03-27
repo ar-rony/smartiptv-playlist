@@ -254,9 +254,8 @@ http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
-#EXTINF:-1, SWISS SPORTS TV
-http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8
-
+#EXTINF:-1, SONY SIX HD
+http://103.149.130.122:8089/24/index.m3u8
 
 <!-- Indian -->
 
