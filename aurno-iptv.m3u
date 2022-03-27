@@ -1,16 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-group="Sports", IPL-BEIN SPORTS 3
+#EXTINF:-1 group-title="Sports", IPL-BEIN SPORTS 3
 https://ib.qqkkqqk.com/live/ch_5.m3u8
 
-#EXTINF:-1 tvg-group="Sports", IPL-STAR SPORTS 1HD
+#EXTINF:-1 group-title="Sports", IPL-STAR SPORTS 1HD
 http://103.149.130.122:8089/25/index.m3u8
 
-<!-- Sports -->
-#EXTINF: -1, GAZI TV - BPL T20 LIVE
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w264092588_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ0NjA1MzgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ0NTk4MzgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9d3JmamhfcmRnRXFkRjc5Vm83bHZPbDdEcmg1dlgxTzhqanM5OENtMVY0cz0=.m3u8
+#EXTINF:-1 group-title="Sports", IPL Live
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w355241218_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ4NDEzMzQwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ4NDA2MzQwJmJkaXhzcG9ydHN0b2tlbmhhc2g9SWxFTTRfbWNfWFJCOUdiNTFjbHRKT0liRUVNQkdWZ3R1OUlPc1NHU0MxOD0=.m3u8
 
-#EXTINF:-1, T SPORTS HD
+#EXTINF:-1 group-title="Sports", T SPORTS HD
 http://103.149.130.122:8089/102/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
@@ -18,11 +17,11 @@ http://103.149.130.122:8089/102/index.m3u8
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF:-1, SKYNET SPORTS
+#EXTINF:-1 group-title="Sports", SKYNET SPORTS
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, PTV SPORTS
+#EXTINF:-1 group-title="Sports", PTV SPORTS
 http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
@@ -116,8 +115,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU", GAZI TV
-#https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
-http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w423947879_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ0NjA4MzgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ0NjAxMzgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9eTZWdWZBZ0I3WTZDQ2RZdHh0aGNzV3d4Ymdyb2hXOW1hal91NnBpQ0s0RT0=.m3u8
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1457384220_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ4NDEzMzQwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ4NDA2MzQwJmJkaXhzcG9ydHN0b2tlbmhhc2g9SWxFTTRfbWNfWFJCOUdiNTFjbHRKT0liRUVNQkdWZ3R1OUlPc1NHU0MxOD0=.m3u8
 #http://tv.aliflailabd.com:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png", Independent
@@ -206,55 +204,55 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 <!-- Sports-- >
 
-#EXTINF:-1, ABU DHABI SPORTS 1 HD
+#EXTINF:-1 group-title="Sports", ABU DHABI SPORTS 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1, ABU DHABI SPORTS 2 HD
+#EXTINF:-1 group-title="Sports", ABU DHABI SPORTS 2 HD
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1, ABU DHABI SPORTS 3 HD
+#EXTINF:-1 group-title="Sports", ABU DHABI SPORTS 3 HD
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
-#EXTINF:-1, BEIN SPORTS EXTRA SPORTS
+#EXTINF:-1 group-title="Sports", BEIN SPORTS EXTRA SPORTS
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
-#EXTINF:-1, BEIN SPORTS 4 HD
+#EXTINF:-1 group-title="Sports", BEIN SPORTS 4 HD
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31490.m3u8
 
-#EXTINF:-1, FREE SPORTS
+#EXTINF:-1 group-title="Sports", FREE SPORTS
 #https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 
-#EXTINF:-1, FOX SPORTS 3
+#EXTINF:-1 group-title="Sports", FOX SPORTS 3
 http://190.211.0.52:8000/play/a0m4/index.m3u8
 
-#EXTINF:-1, GEO SUPER
+#EXTINF:-1 group-title="Sports", GEO SUPER
 http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, OMAN SPORTS
+#EXTINF:-1 group-title="Sports", OMAN SPORTS
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?checkedby:zaltv.co
 
-#EXTINF:-1, FOX SPORTS AUSTRALIA
+#EXTINF:-1 group-title="Sports", FOX SPORTS AUSTRALIA
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 
-#EXTINF:-1, K SPORTS 1 HD
+#EXTINF:-1 group-title="Sports", K SPORTS 1 HD
 http://93.157.62.180/KSport1/index.m3u8
 
-#EXTINF:-1, MAQ SPORTS TV
+#EXTINF:-1 group-title="Sports", MAQ SPORTS TV
 http://str24.l9574.com/517.stream/index.m3u8
 
-#EXTINF:-1, STAR SPORTS SELECT 1 HD
+#EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 1 HD
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 
-#EXTINF:-1, STAR SPORTS SELECT 2 HD
+#EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 HD
 http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SKY SPORTS UK
+#EXTINF:-1 group-title="Sports", SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
-#EXTINF:-1, SONY SIX HD
+#EXTINF:-1 group-title="Sports", SONY SIX HD
 http://103.149.130.122:8089/24/index.m3u8
 
 <!-- Indian -->
