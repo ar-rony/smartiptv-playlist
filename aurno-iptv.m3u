@@ -1,14 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, TEN SPORTS
-https://stream.crichd.vip/update/tensp.php
+#EXTINF:-1, IPL-BEIN SPORTS 3
+https://ib.qqkkqqk.com/live/ch_5.m3u8
+
+#EXTINF:-1, IPL-SKY SPORTS
+https://g6.fctelerium.com:999/hls/skyscric.m3u8
 
 <!-- Sports -->
 #EXTINF: -1, GAZI TV - BPL T20 LIVE
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w264092588_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ0NjA1MzgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ0NTk4MzgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9d3JmamhfcmRnRXFkRjc5Vm83bHZPbDdEcmg1dlgxTzhqanM5OENtMVY0cz0=.m3u8
 
 #EXTINF:-1, T SPORTS HD
-http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.149.130.122:8089/102/index.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
