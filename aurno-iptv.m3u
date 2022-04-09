@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports", IPL-GAZI TV
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1232950342_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ5MTgzODYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ5MTc2ODYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9aUVTWnU3dXhZSWJBNjhIWmt5Xy1zX1ZUcFRwQ1h0aHplVmhqbjNhbEd3RT0=.m3u8
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w2076856899_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ5NDk3NjAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ5NDkwNjAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9TkxQd1AxQ3VwWjQxcHZKUm5fWms2X0d5TXJnOGVIV0dRcnFQeXFRa0s1WT0=.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL-STAR SPORTS 1HD
 http://103.149.130.122:8089/25/index.m3u8
@@ -13,7 +13,7 @@ http://178.218.196.218:8000/play/a008/31421746.m3u8
 #http://103.149.130.122:8089/102/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
+#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 http://103.70.140.27:8080/hls/tsports.m3u8
 
