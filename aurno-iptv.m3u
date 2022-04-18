@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Sports", IPL-GAZI TV
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w2076856899_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ5NDk3NjAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ5NDkwNjAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9TkxQd1AxQ3VwWjQxcHZKUm5fWms2X0d5TXJnOGVIV0dRcnFQeXFRa0s1WT0=.m3u8
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w675860659_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwMjU5OTAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwMjUyOTAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9OXBOUlRURkE2UFhOdENXNzhzQTBjaDJaMnhDTTM4bDhoTEFqUE51eDN2OD0=.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL-STAR SPORTS 1HD
 http://103.149.130.122:8089/25/index.m3u8
