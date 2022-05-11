@@ -7,7 +7,7 @@ http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1036914556_tkYmRpe
 http://103.149.130.122:8089/25/index.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL Live
-http://178.218.196.218:8000/play/a008/31421746.m3u8
+http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="Sports", T SPORTS HD
 #http://103.149.130.122:8089/102/index.m3u8
