@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports", LA-LIGA Live
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
+
 #EXTINF:-1 group-title="Sports", IPL-GAZI TV
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1036914556_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwNzM2NDIwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwNzI5NDIwJmJkaXhzcG9ydHN0b2tlbmhhc2g9WGQ0SWZGRnoyekhNZmJHU0tmM1g3ZnltYkRWYTZvd2JtRTA3WnNFS1VwUT0=.m3u8
 
@@ -10,15 +13,15 @@ http://103.149.130.122:8089/25/index.m3u8
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="Sports", T SPORTS HD
+http://103.124.110.34:8082/tsp/index.m3u8
 #http://103.149.130.122:8089/102/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8?token=
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
-http://103.70.140.27:8080/hls/tsports.m3u8
+#http://103.70.140.27:8080/hls/tsports.m3u8
 
-#EXTINF:-1 group-title="Sports", SKYNET SPORTS
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", UEFA CHAMPIONS LEAGUE
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
 
 #EXTINF:-1 group-title="Sports", PTV SPORTS
@@ -219,7 +222,8 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 
 #EXTINF:-1 group-title="Sports", BEIN SPORTS EXTRA 
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
+#https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 
 #EXTINF:-1 group-title="Sports", BEIN SPORTS 4 HD
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31490.m3u8
@@ -258,13 +262,18 @@ http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 
-#EXTINF:-1 group-title="Sports", SONY SIX HD
-http://103.149.130.122:8089/24/index.m3u8
+#EXTINF:-1 group-title="Sports", SONY Ten1 HD
+http://103.136.200.246:8082/Ten1/tracks-v1a1/mono.m3u8
+#http://103.149.130.122:8089/24/index.m3u8
+
+#EXTINF:-1 group-title="Sports", SONY Ten2 HD
+http://103.136.200.246:8082/Ten2/tracks-v1a1/mono.m3u8
 
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA
-http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
+http://89.187.162.109/STARJALSHA/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
 #http://103.109.56.116/live/skyfeed1003/index.m3u8
 #http://173.199.120.51/hls/chsj.m3u8
@@ -312,7 +321,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=soheliptv01826655778
 
 #EXTINF:-1, ZEE 24 GHANTA
-http://208.86.19.21/901.stream/tracks-v1a1/mono.m3u8
+https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_11.m3u8
 
 #EXTINF:-1, 9XM
 #http://103.205.133.19/hls/9xm.m3u8
