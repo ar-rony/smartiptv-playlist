@@ -39,6 +39,9 @@ http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 #EXTINF: -1 group-title="Bangla", DESH TV
 http://10.16.100.245/hindi/de$htv_1st0p.m3u8
 
+#EXTINF:-1, DURONTO TV
+http://bdiptv.net:8082/DURONTO-TV/index.m3u8
+
 #EXTINF: -1 group-title="Bangla", EKATTOR TV
 http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
 
