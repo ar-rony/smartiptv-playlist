@@ -102,6 +102,9 @@ http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
 #EXTINF: -1 group-title="Indian Bangla", SONY AAT8
 http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 
+#EXTINF: -1 group-title="Indian Bangla", START JALSHA HD
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8
+
 #EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 
