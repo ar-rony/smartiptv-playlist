@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF: -1 group-title="Bangla", ASIAN TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+
+#EXTINF: -1 group-title="Bangla", ATN BANGLA
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+
+#EXTINF: -1 group-title="Bangla", BANGLA TV
+http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+
+#EXTINF: -1 group-title="Bangla", Banglavision
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+
+#EXTINF: -1 group-title="Bangla", BOISHAKHI TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+
+#EXTINF: -1 group-title="Bangla", BTV
+http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+
+#EXTINF: -1 group-title="Bangla", BTV WORLD
+http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
+
+#EXTINF: -1 group-title="Bangla", CHANNEL 24
+http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", CHANNEL 9
+http://10.16.100.208:8082/hindi/chanNel9nine_1$top.m3u8
+
+#EXTINF: -1 group-title="Bangla", CHANNEL I
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+
+#EXTINF: -1 group-title="Bangla", DBC NEWS
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+
+#EXTINF: -1 group-title="Bangla", DEPTO TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+
+#EXTINF: -1 group-title="Bangla", DESH TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", EKATTOR TV
+http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+
+#EXTINF: -1 group-title="Bangla", EKUSHEY TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+
+#EXTINF: -1 group-title="Bangla", GAAN BANGLA
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+
+#EXTINF: -1 group-title="Sports", GAZI TV SPORTS
+http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
+
+#EXTINF: -1 group-title="Bangla", GAZI TV HD
+http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+
+#EXTINF: -1 group-title="Bangla", JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+
+#EXTINF: -1 group-title="Bangla", MASRANGA TV
+http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+
+#EXTINF: -1 group-title="Bangla", MOHONA TV
+http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
+
+#EXTINF: -1 group-title="Bangla", MY TV HD
+http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
+
+#EXTINF: -1 group-title="Bangla", NTV HD
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", NAGORIK TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", NEWS24 HD
+http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", RTV HD
+http://10.16.100.245/hindi/R_tv_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", SATV HD
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+
+#EXTINF: -1 group-title="Bangla", SOMOY NEWS
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+
+#EXTINF: -1 group-title="Bangla", T SPORTS HD
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+
+#EXTINF: -1 group-title="Sports", T SPORTS HD
+http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
+
+#EXTINF: -1 group-title="Indian Bangla", AKASH BANGLA
+http://10.16.100.245/hindi/akash8_1stop.m3u8
+
+#EXTINF: -1 group-title="Indian Bangla", COLORS BANGLA
+http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
+
+#EXTINF: -1 group-title="Indian Bangla", SONY AAT8
+http://10.16.100.204:8082/hls/s0ny8aat.m3u8
+
+#EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
+http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
+
+#EXTINF: -1 group-title="Sports", PTV SPORTS HD
+http://10.16.100.245/hindi/pTvSp0rts.m3u8
+
+#EXTINF: -1 group-title="Sports", SONY SIX HD
+http://10.16.100.207:8082/sports/s0ny6six.m3u8
+
+#EXTINF: -1 group-title="Sports", SONY TEN1 HD
+http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+
+#EXTINF: -1 group-title="Sports", SONY TEN2 HD
+http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+
+#EXTINF: -1 group-title="Sports", SONY TEN3 HD
+http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+
+#EXTINF: -1 group-title="Sports", STAR SPORTS 1HD
+http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+
+#EXTINF: -1 group-title="Sports", STAR SPORT 2HD
+http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
+
+#EXTINF: -1 group-title="Sports", STAR SELECT 1HD
+http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+
+#EXTINF: -1 group-title="Sports", STAR SELECT 2HD
+http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+
+
+
