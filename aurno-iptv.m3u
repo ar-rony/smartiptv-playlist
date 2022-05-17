@@ -13,7 +13,8 @@ http://103.167.190.250/hls/stersports1hd.m3u8
 http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="Sports", T SPORTS HD
-http://103.124.110.34:8082/tsp/index.m3u8
+http://103.167.190.250/hls/t-sports.m3u8
+#http://103.124.110.34:8082/tsp/index.m3u8
 #http://103.149.130.122:8089/102/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
