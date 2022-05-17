@@ -108,8 +108,26 @@ http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF:-1 group-title="Indian Bangla", ZEE BANGLA CINEMA
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
+#EXTINF:-1 group-title="Indian", STAR PLUS HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+
+#EXTINF:-1 group-title="Indian", ZEE TV HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+
+#EXTINF:-1 group-title="Indian", COLORS HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+
+#EXTINF:-1 group-title="Indian", SONY HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
 #EXTINF: -1 group-title="Indian", STAR GOLD HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+
+#EXTINF: -1 group-title="Indian", STAR MOVIES HD
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+
+#EXTINF: -1 group-title="Indian", HBO HD
+http://tv2.ebox.live:8080/live/hbo.m3u8?rand=(random)
 
 #EXTINF: -1 group-title="Indian", STAR GOLD SELECT HD
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
