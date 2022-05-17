@@ -105,6 +105,9 @@ http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 #EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 
+#EXTINF:-1 group-title="Sports", A SPORTS HD
+http://bdiptv.net:8082/ASPORTS/index.m3u8
+
 #EXTINF: -1 group-title="Sports", PTV SPORTS HD
 http://10.16.100.245/hindi/pTvSp0rts.m3u8
 
@@ -132,5 +135,49 @@ http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 #EXTINF: -1 group-title="Sports", STAR SELECT 2HD
 http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 1HD
+http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
 
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 2HD
+http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 3HD
+http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
+
+#EXTINF: -1 group-title="Sports", SKY SPORTS FOOTBALL
+http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+
+#EXTINF: -1 group-title="Sports",SKY SPORTS CRICKET
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+
+#EXTINF: -1 group-title="Sports", ESPN2 HD
+http://bdiptv.net:8082/ESPN/index.m3u8
+
+#EXTINF: -1 group-title="Sports", WILLOW CRICKET HD 
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+
+#EXTINF: -1 group-title="Sports", SUPER SPORTS CRICKET HD
+http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+
+#EXTINF: -1 group-title="Sports", TITAS SPORTS HD
+http://bdiptv.net:8082/tsp/index.m3u8
+
+#EXTINF: -1 group-title="Sports", GTV SPORTS HD
+http://bdiptv.net:8082/gtv/index.m3u8
+
+#EXTINF: -1 group-title="Sports", AD SPORTS 1HD
+http://bdiptv.net:8082/Adsports1/index.m3u8
+
+#EXTINF: -1 group-title="Sports", AD SPORTS 2HD
+http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="Sports", AD SPORTS 3HD
+http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="Sports", AD SPORTS 4HD
+http://bciptv.net:8082/Adsports4/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="Sports",
+#EXTINF: -1 group-title="Sports",
+#EXTINF: -1 group-title="Sports",
+#EXTINF: -1 group-title="Sports",
