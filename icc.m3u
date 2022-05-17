@@ -108,6 +108,21 @@ http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF:-1 group-title="Indian Bangla", ZEE BANGLA CINEMA
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 
+#EXTINF: -1 group-title="Indian", STAR GOLD HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+
+#EXTINF: -1 group-title="Indian", STAR GOLD SELECT HD
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+
+#EXTINF: -1 group-title="Indian", ZEE CINEMA HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+
+#EXTINF: -1 group-title="Indian", SONY MAX HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+
+#EXTINF: -1 group-title="Indian", SONY MAX2 HD
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+
 #EXTINF:-1 group-title="Sports", A SPORTS HD
 http://bdiptv.net:8082/ASPORTS/index.m3u8
 
@@ -171,8 +186,8 @@ http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF: -1 group-title="Sports", AD SPORTS 1HD
 http://bdiptv.net:8082/Adsports1/index.m3u8
 
-#EXTINF: -1 group-title="Sports", AD SPORTS 2HD
-http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Sports", TEN SPORTSHD
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
 #EXTINF: -1 group-title="Sports", AD SPORTS 3HD
 http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8
