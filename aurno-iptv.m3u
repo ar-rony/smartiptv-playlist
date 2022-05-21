@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF: -1 group-title="Sports", WILLOW CRICKET HD 
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+
 #EXTINF:-1 group-title="Sports", LA-LIGA Live
 http://loga.ultratotal.ml/xls/ligota/index.m3u8
 
