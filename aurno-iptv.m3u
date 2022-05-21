@@ -262,7 +262,8 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 
 #EXTINF:-1 group-title="Sports", STAR SPORTS SELECT 2 HD
-http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#http://103.159.4.38:5868/SPORTS-12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports", SKY SPORTS UK
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
