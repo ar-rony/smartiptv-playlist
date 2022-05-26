@@ -97,13 +97,13 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
 #EXTINF: -1 group-title="Documentary", ANIMEL PLANET HD
-http://bdiptv.net:8082/ANIMEL-PLANET/index.m3u8?token=b9fda93b80fe36bf1cecdaa078d5c7b9646a8d3a-a4cac4c7b0b4f047d249cbe2e1757f69-1653569884-1653559084&remote=15.1.1.9
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
 
-#EXTINF: -1 group-title="Documentary group-title="Documentary",, DISCOVERY BANGLA
-http://bciptv.net:8082/discovery/tracks-v1a1/mono.m3u8?token=c9695eb55f77c245a02ea7d79a6d4c5989bfd37a-e54b232561931bb8ebee3115e1159228-1653556958-1653546158
+#EXTINF: -1 group-title="Documentary group-title="Documentary", DISCOVERY BANGLA
+http://tv2.ebox.live:8080/live/discovery.m3u8
 
 #EXTINF: -1 group-title="Documentary", NAT GEO WILD
-http://bciptv.net:8082/natgeo-wild/tracks-v1a1/mono.m3u8?token=997a495885b4a5e16b7e2a5872fde313038bdf09-e96f1b7f35e557ceea1589e6f4aae67d-1653557070-1653546270
+http://tv2.ebox.live:8080/live/natg.m3u8
 
 #EXTINF: -1 group-title="Documentary", NAT GEO BANGLA
 http://bciptv.net:8082/ngohd/tracks-v1a1/mono.m3u8?token=d854433f9f08c390ac600510801d994848c99c22-b60532a6b98b994e2ada13d2b40be828-1653557148-1653546348
@@ -141,11 +141,17 @@ http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 group-title="Indian", ZEE TV HD
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 
+#EXTINF:-1 group-title="Indian", NICK HD
+http://tv2.ebox.live:8080/live/nick.m3u8
+
 #EXTINF:-1 group-title="Indian", COLORS HD
 http://tv2.ebox.live:8080/live/colors.m3u8
 
 #EXTINF:-1 group-title="Indian", SONY HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
+
+#EXTINF:-1 group-title="Indian", SONY SAB HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 
 #EXTINF: -1 group-title="Indian", STAR GOLD HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
@@ -154,10 +160,10 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://bciptv.net:8082/AND-FLIX/tracks-v1a1/mono.m3u8?token=2a62a33d2a7071ef4c2cdbc73f2e0f40538c3cf3-ee4923ddfa580b7565dc551177175fa3-1653569093-1653558293
 
 #EXTINF: -1 group-title="Indian", &PIXTURES HD
-http://bciptv.net:8082/andpictures/tracks-v1a1/mono.m3u8?token=9b63bd7cde44d345b8dfd5edc90b75ee0176e673-260d89a43befa8fd55c641e50c88450d-1653569149-1653558349
+http://tv.ebox.live:8081/thunderbd/78/chunks.m3u8?nimblesessionid=28531132&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTE6NTUgUE0maGFzaF92YWx1ZT1uckMrVjFZVmJiSklpWFAya0F5elR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF: -1 group-title="Indian", SONY PIX HD
-http://bciptv.net:8082/sony-pix-hd/tracks-v1a1/mono.m3u8?token=01b6e8da842e35f5bf5ecef7d75495fcf51241df-927ae63d616db584880d9a662eba1e53-1653568333-1653557533
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
 
 #EXTINF: -1 group-title="Indian", STAR MOVIES HD
 http://bciptv.net:8082/star-movies-hd/tracks-v1a1/mono.m3u8?token=b734a0f9c126daeb08526a4290009c38fab34223-ac4b50caca83a8b02aadae2a13a4ab33-1653567329-1653556529
@@ -172,10 +178,10 @@ http://bciptv.net:8082/zeeaction/tracks-v1a1/mono.m3u8?token=382f8a7048e9afa4326
 http://tv2.ebox.live:8080/live/hbo.m3u8?rand=(random)
 
 #EXTINF: -1 group-title="Indian", MNX HD
-http://bciptv.net:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=2674b55c3d8ee6cd56ea32f6e0e3c77e08ac4f14-f15364b0051f2a445f743d082ca33818-1653568469-1653557669
+http://tv.ebox.live:8081/thunderbd/39/chunks.m3u8?nimblesessionid=28531055&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTE6MDUgUE0maGFzaF92YWx1ZT1DQVB4RnhrVTRnSVN4c1NWUnNCSDBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF: -1 group-title="Indian", MOVIES NOW HD
-http://bciptv.net:8082/movies-now/tracks-v1a1/mono.m3u8?token=ef9c8c79bb3407fccc3247663b68c78d86f20a61-f0878559b18b7a203d7a01c395bc75df-1653568557-1653557757
+http://tv.ebox.live:8081/thunderbd/45/chunks.m3u8?nimblesessionid=28530973&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MDk6NTggUE0maGFzaF92YWx1ZT1YR2ZJSmFPeVRHeXg4eHAxV2tPdVV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF: -1 group-title="Indian", MOVIES NOW PLUS HD
 http://bciptv.net:8082/mn-hd/tracks-v1a1/mono.m3u8?token=d7ce754fed3ed8a13da06733bf80720499066afd-bf6125d90240761384c9298ca1f9dd90-1653568608-1653557808
@@ -193,7 +199,7 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 
 #EXTINF: -1 group-title="Music", 9XM
-http://bciptv.net:8082/9XM/tracks-a1/mono.m3u8?token=c1d1aa3c4887be4e2d68636437287bbb780b2235-84dcc37081b15b2b567e72a9d378a931-1653569224-1653558424
+http://tv.ebox.live:8081/thunderbd/48/chunks.m3u8?nimblesessionid=28531270&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTM6MDQgUE0maGFzaF92YWx1ZT1tZTdJcW1oMlcvdHh4SlByNkdEQ1p3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF: -1 group-title="Music", MASTI
 http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8?token=b30f6e72bd50fa98cf802d6c5cd27a60efdb0789-4cad05f960d55540e068b291770c5209-1653569720-1653558920
@@ -249,11 +255,17 @@ http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 #EXTINF: -1 group-title="Sports", BEIN SPORTS 3HD
 http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
 
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 4HD
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+
 #EXTINF: -1 group-title="Sports", SKY SPORTS FOOTBALL
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
 
 #EXTINF: -1 group-title="Sports",SKY SPORTS CRICKET
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+
+#EXTINF: -1 group-title="Sports",SKY SPORTS MIX
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
 
 #EXTINF: -1 group-title="Sports", ESPN2 HD
 http://bdiptv.net:8082/ESPN/index.m3u8
