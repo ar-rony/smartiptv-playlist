@@ -142,7 +142,7 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 
 #EXTINF: -1 group-title="Indian", STAR MOVIES HD
-http://tv2.ebox.live:8080/live/star-movies.m3u8
+http://bciptv.net:8082/star-movies-hd/tracks-v1a1/mono.m3u8?token=b734a0f9c126daeb08526a4290009c38fab34223-ac4b50caca83a8b02aadae2a13a4ab33-1653567329-1653556529
 
 #EXTINF: -1 group-title="Indian", START WORLD HD
 http://bciptv.net:8082/star-worldhd/tracks-v1a1/mono.m3u8?token=f66320ec0dd9f8af1aff27ea9e6e2568abd5c4b3-62cef35e3d0a8aa4346e01da64037f60-1653557537-1653546737
