@@ -127,7 +127,7 @@ http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 
 #EXTINF: -1 group-title="Indian Bangla", SUN BANGLA
-http://bciptv.net:8082/sunbangla/tracks-v1a1/mono.m3u8?token=9c87e40da0f4db77897560416a664ab6b9600251-fe6a388cd3ad8d3e0b61142b795f1520-1653557728-1653546928
+http://bciptv.net:8082/sunbangla/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
@@ -274,7 +274,7 @@ http://bdiptv.net:8082/gtv/index.m3u8
 http://bdiptv.net:8082/Adsports1/index.m3u8
 
 #EXTINF: -1 group-title="Sports", AD SPORTS 2HD
-http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8?token=9ff5a6765559f8e3a5544e7cda83ec3fe7b3e5a6-ecaae4482d5e64c19008ddd1e76a6d11-1653568784-1653557984
+http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 group-title="Sports", AD SPORTS 3HD
 http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8?token=4e4e7d547255200b7f51c1b0fae2a95767720df7-f459f2a52ac7c20299cd439109d65c01-1653568728-1653557928
