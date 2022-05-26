@@ -156,6 +156,15 @@ http://bciptv.net:8082/zeeaction/tracks-v1a1/mono.m3u8?token=382f8a7048e9afa4326
 #EXTINF: -1 group-title="Indian", HBO HD
 http://tv2.ebox.live:8080/live/hbo.m3u8?rand=(random)
 
+#EXTINF: -1 group-title="Indian", MNX HD
+http://bciptv.net:8082/mnx-hd/tracks-v1a1/mono.m3u8?token=2674b55c3d8ee6cd56ea32f6e0e3c77e08ac4f14-f15364b0051f2a445f743d082ca33818-1653568469-1653557669
+
+#EXTINF: -1 group-title="Indian", MOVIES NOW HD
+http://bciptv.net:8082/movies-now/tracks-v1a1/mono.m3u8?token=ef9c8c79bb3407fccc3247663b68c78d86f20a61-f0878559b18b7a203d7a01c395bc75df-1653568557-1653557757
+
+#EXTINF: -1 group-title="Indian", MOVIES NOW PLUS HD
+http://bciptv.net:8082/mn-hd/tracks-v1a1/mono.m3u8?token=d7ce754fed3ed8a13da06733bf80720499066afd-bf6125d90240761384c9298ca1f9dd90-1653568608-1653557808
+
 #EXTINF: -1 group-title="Indian", STAR GOLD SELECT HD
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 
@@ -176,6 +185,9 @@ http://10.16.100.245/hindi/pTvSp0rts.m3u8
 
 #EXTINF:-1 group-title="Sports", GEO SUPER 
 http://bciptv.net:8082/GEO-SUPER/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 group-title="Sports", TEN SPORTSHD
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 
 #EXTINF: -1 group-title="Sports", SONY SIX HD
 http://10.16.100.207:8082/sports/s0ny6six.m3u8
@@ -234,14 +246,14 @@ http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF: -1 group-title="Sports", AD SPORTS 1HD
 http://bdiptv.net:8082/Adsports1/index.m3u8
 
-#EXTINF: -1 group-title="Sports", TEN SPORTSHD
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF: -1 group-title="Sports", AD SPORTS 2HD
+http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8?token=9ff5a6765559f8e3a5544e7cda83ec3fe7b3e5a6-ecaae4482d5e64c19008ddd1e76a6d11-1653568784-1653557984
 
 #EXTINF: -1 group-title="Sports", AD SPORTS 3HD
-http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8
+http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8?token=4e4e7d547255200b7f51c1b0fae2a95767720df7-f459f2a52ac7c20299cd439109d65c01-1653568728-1653557928
 
 #EXTINF: -1 group-title="Sports", AD SPORTS 4HD
-http://bciptv.net:8082/Adsports4/tracks-v1a1/mono.m3u8
+http://bciptv.net:8082/Adsports4/tracks-v1a1/mono.m3u8?token=55d6eff7b4285bccb6ac0f66d3ded5564dfa4a1c-ba3ad7ee230eedb2a52f74127e516581-1653568696-1653557896
 
 #EXTINF: -1 group-title="Sports", ESPN UK
 http://bciptv.net:8082/ESPN/tracks-v1a1/mono.m3u8?token=8ce1650e11dd79e9b8144d24be5d1b9a24d2f119-8fa6a3e10071bad7b265f100383cfe3f-1653557837-1653547037
