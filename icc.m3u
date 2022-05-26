@@ -96,17 +96,23 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF: -1 group-title="Sports", T SPORTS HD
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 
-#EXTINF: -1, DISCOVERY BANGLA
+#EXTINF: -1 group-title="Documentary", ANIMEL PLANET HD
+http://bdiptv.net:8082/ANIMEL-PLANET/index.m3u8?token=b9fda93b80fe36bf1cecdaa078d5c7b9646a8d3a-a4cac4c7b0b4f047d249cbe2e1757f69-1653569884-1653559084&remote=15.1.1.9
+
+#EXTINF: -1 group-title="Documentary group-title="Documentary",, DISCOVERY BANGLA
 http://bciptv.net:8082/discovery/tracks-v1a1/mono.m3u8?token=c9695eb55f77c245a02ea7d79a6d4c5989bfd37a-e54b232561931bb8ebee3115e1159228-1653556958-1653546158
 
-#EXTINF: -1, NAT GEO WILD
+#EXTINF: -1 group-title="Documentary", NAT GEO WILD
 http://bciptv.net:8082/natgeo-wild/tracks-v1a1/mono.m3u8?token=997a495885b4a5e16b7e2a5872fde313038bdf09-e96f1b7f35e557ceea1589e6f4aae67d-1653557070-1653546270
 
-#EXTINF: -1, NAT GEO BANGLA
+#EXTINF: -1 group-title="Documentary", NAT GEO BANGLA
 http://bciptv.net:8082/ngohd/tracks-v1a1/mono.m3u8?token=d854433f9f08c390ac600510801d994848c99c22-b60532a6b98b994e2ada13d2b40be828-1653557148-1653546348
 
-#EXTINF: -1, TRAVEL XP BANGLA
+#EXTINF: -1 group-title="Documentary", TRAVEL XP BANGLA
 http://bciptv.net:8082/travel-xp/tracks-v1a1/mono.m3u8?token=35ba9bfc85d7fe6cb3fdc6802e3734cfd5385f5b-dfd980f95ebb0168c6b35c08fb998480-1653557220-1653546420
+
+#EXTINF: -1 group-title="Documentary", BBC EARTH
+http://bdiptv.net:8082/BBC-EARTH/index.m3u8?token=52aa8180facecef08f67e6b18482e6c34ea1615f-1486ef1b63323405e1247c45d871d51c-1653570001-1653559201&remote=15.1.1.9
 
 #EXTINF: -1 group-title="Indian Bangla", AKASH BANGLA
 http://10.16.100.245/hindi/akash8_1stop.m3u8
@@ -186,10 +192,13 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF: -1 group-title="Indian", SONY MAX2 HD
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 
-#EXTINF: -1 group-title="Indian", 9XM
+#EXTINF: -1 group-title="Music", 9XM
 http://bciptv.net:8082/9XM/tracks-a1/mono.m3u8?token=c1d1aa3c4887be4e2d68636437287bbb780b2235-84dcc37081b15b2b567e72a9d378a931-1653569224-1653558424
 
+#EXTINF: -1 group-title="Music", MASTI
+http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8?token=b30f6e72bd50fa98cf802d6c5cd27a60efdb0789-4cad05f960d55540e068b291770c5209-1653569720-1653558920
 
+#EXTINF: -1 group-title="Music", 9XM JALWA
 http://bciptv.net:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=c1839e73d9541f2e11cd99960f6d2943592b7c75-7a9ff4f02c88e9f0d512b0c7305d04e5-1653569282-1653558482
 
 #EXTINF: -1 group-title="Indian", BFLIX MOVIES
