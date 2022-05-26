@@ -78,6 +78,9 @@ http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF: -1 group-title="Bangla", NEWS24 HD
 http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
 
+#EXTINF: -1 group-title="Bangla", NEXUS TV HD
+http://bciptv.net:8082/nexus/tracks-v1a1/mono.m3u8?token=ec759e96f73c35e3857e6c8623ad4c26d4189f34-1d45b93a7fd19adebf00072fce4d7be0-1653568941-1653558141
+
 #EXTINF: -1 group-title="Bangla", RTV HD
 http://10.16.100.245/hindi/R_tv_1st0p.m3u8
 
@@ -141,6 +144,12 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF: -1 group-title="Indian", STAR GOLD HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 
+#EXTINF: -1 group-title="Indian", &FLIX HD
+http://bciptv.net:8082/AND-FLIX/tracks-v1a1/mono.m3u8?token=2a62a33d2a7071ef4c2cdbc73f2e0f40538c3cf3-ee4923ddfa580b7565dc551177175fa3-1653569093-1653558293
+
+#EXTINF: -1 group-title="Indian", &PIXTURES HD
+http://bciptv.net:8082/andpictures/tracks-v1a1/mono.m3u8?token=9b63bd7cde44d345b8dfd5edc90b75ee0176e673-260d89a43befa8fd55c641e50c88450d-1653569149-1653558349
+
 #EXTINF: -1 group-title="Indian", SONY PIX HD
 http://bciptv.net:8082/sony-pix-hd/tracks-v1a1/mono.m3u8?token=01b6e8da842e35f5bf5ecef7d75495fcf51241df-927ae63d616db584880d9a662eba1e53-1653568333-1653557533
 
@@ -176,6 +185,15 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 
 #EXTINF: -1 group-title="Indian", SONY MAX2 HD
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+
+#EXTINF: -1 group-title="Indian", 9XM
+http://bciptv.net:8082/9XM/tracks-a1/mono.m3u8?token=c1d1aa3c4887be4e2d68636437287bbb780b2235-84dcc37081b15b2b567e72a9d378a931-1653569224-1653558424
+
+
+http://bciptv.net:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=c1839e73d9541f2e11cd99960f6d2943592b7c75-7a9ff4f02c88e9f0d512b0c7305d04e5-1653569282-1653558482
+
+#EXTINF: -1 group-title="Indian", BFLIX MOVIES
+http://bciptv.net:8082/bflix/tracks-v1a1/mono.m3u8?token=cf9b09c246cf5c28089e6d55e4516134152428c1-f716b0ce666f06684a17c3d36a61d96d-1653569355-1653558555
 
 #EXTINF:-1 group-title="Sports", A SPORTS HD
 http://bdiptv.net:8082/ASPORTS/index.m3u8
@@ -258,6 +276,11 @@ http://bciptv.net:8082/Adsports4/tracks-v1a1/mono.m3u8?token=55d6eff7b4285bccb6a
 #EXTINF: -1 group-title="Sports", ESPN UK
 http://bciptv.net:8082/ESPN/tracks-v1a1/mono.m3u8?token=8ce1650e11dd79e9b8144d24be5d1b9a24d2f119-8fa6a3e10071bad7b265f100383cfe3f-1653557837-1653547037
 
-#EXTINF: -1 group-title="Sports",
+#EXTINF: -1 group-title="News", AL JAZEERA HD
+http://bciptv.net:8082/Aljazeera/tracks-v1a1/mono.m3u8?token=7783da1f600bb648357beaefe35c3d8a9902824d-1c7900753c531481e72c9b2b6373c83a-1653569405-1653558605
+
+#EXTINF: -1 group-title="News", DW NEWS HD
+http://bciptv.net:8082/Dw/tracks-v1a1/mono.m3u8?token=92c192c99df0d9642ed9cd0266ca30979fcb06e6-a0d6007bbab0867b5ca361592f71259d-1653569468-1653558668
+
 #EXTINF: -1 group-title="Sports",
 #EXTINF: -1 group-title="Sports",
