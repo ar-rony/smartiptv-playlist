@@ -4,8 +4,8 @@
 #EXTINF: -1 group-title="Sports", WILLOW CRICKET HD 
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 
-#EXTINF:-1 group-title="Sports", LA-LIGA Live
-http://loga.ultratotal.ml/xls/ligota/index.m3u8
+#EXTINF:-1 group-title="Sports", LIVE FOOTBALL
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 
 #EXTINF:-1 group-title="Sports", IPL-GAZI TV
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1036914556_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwNzM2NDIwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwNzI5NDIwJmJkaXhzcG9ydHN0b2tlbmhhc2g9WGQ0SWZGRnoyekhNZmJHU0tmM1g3ZnltYkRWYTZvd2JtRTA3WnNFS1VwUT0=.m3u8
@@ -228,7 +228,8 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 
 #EXTINF:-1 group-title="Sports", BEIN SPORTS EXTRA 
 #https://siloh.pluto.tv/lilo/production/BEIN/ES/master_5.m3u8
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 
 #EXTINF:-1 group-title="Sports", BEIN SPORTS 4 HD
 http://red.ipfox.org:8080/live/Waleedl2030Husseini/95118545fdfh/31490.m3u8
