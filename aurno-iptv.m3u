@@ -330,6 +330,9 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?token=
 #EXTINF:-1, ZEE 24 GHANTA
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_11.m3u8
 
+#EXTINF:-1, ZEE CINEMA BANGLA
+http://208.86.19.13:81/708.stream/index.m3u8
+
 #EXTINF:-1, 9XM
 #http://103.205.133.19/hls/9xm.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -384,8 +387,14 @@ http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF:-1, RISTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
+#EXTINF:-1, STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, STAR GOLD 2
-http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, STAR GOLD SELECT
+http://208.86.19.13:81/709.stream/index.m3u8
 
 #EXTINF:-1, WOW CINEMA
 http://173.199.120.51/hls/wowcinema.m3u8
