@@ -365,6 +365,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1,MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 
+#EXTINF:-1, MTV HD
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Bflix Movies
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -435,11 +438,11 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w20824752
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
 #EXTINF:-1, ZEE ACTION
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, ZEE CINEMA HD
-
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 <!-- FOREIGN -->
