@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF: -1 group-title="Sports", WILLOW CRICKET HD 
-http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+#EXTINF: -1 group-title="Sports", BAN VS WI LIVE 
+http://ranapk.cf/cdn/play-368/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports", LIVE FOOTBALL
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
@@ -307,7 +307,8 @@ http://173.199.120.51/hls/sony8.m3u8
 #http://103.205.133.19/hls/sony8.m3u8
 
 #EXTINF:-1, Enter 10 Bangla
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+http://14.199.164.20:4001/play/a0j5/64412146.m3u8
+#https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #https://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 
 #EXTINF:-1, RUPOSHI BANGLA
@@ -477,6 +478,9 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+
+#EXTINF:-1, TRAVEL XP ENGLISH
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 #EXTINF:-1, DISCOVERY BANGLA HD
 http://180.210.191.2/hls/stream9.m3u8
