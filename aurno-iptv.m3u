@@ -7,17 +7,9 @@ http://ranapk.cf/cdn/play-368/chunks.m3u8
 #EXTINF:-1 group-title="Sports", LIVE FOOTBALL
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 
-#EXTINF:-1 group-title="Sports", IPL-GAZI TV
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1036914556_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjUwNzM2NDIwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjUwNzI5NDIwJmJkaXhzcG9ydHN0b2tlbmhhc2g9WGQ0SWZGRnoyekhNZmJHU0tmM1g3ZnltYkRWYTZvd2JtRTA3WnNFS1VwUT0=.m3u8
-
-#EXTINF:-1 group-title="Sports", IPL-STAR SPORTS 1HD
-http://103.167.190.250/hls/stersports1hd.m3u8
-
-#EXTINF:-1 group-title="Sports", IPL Live
-http://103.124.110.34:8082/SUPERSPORT-CRICKET/index.m3u8
-
 #EXTINF:-1 group-title="Sports", T SPORTS HD
-http://103.167.190.250/hls/t-sports.m3u8
+http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8
+#http://103.167.190.250/hls/t-sports.m3u8
 #http://103.124.110.34:8082/tsp/index.m3u8
 #http://103.149.130.122:8089/102/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
