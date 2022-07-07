@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, BEIN SPORTS 3 ENGLISH
+http://ranapk.cf/cdn/play-46/chunks.m3u8
 
 #EXTINF: -1 group-title="Sports", BAN VS WI LIVE 
 http://ranapk.cf/cdn/play-368/chunks.m3u8
