@@ -270,6 +270,9 @@ http://103.136.200.246:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports", SONY Ten2 HD
 http://103.136.200.246:8082/Ten2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, SONY SIX HD
+https://cdn.rangdhanu.live/SonySix/video.m3u8
+
 <!-- Indian -->
 
 #EXTINF:-1, STAR JALSHA
