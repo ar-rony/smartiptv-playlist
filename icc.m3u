@@ -42,20 +42,45 @@ http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8?token=1041d610d7813522e130e
 #EXTINF: -1 group-title="Sports", WILLOW CRICKET
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167baf34e300b477bbc30-790beef4a617c1f96828f8e157e97bdb-1657288158-1657277358&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", ATN BANGLA
-http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 
-#EXTINF: -1 group-title="Bangla; NEWS", JAMUNA NEWS
-http://bdiptv.net:8082/Jamuna-TV/index.m3u8
+#EXTINF: -1 group-title="Bangla", ATN BANGLA
+http://tv.ebox.live:8081/thunderbd/2/chunks.m3u8?nimblesessionid=31677632&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NDowMyBQTSZoYXNoX3ZhbHVlPWlrVk10NytZUC9KNFFSVGRGanZFNkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla; News", JAMUNA NEWS
+http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=31677727&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NTowMCBQTSZoYXNoX3ZhbHVlPXlSNXE0aC9jY1RLWTUrL2U0VklZTnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF: -1 group-title="Bangla", INDEPENDENT NEWS
-http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8
+http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=31677774&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NTozNSBQTSZoYXNoX3ZhbHVlPTBsNEM1ZCtPRlgwRkJrLzFrK2ZrdUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF: -1 group-title="Bangla", SA TV
-http://bdiptv.net:8082/SATV/index.m3u8
+http://tv.ebox.live:8081/thunderbd/15/chunks.m3u8?nimblesessionid=31677866&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NjoxMSBQTSZoYXNoX3ZhbHVlPWFQTEpmdEJ1bDA0dTZwdTZOcG0wNEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF: -1 group-title="Bangla", JAMUNA NEWS
-http://bdiptv.net:8082/Somoy-TV/index.m3u8
+#EXTINF: -1 group-title="Bangla;News", SOMOY NEWS
+http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=31678129&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1ODowNiBQTSZoYXNoX3ZhbHVlPUZzRTZRTWI3b1gwME41V0JmSkoyalE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", MAASRANGA
+http://tv.ebox.live:8081/thunderbd/51/chunks.m3u8?nimblesessionid=31677435&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1MjowNSBQTSZoYXNoX3ZhbHVlPXpwMldTbVArMW8rTGwyZk42ZHZQNmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", EKHUSHEY TV
+http://tv.ebox.live:8081/thunderbd/65/chunks.m3u8?nimblesessionid=31678163&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1ODozMSBQTSZoYXNoX3ZhbHVlPXpmY2RnSS9zQTYybGFMSlY3eEdpdEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla;News", CHANNEL 24
+http://tv.ebox.live:8081/thunderbd/5/chunks.m3u8?nimblesessionid=31678195&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1OTowMSBQTSZoYXNoX3ZhbHVlPUlOL1AwS1BOMlNIeDA0dEZ1cVBoaWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", CHANNEL 9
+http://tv.ebox.live:8081/thunderbd/4/chunks.m3u8?nimblesessionid=31678226&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1OTozMyBQTSZoYXNoX3ZhbHVlPXFyUTFPWVRKRGRKZG9qc0xCa1E2MUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", EKATTOR TV
+http://tv.ebox.live:8081/thunderbd/11/chunks.m3u8?nimblesessionid=31678278&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgNDowMDowNCBQTSZoYXNoX3ZhbHVlPVpqUXd5ajJvWGpKQ2ZFcnFUYlhtaVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", CHANNEL I
+http://tv.ebox.live:8081/thunderbd/6/chunks.m3u8?nimblesessionid=31678351&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgNDowMDozNyBQTSZoYXNoX3ZhbHVlPUoxU3Arc0FVYlNWWVN3VS9VdGR4RlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla;News", NEW24
+http://tv.ebox.live:8081/thunderbd/18/chunks.m3u8?nimblesessionid=31678493&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgNDowMjoxOCBQTSZoYXNoX3ZhbHVlPXEzY0Q4Y0FSU1Q2TWtDN2lzaTdLQXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Bangla", RTV HD
+http://tv.ebox.live:8081/thunderbd/14/chunks.m3u8?nimblesessionid=31678595&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgNDowMzoyNSBQTSZoYXNoX3ZhbHVlPXRSbGREOTJUVHprZkRBUWJlU1V2UWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 
 
