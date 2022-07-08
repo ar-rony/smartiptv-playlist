@@ -45,7 +45,7 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167
 #EXTINF: -1 group-title="Bangla", ATN BANGLA
 http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 
-#EXTINF: -1 group-title="Bangla, NEWS", JAMUNA NEWS
+#EXTINF: -1 group-title="Bangla; NEWS", JAMUNA NEWS
 http://bdiptv.net:8082/Jamuna-TV/index.m3u8
 
 #EXTINF: -1 group-title="Bangla", INDEPENDENT NEWS
