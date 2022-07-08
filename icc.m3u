@@ -106,7 +106,7 @@ http://10.16.100.245/hindi/s@tv_1st0p.m3u8
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 
 #EXTINF: -1 group-title="Bangla", T SPORTS HD
-http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
+http://tv.ebox.live:8081/thunderbd/102/chunks.m3u8?nimblesessionid=31659501&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMTA6MTY6MjAgQU0maGFzaF92YWx1ZT0xSDR2blltUlZrR1EydDU3cUhQaklnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 
 #EXTINF: -1 group-title="Sports", T SPORTS HD
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
