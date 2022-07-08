@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-
 #EXTINF: -1 group-title="Sports", BT SPORTS 1 HD
 http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8?token=75de484fe13e0a33dedab2c090d41bb9a9dfd9b7-fbec0c03606e0fabb14ecb2af07cd868-1657287155-1657276355&remote=103.97.160.126
 
@@ -43,6 +41,24 @@ http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8?token=1041d610d7813522e130e
 
 #EXTINF: -1 group-title="Sports", WILLOW CRICKET
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167baf34e300b477bbc30-790beef4a617c1f96828f8e157e97bdb-1657288158-1657277358&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", ATN BANGLA
+http://bdiptv.net:8082/ATN-Bangla/index.m3u8
+
+#EXTINF: -1 group-title="Bangla, NEWS", JAMUNA NEWS
+http://bdiptv.net:8082/Jamuna-TV/index.m3u8
+
+#EXTINF: -1 group-title="Bangla", INDEPENDENT NEWS
+http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8
+
+#EXTINF: -1 group-title="Bangla", SA TV
+http://bdiptv.net:8082/SATV/index.m3u8
+
+#EXTINF: -1 group-title="Bangla", JAMUNA NEWS
+http://bdiptv.net:8082/Somoy-TV/index.m3u8
+
+
+
 
 #EXTINF: -1 group-title="Bangla", ASIAN TV
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
