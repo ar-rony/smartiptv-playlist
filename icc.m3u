@@ -1,22 +1,48 @@
 #EXTM3U
 
+#EXTM3U
+
 #EXTINF: -1 group-title="Sports", BT SPORTS 1 HD
-http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8?token=979685a2c2522f5dd6c136f8a82c59745073f5f5-704b9b66b2abbd22f7fee142dde74134-1657286567-1657275767&remote=103.97.160.126
+http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8?token=75de484fe13e0a33dedab2c090d41bb9a9dfd9b7-fbec0c03606e0fabb14ecb2af07cd868-1657287155-1657276355&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", BT SPORTS 2 HD
-http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8
+http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8?token=36127762b11942a725debc4d578811d82a682a78-1bc5111ae45df3d0ef855a3132f276ef-1657287107-1657276307&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", SUPER SPORTS LA LIGA
-http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8
+http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8?token=427e30d5fae11b1a867fe5c91a1e294f7f67d33f-b3b1c7cb66a88e640431c3276abf8cfd-1657287198-1657276398&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", SUPER SPORTS FOOTBALL
-http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8
+http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8?token=b59efb31ea080dee1388644065b67711d2725c6b-a943671ac528bf73c7d809ea52cfdb63-1657287272-1657276472&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", SUPER SPORTS CRICKET
-http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8?token=40ce41be349c27c31203181cc3036d7fc95f1444-31db3a2ae13b3d0b4aca517f810bed26-1657288221-1657277421&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 3 FR
+http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8?token=d8b662004c37510eeebb8f02436e760a5961fc33-2c308b65e9896c3316d60ddafecbe93d-1657287339-1657276539&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 1 FR
+http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8?token=e10676fcf7684d163b6647d491345cb41699fd16-8fcc183ea9e3a111e054686f6bf7915b-1657287421-1657276621&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", STAR SPORTS 2 HD
+http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8?token=772d3cd734fd1fd0d844f7403df7f384d40c5ebd-59dc27b27d7e6e782e230ab3488bafbf-1657287500-1657276700&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", STAR SPORTS SELECT 1 HD
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8?token=a0ae7ffa140b55dc4cad2e0c1dfcdea6b7ccd098-ad62e1426c5e2f6765eca7baa9c3e665-1657287828-1657277028&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", STAR SPORTS SELECT 2 HD
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8?token=14389346a8a8c80d0143b125fd19493a11e5eee3-0fee254b710ab30fe399fb7e1e6b28a6-1657287892-1657277092&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", SONY TEN 1 HD
+http://bdiptv.net:8082/SONY-SIX-1/index.m3u8?token=6f234e1099c375ecb707f9a14e8b5c631f4da87b-08509d4f9c3b290dbb7990627b4211ae-1657288049-1657277249&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", SONY TEN 2 HD
+http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8?token=feefb0f40bffdf7ebaf25b4162a1d11ef7704404-d31d84a2b74ea9da0173583ba2ee5e91-1657287946-1657277146&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Sports", SKY SPORTS CRICKET
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8?token=1041d610d7813522e130e63b1fc1c775cca045c9-88cbcb794285b13b1c7b83aaf42059be-1657288099-1657277299&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", WILLOW CRICKET
-http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167baf34e300b477bbc30-790beef4a617c1f96828f8e157e97bdb-1657288158-1657277358&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Bangla", ASIAN TV
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
