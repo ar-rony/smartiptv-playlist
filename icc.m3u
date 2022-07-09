@@ -54,6 +54,61 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167
 #EXTINF: -1 group-title="Sports", T SPORTS
 http://bdiptv.net:8082/tsp/index.m3u8?token=c85cebebaaeca2082671b96a2956e0e7d00d5687-b009c8e1531020c2bd20dd8553c0a19e-1657290879-1657280079&remote=103.97.160.126
 
+#EXTINF: -1 group-title="ICC LIVE TV", ASIAN
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", ATN BANGLA
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", BIJOY TV
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", BOISHAKHI TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", CHANNEL I
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", DBC NEWS
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", DIPTO TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", DESH TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", EKUSHEY TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", GAZI TV
+http://10.16.100.207:8088/sports/GazItv_hd.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", NAGORIK TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", SA TV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", SOMOY NEWS
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", T-SPORTS HD
+http://10.16.100.245/hindi/Tsport$local.m3u8
+
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+
 
 #EXTINF: -1 group-title="Bangla", ATN BANGLA
 http://bdiptv.net:8082/ATN-Bangla/index.m3u8?token=c5afb32afd1a6559efae23d492795f4882bdf93c-fbdb574afea0b496946b89cdceb3ba2f-1657383734-1657372934&remote=103.97.160.126
