@@ -56,10 +56,10 @@ http://bdiptv.net:8082/tsp/index.m3u8?token=c85cebebaaeca2082671b96a2956e0e7d00d
 
 
 #EXTINF: -1 group-title="Bangla", ATN BANGLA
-http://tv.ebox.live:8081/thunderbd/2/chunks.m3u8?nimblesessionid=31677632&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NDowMyBQTSZoYXNoX3ZhbHVlPWlrVk10NytZUC9KNFFSVGRGanZFNkE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://tv.ebox.live:8081/thunderbd/2/chunks.m3u8?nimblesessionid=31701249&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNzowNjozMSBBTSZoYXNoX3ZhbHVlPTJTUjE2L09jVTVUekh5WUI4OXRQRlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF: -1 group-title="Bangla; News", JAMUNA NEWS
-http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=31677727&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NTowMCBQTSZoYXNoX3ZhbHVlPXlSNXE0aC9jY1RLWTUrL2U0VklZTnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF: -1 group-title="Bangla", JAMUNA NEWS
+http://tv.ebox.live:8081/thunderbd/13/chunks.m3u8?nimblesessionid=31701455&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNzoxMzowMyBBTSZoYXNoX3ZhbHVlPVpqR0psUnZ3czBlYkZEZW9RSXplQnc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF: -1 group-title="Bangla", INDEPENDENT NEWS
 http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=31677774&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NTozNSBQTSZoYXNoX3ZhbHVlPTBsNEM1ZCtPRlgwRkJrLzFrK2ZrdUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -68,7 +68,7 @@ http://tv.ebox.live:8081/thunderbd/12/chunks.m3u8?nimblesessionid=31677774&wmsAu
 http://tv.ebox.live:8081/thunderbd/15/chunks.m3u8?nimblesessionid=31677866&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1NjoxMSBQTSZoYXNoX3ZhbHVlPWFQTEpmdEJ1bDA0dTZwdTZOcG0wNEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF: -1 group-title="Bangla;News", SOMOY NEWS
-http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=31678129&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1ODowNiBQTSZoYXNoX3ZhbHVlPUZzRTZRTWI3b1gwME41V0JmSkoyalE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+http://tv.ebox.live:8081/thunderbd/17/chunks.m3u8?nimblesessionid=31701491&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNzoxNDoyOSBBTSZoYXNoX3ZhbHVlPTZPbm5ySGpXUHFWMUZqRW8xaWIza0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF: -1 group-title="Bangla", MAASRANGA
 http://tv.ebox.live:8081/thunderbd/51/chunks.m3u8?nimblesessionid=31677435&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjIgMzo1MjowNSBQTSZoYXNoX3ZhbHVlPXpwMldTbVArMW8rTGwyZk42ZHZQNmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
@@ -133,6 +133,9 @@ http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=31699354&wmsAu
 #EXTINF: -1 group-title="Indian Bangla", STAR JALSHA
 http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=31699364&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxNzozNyBBTSZoYXNoX3ZhbHVlPWtXQ3hwWkIrZ3N6V2JEVHdEQTJqS1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
+#EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA CINEMA
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
 #EXTINF: -1 group-title="Indian", HBO
 http://tv.ebox.live:8081/thunderbd/42/chunks.m3u8?nimblesessionid=31699418&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxOTo1OSBBTSZoYXNoX3ZhbHVlPUlKS2s3ZlNXdHllTmNicWJOQkkzV0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
@@ -152,6 +155,9 @@ http://tv.ebox.live:8081/thunderbd/45/chunks.m3u8?nimblesessionid=31699560&wmsAu
 
 #EXTINF: -1 group-title="Indian", STAR GOLD
 http://tv.ebox.live:8081/thunderbd/75/chunks.m3u8?nimblesessionid=31699608&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyNjowMCBBTSZoYXNoX3ZhbHVlPUcvWXZna2JiQjdQRGJNU3VlU2FvVFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", STAR GOLD SELECT 2
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 
 #EXTINF: -1 group-title="Indian", STAR PLUS
 http://tv.ebox.live:8081/thunderbd/67/chunks.m3u8?nimblesessionid=31699652&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyNjo0NiBBTSZoYXNoX3ZhbHVlPVdDU3F0QXZlV0ZCaDk1bm84N0RlQWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
