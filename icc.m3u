@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports", T-SPORTS HD
+http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8?nimblesessionid=6525985
+
 #EXTINF: -1 group-title="Sports", BT SPORTS 1 HD
 http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8?token=00d83f3023a24192bc6f89c5bc1e446a8e190cab-65186995a17c0848e36f519f55ae306a-1657470697-1657459897&remote=103.97.160.126
 
