@@ -1,307 +1,234 @@
 #EXTM3U
 
-#EXTINF: -1 group-title="Bangla", ASIAN TV
-http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:-1 group-title="Sports", T-SPORTS HD
+http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8?nimblesessionid=6525985
 
-#EXTINF: -1 group-title="Bangla", ATN BANGLA
-http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#EXTINF: -1 group-title="Sports", BT SPORTS 1 HD
+http://bdiptv.net:8082/BT-SPORTS-1-UK/index.m3u8?token=00d83f3023a24192bc6f89c5bc1e446a8e190cab-65186995a17c0848e36f519f55ae306a-1657470697-1657459897&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", BANGLA TV
-http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
+#EXTINF: -1 group-title="Sports", BT SPORTS 2 HD
+http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8?token=36127762b11942a725debc4d578811d82a682a78-1bc5111ae45df3d0ef855a3132f276ef-1657287107-1657276307&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", Banglavision
-http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
+#EXTINF: -1 group-title="Sports", BT SPORTS 3 HD
+http://bdiptv.net:8082/BT-SPORTS-3-UK/index.m3u8?token=ab2712f128bf7e6e9d496c8166f90407495b0436-e8ca2a5111c3158ac9643d35e749fec5-1657470756-1657459956&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", BOISHAKHI TV
-http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#EXTINF: -1 group-title="Sports", SUPER SPORTS LA LIGA
+http://bdiptv.net:8082/SUPERSPORTS-LALIGA/index.m3u8?token=427e30d5fae11b1a867fe5c91a1e294f7f67d33f-b3b1c7cb66a88e640431c3276abf8cfd-1657287198-1657276398&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", BTV
-http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+#EXTINF: -1 group-title="Sports", SUPER SPORTS FOOTBALL
+http://bdiptv.net:8082/SUPERSPORTS-FOOTBALL/index.m3u8?token=b59efb31ea080dee1388644065b67711d2725c6b-a943671ac528bf73c7d809ea52cfdb63-1657287272-1657276472&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", BTV WORLD
-http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
+#EXTINF: -1 group-title="Sports", SUPER SPORTS CRICKET
+http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8?token=40ce41be349c27c31203181cc3036d7fc95f1444-31db3a2ae13b3d0b4aca517f810bed26-1657288221-1657277421&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", CHANNEL 24
-http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 3 FR
+http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8?token=d8b662004c37510eeebb8f02436e760a5961fc33-2c308b65e9896c3316d60ddafecbe93d-1657287339-1657276539&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", CHANNEL 9
-http://10.16.100.208:8082/hindi/chanNel9nine_1$top.m3u8
+#EXTINF: -1 group-title="Sports", BEIN SPORTS 1 FR
+http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8?token=e10676fcf7684d163b6647d491345cb41699fd16-8fcc183ea9e3a111e054686f6bf7915b-1657287421-1657276621&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", CHANNEL I
-http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF: -1 group-title="Sports", STAR SPORTS 1 HD
+http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8?token=bd614d336b7e250df4d04f30ffd2db59e1efc6ad-a1df533ea4743fd3b7be4fdc8c581662-1657384662-1657373862&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", DBC NEWS
-http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+#EXTINF: -1 group-title="Sports", STAR SPORTS 2 HD
+http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8?token=772d3cd734fd1fd0d844f7403df7f384d40c5ebd-59dc27b27d7e6e782e230ab3488bafbf-1657287500-1657276700&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", DEPTO TV
-http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+#EXTINF: -1 group-title="Sports", STAR SPORTS SELECT 1 HD
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8?token=a0ae7ffa140b55dc4cad2e0c1dfcdea6b7ccd098-ad62e1426c5e2f6765eca7baa9c3e665-1657287828-1657277028&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", DESH TV
-http://10.16.100.245/hindi/de$htv_1st0p.m3u8
+#EXTINF: -1 group-title="Sports", STAR SPORTS SELECT 2 HD
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8?token=14389346a8a8c80d0143b125fd19493a11e5eee3-0fee254b710ab30fe399fb7e1e6b28a6-1657287892-1657277092&remote=103.97.160.126
 
-#EXTINF:-1, DURONTO TV
-http://bdiptv.net:8082/DURONTO-TV/index.m3u8
+#EXTINF: -1 group-title="Sports", SONY TEN 1 HD
+http://bdiptv.net:8082/SONY-SIX-1/index.m3u8?token=6f234e1099c375ecb707f9a14e8b5c631f4da87b-08509d4f9c3b290dbb7990627b4211ae-1657288049-1657277249&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", EKATTOR TV
-http://10.16.100.208:8082/hindi/ek@ttOrTV_1$tOp.m3u8
+#EXTINF: -1 group-title="Sports", SONY TEN 2 HD
+http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8?token=feefb0f40bffdf7ebaf25b4162a1d11ef7704404-d31d84a2b74ea9da0173583ba2ee5e91-1657287946-1657277146&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Bangla", EKUSHEY TV
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-
-#EXTINF: -1 group-title="Bangla", GAAN BANGLA
-http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-
-#EXTINF: -1 group-title="Sports", GAZI TV SPORTS
-http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
-
-#EXTINF: -1 group-title="Bangla", GAZI TV HD
-http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
-
-#EXTINF: -1 group-title="Bangla", JAMUNA TV
-http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
-
-#EXTINF: -1 group-title="Bangla", MASRANGA TV
-http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
-
-#EXTINF: -1 group-title="Bangla", MOHONA TV
-http://10.16.100.208:8082/hindi/mohon@_1sTop.m3u8
-
-#EXTINF: -1 group-title="Bangla", MY TV HD
-http://10.16.100.208:8082/hindi/mytV_1$stop.m3u8
-
-#EXTINF: -1 group-title="Bangla", NTV HD
-http://10.16.100.245/hindi/ntv_1sT0p.m3u8
-
-#EXTINF: -1 group-title="Bangla", NAGORIK TV
-http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
-
-#EXTINF: -1 group-title="Bangla", NEWS24 HD
-http://10.16.100.208:8082/hindi/new$_24fouR_1st0p.m3u8
-
-#EXTINF: -1 group-title="Bangla", NEXUS TV HD
-http://bciptv.net:8082/nexus/tracks-v1a1/mono.m3u8?token=ec759e96f73c35e3857e6c8623ad4c26d4189f34-1d45b93a7fd19adebf00072fce4d7be0-1653568941-1653558141
-
-#EXTINF: -1 group-title="Bangla", RTV HD
-http://10.16.100.245/hindi/R_tv_1st0p.m3u8
-
-#EXTINF: -1 group-title="Bangla", SATV HD
-http://10.16.100.245/hindi/s@tv_1st0p.m3u8
-
-#EXTINF: -1 group-title="Bangla", SOMOY NEWS
-http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
-
-#EXTINF: -1 group-title="Bangla", T SPORTS HD
-http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
-
-#EXTINF: -1 group-title="Sports", T SPORTS HD
-http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
-
-#EXTINF: -1 group-title="Documentary", ANIMEL PLANET HD
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-
-#EXTINF: -1 group-title="Documentary group-title="Documentary", DISCOVERY BANGLA
-http://tv2.ebox.live:8080/live/discovery.m3u8
-
-#EXTINF: -1 group-title="Documentary", NAT GEO WILD
-http://tv2.ebox.live:8080/live/natg.m3u8
-
-#EXTINF: -1 group-title="Documentary", NAT GEO BANGLA
-http://bciptv.net:8082/ngohd/tracks-v1a1/mono.m3u8?token=d854433f9f08c390ac600510801d994848c99c22-b60532a6b98b994e2ada13d2b40be828-1653557148-1653546348
-
-#EXTINF: -1 group-title="Documentary", TRAVEL XP BANGLA
-http://bciptv.net:8082/travel-xp/tracks-v1a1/mono.m3u8?token=35ba9bfc85d7fe6cb3fdc6802e3734cfd5385f5b-dfd980f95ebb0168c6b35c08fb998480-1653557220-1653546420
-
-#EXTINF: -1 group-title="Documentary", BBC EARTH
-http://bdiptv.net:8082/BBC-EARTH/index.m3u8?token=52aa8180facecef08f67e6b18482e6c34ea1615f-1486ef1b63323405e1247c45d871d51c-1653570001-1653559201&remote=15.1.1.9
-
-#EXTINF: -1 group-title="Indian Bangla", AKASH BANGLA
-http://10.16.100.245/hindi/akash8_1stop.m3u8
-
-#EXTINF: -1 group-title="Indian Bangla", COLORS BANGLA
-http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
-
-#EXTINF: -1 group-title="Indian Bangla", SONY AAT8
-http://10.16.100.204:8082/hls/s0ny8aat.m3u8
-
-#EXTINF: -1 group-title="Indian Bangla", START JALSHA HD
-http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
-
-#EXTINF: -1 group-title="Indian Bangla", SUN BANGLA
-http://bciptv.net:8082/sunbangla/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
-http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla", ZEE BANGLA CINEMA
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-
-#EXTINF:-1 group-title="Indian", STAR PLUS HD
-http://tv2.ebox.live:8080/live/star-plus.m3u8
-
-#EXTINF:-1 group-title="Indian", ZEE TV HD
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
-
-#EXTINF:-1 group-title="Indian", NICK HD
-http://tv2.ebox.live:8080/live/nick.m3u8
-
-#EXTINF:-1 group-title="Indian", COLORS HD
-http://tv2.ebox.live:8080/live/colors.m3u8
-
-#EXTINF:-1 group-title="Indian", SONY HD
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
-
-#EXTINF:-1 group-title="Indian", SONY SAB HD
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
-
-#EXTINF: -1 group-title="Indian", STAR GOLD HD
-http://tv2.ebox.live:8080/live/star-gold.m3u8
-
-#EXTINF: -1 group-title="Indian", &FLIX HD
-http://bciptv.net:8082/AND-FLIX/tracks-v1a1/mono.m3u8?token=2a62a33d2a7071ef4c2cdbc73f2e0f40538c3cf3-ee4923ddfa580b7565dc551177175fa3-1653569093-1653558293
-
-#EXTINF: -1 group-title="Indian", &PIXTURES HD
-http://tv.ebox.live:8081/thunderbd/78/chunks.m3u8?nimblesessionid=28531132&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTE6NTUgUE0maGFzaF92YWx1ZT1uckMrVjFZVmJiSklpWFAya0F5elR3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF: -1 group-title="Indian", SONY PIX HD
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
-
-#EXTINF: -1 group-title="Indian", STAR MOVIES HD
-http://bciptv.net:8082/star-movies-hd/tracks-v1a1/mono.m3u8?token=b734a0f9c126daeb08526a4290009c38fab34223-ac4b50caca83a8b02aadae2a13a4ab33-1653567329-1653556529
-
-#EXTINF: -1 group-title="Indian", START WORLD HD
-http://bciptv.net:8082/star-worldhd/tracks-v1a1/mono.m3u8?token=f66320ec0dd9f8af1aff27ea9e6e2568abd5c4b3-62cef35e3d0a8aa4346e01da64037f60-1653557537-1653546737
-
-#EXTINF: -1 group-title="Indian", ZEE ACTION
-http://bciptv.net:8082/zeeaction/tracks-v1a1/mono.m3u8?token=382f8a7048e9afa4326cb52c361f6341ee43df72-0bf2e22cd2a246c49b8c451fdd4b4ef6-1653557623-1653546823
-
-#EXTINF: -1 group-title="Indian", HBO HD
-http://tv2.ebox.live:8080/live/hbo.m3u8?rand=(random)
-
-#EXTINF: -1 group-title="Indian", MNX HD
-http://tv.ebox.live:8081/thunderbd/39/chunks.m3u8?nimblesessionid=28531055&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTE6MDUgUE0maGFzaF92YWx1ZT1DQVB4RnhrVTRnSVN4c1NWUnNCSDBnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF: -1 group-title="Indian", MOVIES NOW HD
-http://tv.ebox.live:8081/thunderbd/45/chunks.m3u8?nimblesessionid=28530973&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MDk6NTggUE0maGFzaF92YWx1ZT1YR2ZJSmFPeVRHeXg4eHAxV2tPdVV3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF: -1 group-title="Indian", MOVIES NOW PLUS HD
-http://bciptv.net:8082/mn-hd/tracks-v1a1/mono.m3u8?token=d7ce754fed3ed8a13da06733bf80720499066afd-bf6125d90240761384c9298ca1f9dd90-1653568608-1653557808
-
-#EXTINF: -1 group-title="Indian", STAR GOLD SELECT HD
-http://tv2.ebox.live:8080/live/star-gold-select.m3u8
-
-#EXTINF: -1 group-title="Indian", ZEE CINEMA HD
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-
-#EXTINF: -1 group-title="Indian", SONY MAX HD
-http://tv2.ebox.live:8080/live/sony-max.m3u8
-
-#EXTINF: -1 group-title="Indian", SONY MAX2 HD
-http://tv2.ebox.live:8080/live/sony-max-2.m3u8
-
-#EXTINF: -1 group-title="Music", 9XM
-http://tv.ebox.live:8081/thunderbd/48/chunks.m3u8?nimblesessionid=28531270&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNi8yMDIyIDQ6MTM6MDQgUE0maGFzaF92YWx1ZT1tZTdJcW1oMlcvdHh4SlByNkdEQ1p3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
-
-#EXTINF: -1 group-title="Music", MASTI
-http://bdiptv.net:8082/Music-Masti/tracks-3,2/index.m3u8?token=b30f6e72bd50fa98cf802d6c5cd27a60efdb0789-4cad05f960d55540e068b291770c5209-1653569720-1653558920
-
-#EXTINF: -1 group-title="Music", 9XM JALWA
-http://bciptv.net:8082/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8?token=c1839e73d9541f2e11cd99960f6d2943592b7c75-7a9ff4f02c88e9f0d512b0c7305d04e5-1653569282-1653558482
-
-#EXTINF: -1 group-title="Indian", BFLIX MOVIES
-http://bciptv.net:8082/bflix/tracks-v1a1/mono.m3u8?token=cf9b09c246cf5c28089e6d55e4516134152428c1-f716b0ce666f06684a17c3d36a61d96d-1653569355-1653558555
-
-#EXTINF:-1 group-title="Sports", A SPORTS HD
-http://bdiptv.net:8082/ASPORTS/index.m3u8
-
-#EXTINF: -1 group-title="Sports", PTV SPORTS HD
-http://10.16.100.245/hindi/pTvSp0rts.m3u8
-
-#EXTINF:-1 group-title="Sports", GEO SUPER 
-http://bciptv.net:8082/GEO-SUPER/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 group-title="Sports", TEN SPORTSHD
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF: -1 group-title="Sports", SONY TEN 3 HD
+http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8?token=ba5e38c22b96f8b42543a7fd16b1f61b3367abe6-daac917c3f61ae64d3adddaddf5c475e-1657383652-1657372852&remote=103.97.160.126
 
 #EXTINF: -1 group-title="Sports", SONY SIX HD
-http://10.16.100.207:8082/sports/s0ny6six.m3u8
+http://bdiptv.net:8082/SONY-SIX-HD/index.m3u8?token=331c90d325a42be99cef13451458d29142901bfc-887e535fb0dfd53c9493daa29b3204ae-1657383697-1657372897&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports", SONY TEN1 HD
-http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
+#EXTINF: -1 group-title="Sports", SKY SPORTS CRICKET
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8?token=1041d610d7813522e130e63b1fc1c775cca045c9-88cbcb794285b13b1c7b83aaf42059be-1657288099-1657277299&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports", SONY TEN2 HD
-http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
+#EXTINF: -1 group-title="Sports", WILLOW CRICKET
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8?token=f302830ff2e3ca4868a167baf34e300b477bbc30-790beef4a617c1f96828f8e157e97bdb-1657288158-1657277358&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports", SONY TEN3 HD
-http://10.16.100.207:8082/sports/s0ny_ten3three.m3u8
+#EXTINF: -1 group-title="Sports", T SPORTS
+http://bdiptv.net:8082/tsp/index.m3u8?token=634cb3290844a41d309fb5cedae46222081ebec6-b558a799db47594bc3a8c3ffd012b647-1657470827-1657460027&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports", STAR SPORTS 1HD
-http://10.16.100.207:8082/sports/starsp0rt$1oneHD.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", ASIAN
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
-#EXTINF: -1 group-title="Sports", STAR SPORT 2HD
-http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", ATN BANGLA
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 
-#EXTINF: -1 group-title="Sports", STAR SELECT 1HD
-http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
 
-#EXTINF: -1 group-title="Sports", STAR SELECT 2HD
-http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", BIJOY TV
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 
-#EXTINF: -1 group-title="Sports", BEIN SPORTS 1HD
-http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", BOISHAKHI TV
+http://10.16.100.203:8082/bangla/boishakhi.m3u8
 
-#EXTINF: -1 group-title="Sports", BEIN SPORTS 2HD
-http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", CHANNEL I
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
 
-#EXTINF: -1 group-title="Sports", BEIN SPORTS 3HD
-http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", DBC NEWS
+http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 
-#EXTINF: -1 group-title="Sports", BEIN SPORTS 4HD
-http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", DIPTO TV
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
 
-#EXTINF: -1 group-title="Sports", SKY SPORTS FOOTBALL
-http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", DESH TV
+http://10.16.100.245/hindi/de$htv_1st0p.m3u8
 
-#EXTINF: -1 group-title="Sports",SKY SPORTS CRICKET
-http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", EKUSHEY TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 
-#EXTINF: -1 group-title="Sports",SKY SPORTS MIX
-http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", JAMUNA TV
+http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
 
-#EXTINF: -1 group-title="Sports", ESPN2 HD
-http://bdiptv.net:8082/ESPN/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", GAZI TV
+http://10.16.100.207:8088/sports/GazItv_hd.m3u8
 
-#EXTINF: -1 group-title="Sports", WILLOW CRICKET HD 
-http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", NTV
+http://10.16.100.245/hindi/ntv_1sT0p.m3u8
 
-#EXTINF: -1 group-title="Sports", SUPER SPORTS CRICKET HD
-http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", NAGORIK TV
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 
-#EXTINF: -1 group-title="Sports", TITAS SPORTS HD
-http://bdiptv.net:8082/tsp/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", SA TV
+http://10.16.100.245/hindi/s@tv_1st0p.m3u8
 
-#EXTINF: -1 group-title="Sports", GTV SPORTS HD
-http://bdiptv.net:8082/gtv/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", SOMOY NEWS
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 
-#EXTINF: -1 group-title="Sports", AD SPORTS 1HD
-http://bdiptv.net:8082/Adsports1/index.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", T-SPORTS HD
+http://10.16.100.245/hindi/Tsport$local.m3u8
 
-#EXTINF: -1 group-title="Sports", AD SPORTS 2HD
-http://bciptv.net:8082/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
+#EXTINF: -1 group-title="ICC LIVE TV", BANGLAVISION
 
-#EXTINF: -1 group-title="Sports", AD SPORTS 3HD
-http://bciptv.net:8082/Adsports3/tracks-v1a1/mono.m3u8?token=4e4e7d547255200b7f51c1b0fae2a95767720df7-f459f2a52ac7c20299cd439109d65c01-1653568728-1653557928
 
-#EXTINF: -1 group-title="Sports", AD SPORTS 4HD
-http://bciptv.net:8082/Adsports4/tracks-v1a1/mono.m3u8?token=55d6eff7b4285bccb6ac0f66d3ded5564dfa4a1c-ba3ad7ee230eedb2a52f74127e516581-1653568696-1653557896
+#EXTINF: -1 group-title="Bangla", ATN BANGLA
+http://bdiptv.net:8082/ATN-Bangla/index.m3u8?token=c5afb32afd1a6559efae23d492795f4882bdf93c-fbdb574afea0b496946b89cdceb3ba2f-1657383734-1657372934&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports", ESPN UK
-http://bciptv.net:8082/ESPN/tracks-v1a1/mono.m3u8?token=8ce1650e11dd79e9b8144d24be5d1b9a24d2f119-8fa6a3e10071bad7b265f100383cfe3f-1653557837-1653547037
+#EXTINF: -1 group-title="Bangla", JAMUNA NEWS
+http://bdiptv.net:8082/Jamuna-TV/index.m3u8?token=bc5de2a7b3a16aa8b796ad6b3acf19275f785a31-4e1514486f7db2f82fd8f63247f76fd2-1657383772-1657372972&remote=103.97.160.126
 
-#EXTINF: -1 group-title="News", AL JAZEERA HD
-http://bciptv.net:8082/Aljazeera/tracks-v1a1/mono.m3u8?token=7783da1f600bb648357beaefe35c3d8a9902824d-1c7900753c531481e72c9b2b6373c83a-1653569405-1653558605
+#EXTINF: -1 group-title="Bangla", INDEPENDENT NEWS
+http://bdiptv.net:8082/INDEPENDENT-tv/index.m3u8?token=e481fd84d5fe4f26f74fccc5743e372438b8a1fc-746f60192e8b92e964b939f7a04a5cfb-1657383816-1657373016&remote=103.97.160.126
 
-#EXTINF: -1 group-title="News", DW NEWS HD
-http://bciptv.net:8082/Dw/tracks-v1a1/mono.m3u8?token=92c192c99df0d9642ed9cd0266ca30979fcb06e6-a0d6007bbab0867b5ca361592f71259d-1653569468-1653558668
+#EXTINF: -1 group-title="Bangla", SA TV
+http://bdiptv.net:8082/SATV/index.m3u8?token=88c6f76bb79d5837cbb796d9b0999692becdd1ed-c4feeb59e4145075136b2e9dfd7a2c7b-1657383852-1657373052&remote=103.97.160.126
 
-#EXTINF: -1 group-title="Sports",
-#EXTINF: -1 group-title="Sports",
+#EXTINF: -1 group-title="Bangla", SOMOY NEWS
+http://bdiptv.net:8082/Somoy-TV/index.m3u8?token=8cde435c129391ec7cd7d5fba19fe17c0b2f139b-cf998832539e875300c481208f77680a-1657383874-1657373074&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Banglas", MY TV
+http://bdiptv.net:8082/MYTV-HD/index.m3u8?token=9f4aa5f87b2d67664ae06c6303274b73ad923cea-c216abf60ce34b6f380cb2dbc68105c7-1657383902-1657373102&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", MAASRANGA
+http://bdiptv.net:8082/Maasranga/index.m3u8?token=68fff245dfd30fd799a9a793b9a11c8165ae1cae-8e328be2a4d34f446de18958c560bb65-1657383974-1657373174&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", EKHUSHEY TV
+http://bdiptv.net:8082/Ekushey-tv/index.m3u8?token=511aa8b28ad4f09cfe8fb8278a5dabd917277385-9c937eb004c3986aa8c770ce8e180b3b-1657384007-1657373207&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", CHANNEL 24
+http://bdiptv.net:8082/CHANNEL-24/index.m3u8?token=2a3ea0231b6b8587a7e8331229ec7f580c1cbd06-880c7aae90cde23068da2c5a8ea758d8-1657384046-1657373246&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", CHANNEL 9
+http://bdiptv.net:8082/Channel-9/index.m3u8?token=3a4ee87debd50f2b2a645f915293777ebe248031-fe1173306fbc4a515c254c67662b7816-1657384077-1657373277&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", EKATTOR TV
+http://bdiptv.net:8082/EKTTOR-TV/index.m3u8?token=4c92b489adcf31a18ddc57c2162eeff8493b14f0-e49d1512d58bd28b427f706b2e1e600a-1657384114-1657373314&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", CHANNEL I
+http://bdiptv.net:8082/Channeli/index.m3u8?token=b2c3a5510179f9776069efbeb7e04cecc2914cce-9fd91b0fb335677fa01da3ed0eae0bbc-1657384255-1657373455&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", GTV HD
+http://bdiptv.net:8082/gtv/index.m3u8?token=ae08441ff4fb6cd4b5fc4c2815d2255327e85913-873624fb891165e77d1576efe4376e78-1657384761-1657373961&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", NTV HD
+http://bdiptv.net:8082/NTV/index.m3u8?token=5852412f29dd2141ec1cd84425e7c7277981e35e-f06e21ef92e3f122c5fb317e4e198987-1657384215-1657373415&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", NAGORIK
+http://bdiptv.net:8082/Nagorik-TV/index.m3u8?token=65d2c960c466d2b476cb38f06649adf6452dc45a-f6a86e2b27cca0673950f7e27e8947d1-1657384288-1657373488&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Bangla", DURANTO
+http://bdiptv.net:8082/DURONTO-TV/index.m3u8?token=4fed383d29f692d5cea3e084306400c2032ed495-32b1fb3269daa77c87ac3dd9a5b8c530-1657384185-1657373385&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian Bangla", COLORS BANGLA
+http://tv.ebox.live:8081/thunderbd/66/chunks.m3u8?nimblesessionid=31699255&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxMzozMCBBTSZoYXNoX3ZhbHVlPW1ocy9XRVFtYUEydzVmTEs2OEdpa0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA
+http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=31699354&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxNjo0NiBBTSZoYXNoX3ZhbHVlPVFjTlZjM05RZEozOHMxeWlLYW9Pd3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian Bangla", STAR JALSHA
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=31699364&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxNzozNyBBTSZoYXNoX3ZhbHVlPWtXQ3hwWkIrZ3N6V2JEVHdEQTJqS1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian Bangla", ZEE BANGLA CINEMA
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+
+#EXTINF: -1 group-title="Indian", HBO
+http://tv.ebox.live:8081/thunderbd/42/chunks.m3u8?nimblesessionid=31699418&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoxOTo1OSBBTSZoYXNoX3ZhbHVlPUlKS2s3ZlNXdHllTmNicWJOQkkzV0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", STAR GOLD 2
+http://tv.ebox.live:8081/thunderbd/78/chunks.m3u8?nimblesessionid=31699490&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyMjoyNiBBTSZoYXNoX3ZhbHVlPTc5V29hKzRnc2cxTHdxcDBHVTJua2c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+
+#EXTINF: -1 group-title="Indian", SONY PIX
+http://bdiptv.net:8082/sony-pix/index.m3u8?token=b50727fae1e6d8a21dfa39879d0d3a61f29c1bc9-e5f12bdadd4770224c5ddf47e0ce65c5-1657384390-1657373590&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian", BBC EARTH
+http://bdiptv.net:8082/BBC-EARTH/index.m3u8?token=4de011accc0d93e9f74773916afb485ec0e44782-86fe26e399a6a9ac9f0654fb1d6a8f76-1657384532-1657373732&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian", AL JAZEERA
+http://bdiptv.net:8082/Al-Jazeera/index.m3u8?token=8234b3d6de3b71827d5e3f804bd4da34ee25f521-d84a4c66e3c12127eab9e14309c2204e-1657384431-1657373631&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian", STAR GOLD
+http://tv.ebox.live:8081/thunderbd/75/chunks.m3u8?nimblesessionid=31699608&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyNjowMCBBTSZoYXNoX3ZhbHVlPUcvWXZna2JiQjdQRGJNU3VlU2FvVFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", DW
+http://bdiptv.net:8082/DW/index.m3u8?token=db849dfd12592b0283a1633871e149fed4c3a5e2-6faaf89d3e58c1e5f722e0a70481e76d-1657384498-1657373698&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian", NAT GEO WILD
+http://bdiptv.net:8082/NAT-Geo-WILD/index.m3u8?token=97430b9fbc58c4254ac6b15b6bd9ab33bf3c2f28-76b1db6c3b60dd3a40a1e916f5885042-1657384572-1657373772&remote=103.97.160.126
+
+#EXTINF: -1 group-title="Indian", COLORS
+http://tv.ebox.live:8081/thunderbd/68/chunks.m3u8?nimblesessionid=31699696&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyNzoxOSBBTSZoYXNoX3ZhbHVlPXZjZjZsSWN1anU4VnJ6SDdETmg2ZVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", SONY
+http://tv.ebox.live:8081/thunderbd/38/chunks.m3u8?nimblesessionid=31699707&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyNzo0NCBBTSZoYXNoX3ZhbHVlPUl2alRyUGppT3k4OHQ0Qkk1NU8weEE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", SONY MAX
+http://tv.ebox.live:8081/thunderbd/77/chunks.m3u8?nimblesessionid=31699731&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjoyODoxMiBBTSZoYXNoX3ZhbHVlPSt5Ni9SRHYvTmxsb2F5Tm02cFVMYlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", ZEE TV
+http://tv.ebox.live:8081/thunderbd/40/chunks.m3u8?nimblesessionid=31699817&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjozMDowMyBBTSZoYXNoX3ZhbHVlPTR5ckQzZHlTTnBEVHllYkdsSXBzdGc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian", ZEE CINEMA
+http://tv.ebox.live:8081/thunderbd/76/chunks.m3u8?nimblesessionid=31699839&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjozMDozNSBBTSZoYXNoX3ZhbHVlPTNtRDc0RUdGSXdQQmlEcUxmdWtqR3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Music", 9XM
+http://tv.ebox.live:8081/thunderbd/48/chunks.m3u8?nimblesessionid=31700011&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjozNTo1NSBBTSZoYXNoX3ZhbHVlPUwxNkhUK2JZaUNYb1VOeGFaT2JiYmc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Music", 9XM JALWA
+http://tv.ebox.live:8081/thunderbd/98/chunks.m3u8?nimblesessionid=31700043&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjozNzoxNSBBTSZoYXNoX3ZhbHVlPTI2T3ZGb2psNXFSV1NOUTlUaUdvdFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+
+#EXTINF: -1 group-title="Music", 9XM
+http://tv.ebox.live:8081/thunderbd/96/chunks.m3u8?nimblesessionid=31700107&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjozODozNSBBTSZoYXNoX3ZhbHVlPXgwNnFKVGQ3T1FsRy9HR3kxNEFib0E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian;Kids", NICK
+http://tv.ebox.live:8081/thunderbd/55/chunks.m3u8?nimblesessionid=31700153&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjo0MDoyNiBBTSZoYXNoX3ZhbHVlPWk0VktkaHFVcE83UDhLOFAwaE8xTFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF: -1 group-title="Indian;Kids", CARTOON NETWORK
+http://tv.ebox.live:8081/thunderbd/79/chunks.m3u8?nimblesessionid=31700177&wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgNjo0MToyOSBBTSZoYXNoX3ZhbHVlPWlmYUxwelNtQ25Jay9uTmVXcFd4QXc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
