@@ -1,13 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1, BEIN SPORTS 3 ENGLISH
-http://ranapk.cf/cdn/play-46/chunks.m3u8
 
-#EXTINF: -1 group-title="Sports", BAN VS WI LIVE 
-http://ranapk.cf/cdn/play-368/chunks.m3u8
+#EXTINF: -1 group-title="Sports", BAN VS ZIM LIVE 
+http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w2107989229_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjU5MTgyNTYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjU5MTc1NTYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9bVk5R2NReVM0QnRkTVRIQlcwdHFpRnlLU3BNSHBtSDgyS2pmZWVBTWRyTT0=.m3u8
 
-#EXTINF:-1 group-title="Sports", LIVE FOOTBALL
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_2.m3u8
 
 #EXTINF:-1 group-title="Sports", T SPORTS HD
 http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8
@@ -18,9 +14,6 @@ http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
 #http://103.70.140.27:8080/hls/tsports.m3u8
-
-#EXTINF:-1 group-title="Sports", UEFA CHAMPIONS LEAGUE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/chunklist_b1024000.m3u8
 
 
 #EXTINF:-1 group-title="Sports", PTV SPORTS
@@ -150,7 +143,8 @@ https://live.bongobd.com/hls/MCUeyOrHrLIzZjw6XIbIBg/1638552300/nagorik_tv_hi/ind
 #http://103.205.133.19/hls/nagorik.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png",News 24
-http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
+https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
 #http://103.205.133.19/hls/news24.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
