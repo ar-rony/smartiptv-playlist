@@ -17,7 +17,8 @@ http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Sports", PTV SPORTS
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
+#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -201,8 +202,8 @@ http://str24.l9574.com/517.stream/index.m3u8
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #http://103.109.56.116/live/skyfeed1002/index.m3u8
 
-#EXTINF:-1 group-title="Indian Bangla", Rogintv
-http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w1239464306.m3u8
+#EXTINF:-1 group-title="Indian Bangla", Rongen TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w473543205.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla", Colors Bangla
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
