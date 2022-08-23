@@ -125,7 +125,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU",Nagorik TV
-https://live.bongobd.com/hls/MCUeyOrHrLIzZjw6XIbIBg/1638552300/nagorik_tv_hi/index.m3u8
+https://tv.kotha.im/Nagorik_TV_HD/tracks-v1a1/mono.m3u8
 #http://173.199.120.51/hls/nagorik.m3u8
 #http://103.205.133.19/hls/nagorik.m3u8
 
@@ -446,3 +446,5 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:-1, TRT CORUK TURKEY
 http://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1, LOVE NATURE 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
