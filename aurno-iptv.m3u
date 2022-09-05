@@ -205,8 +205,12 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 group-title="Indian Bangla", Rongen TV
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist_w473543205.m3u8
 
+#EXTINF:-1, SONY AAT
+http://jupiter.bdcabletv.com/Sony_A_ath/video.m3u8
+
 #EXTINF:-1 group-title="Indian Bangla", Colors Bangla
-https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+http://208.86.19.13:81/616.stream/index.m3u8
+#https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla", Enter10 Bangla
 http://14.199.164.20:4001/play/a0j5/69640715.m3u8
