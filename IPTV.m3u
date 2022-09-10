@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 
-#EXTINF:1, CNBC TV18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10
+#EXTINF:1, Independent
+http://208.86.19.13:81/601.stream/index.m3u8
 
 #EXTINF:2, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8

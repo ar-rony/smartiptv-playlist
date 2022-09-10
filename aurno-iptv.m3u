@@ -1,24 +1,13 @@
 #EXTM3U
 
-
-#EXTINF: -1 group-title="Sports", BAN VS ZIM LIVE 
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w2107989229_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjU5MTgyNTYwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjU5MTc1NTYwJmJkaXhzcG9ydHN0b2tlbmhhc2g9bVk5R2NReVM0QnRkTVRIQlcwdHFpRnlLU3BNSHBtSDgyS2pmZWVBTWRyTT0=.m3u8
-
-
-#EXTINF:-1 group-title="Sports", T SPORTS HD
+#EXTINF:-1 group-title="Sports", T SPORTS HD-0
 http://ranapk.myftp.org:1932/tvapp/nk-tsports/chunks.m3u8
-#http://103.167.190.250/hls/t-sports.m3u8
-#http://103.124.110.34:8082/tsp/index.m3u8
-#http://103.149.130.122:8089/102/index.m3u8
-#http://103.159.4.38:8080/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
-#http://103.70.140.27:8080/hls/tsports.m3u8
-
 
 #EXTINF:-1 group-title="Sports", PTV SPORTS
 http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8
-#http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports", A SPORTS HD
+http://208.86.19.13:81/602.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WpMA9kC.png", Anando Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
@@ -57,7 +46,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png", Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+http://208.86.19.13:81/608.stream/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 
@@ -96,7 +86,8 @@ http://103.159.4.38:8080/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #http://103.205.133.19/hls/ekushey.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/WaZyAOE.png", Gaan Bangla
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+http://208.86.19.13:81/612.stream/index.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #http://103.205.133.19/hls/gaanbangla.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
@@ -156,7 +147,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-<!-- Sports-- >
+#EXTINF:-1 group-title="Pakistani", ARY DIGITAL
+http://208.86.19.13:81/603.stream/index.m3u8
+
+#EXTINF:-1 group-title="Pakistani", HUM EUROPE
+http://208.86.19.13:81/611.stream/index.m3u8
 
 #EXTINF:-1 group-title="Sports", ABU DHABI SPORTS 1 HD
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
@@ -229,7 +224,8 @@ https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/in
 http://208.86.19.13:81/708.stream/index.m3u8
 
 #EXTINF:-1, JALSHA MOVIES
-http://208.86.19.13:81/617.stream/index.m3u8
+http://208.86.19.13:81/609.stream/index.m3u8
+#http://208.86.19.13:81/617.stream/index.m3u8
 
 #EXTINF:-1, 9XM
 #http://103.205.133.19/hls/9xm.m3u8
@@ -263,72 +259,79 @@ https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 http://173.199.120.51/hls/b4umovies.m3u8
 #http://103.205.133.19/hls/b4umovies.m3u8
 
-#EXTINF:-1, BOX CINEMA
+#EXTINF:-1 group-title="Indian" `   `   `   `S, BOX CINEMA
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
-#EXTINF:-1, B4U Kadak
+#EXTINF:-1 group-title="Indian", B4U Kadak
 #http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 
-#EXTINF:-1, MANORAJAN MOVIES
+#EXTINF:-1 group-title="Indian", MANORAJAN MOVIES
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
-#EXTINF:-1, RISTEY CINEPLEX
+#EXTINF:-1 group-title="Indian", RISTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
-#EXTINF:-1, STAR GOLD HD
+#EXTINF:-1 group-title="Indian", STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, STAR GOLD 2
+#EXTINF:-1 group-title="Indian", STAR GOLD 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, STAR GOLD SELECT
+#EXTINF:-1 group-title="Indian", STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 
-#EXTINF:-1, WOW CINEMA
+#EXTINF:-1 group-title="Indian", WOW CINEMA
 http://173.199.120.51/hls/wowcinema.m3u8
 #https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
-#EXTINF:-1, & PICTURES HD
+#EXTINF:-1 group-title="Indian", & PICTURES HD
 http://173.199.120.51/hls/andpicture.m3u8
 
-#EXTINF:-1, COLORS HD
+#EXTINF:-1 group-title="Indian", COLORS HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#http://208.86.19.13:81/605.stream/index.m3u8
 
-#EXTINF:-1,Star Plus
+#EXTINF:-1 group-title="Indian",Star Plus
 http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 #http://173.199.120.51/hls/chsp.m3u8
 #http://103.205.133.19/hls/chsp.m3u8
 
-#EXTINF:-1, SONY ENTERTAINMENT
+#EXTINF:-1 group-title="Indian", SONY ENTERTAINMENT
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #http://173.199.120.51/hls/chs.m3u8
 #http://103.205.133.19/hls/chs.m3u8
 
-#EXTINF:-1, SONY WAH
+#EXTINF:-1 group-title="Indian", SONY WAH
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
-#EXTINF:-1, SONY MAX HD
+#EXTINF:-1 group-title="Indian", SONY SAB
+http://208.86.19.13:81/702.stream/index.m3u8
+
+#EXTINF:-1 group-title="Indian", SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #http://tv.aliflailabd.com:8989/setmax/index.m3u8
 #http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, SONY BBC EARTH
+#EXTINF:-1 group-title="Indian", SONY BBC EARTH
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
-#EXTINF:-1, WOW TV
+#EXTINF:-1 group-title="Indian", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w2082475278_b1500000_slen.m3u8?WebM3UCL
 
-#EXTINF:-1, ZEE MUSIC
+#EXTINF:-1 group-title="Indian", ZEE MUSIC
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 
-#EXTINF:-1, ZEE ACTION
+#EXTINF:-1 group-title="Indian", ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, ZEE CINEMA HD
+#EXTINF:-1 group-title="Indian", ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indian", ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
 
 
 <!-- FOREIGN -->
@@ -352,6 +355,9 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3
 
 #EXTINF:-1, CARTOON NETWORK ABU DHABI
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:-1, PTC
+http://208.86.19.13:81/704.stream/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Zee_Bangla_Cinema_Logo.jpg/250px-Zee_Bangla_Cinema_Logo.jpg", ZEE BANGLA CINEMA
