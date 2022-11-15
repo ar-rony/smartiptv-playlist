@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1, GAZI TV
+http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8?token=795a506b95a9de467cbad3a3bcf57d7a6964897c-1ed7e1d9c73531e2b6f5b5b4e9a69d5c-1668513182-1668502382
+
+#EXTINF:-1, T SPORTS
+http://cdn.ihub.live:8082/j-TSports/tracks-v1a1/mono.m3u8?token=0337229c3f681692019b28082560988b23e7b4c9-84859c699a15f1d6158d2418836e3885-1668513342-1668502542
+
+#EXTINF:-1, TEN SPORTS HD
+http://cdn.ihub.live:8082/TenSports/tracks-v1a1/mono.m3u8?token=4436465386012de943174e9c7ae782a2ebade926-7b65d9f8419eca5a6d83d60bf7be91d0-1668515563-1668504763
+
+#EXTINF:-1, PTV SPORTS HD
+http://cdn.ihub.live:8082/j-PTV/tracks-v1a1/mono.m3u8?token=eb74063a50b0e8187bb6d0db2328c06cee8d13b3-c01afef73680b78f149758869a5b89d8-1668515662-1668504862
+
+#EXTINF:-1, SONY SPORTS 1 HD
+http://cdn.ihub.live:8082/SonyTen1/tracks-v1a1/mono.m3u8?token=19199fd3e3f6d6eebbde1dcebcdc8fa29d2dfdc4-2b256685e8225bf60dabf7b983852f53-1668515740-1668504940
+
+#EXTINF:-1, SONY SPORTS 2 HD
+http://cdn.ihub.live:8082/SonyTen2/tracks-v1a1/mono.m3u8?token=a11178fdd226a02edd39e187afc89f6741d818f0-26f6b6510737de660efc66921afb49bc-1668515815-1668505015
+
+#EXTINF:-1, SONY SPORTS 3 HD
+http://cdn.ihub.live:8082/SonyTen3/tracks-v1a1/mono.m3u8?token=7a0fde2d0cf89a0990737216c0dbd50217759fb0-eeb95e38b4814a2dc28a246e340b9277-1668515900-1668505100
+
+
+#EXTINF:-1, STAR SPORTS SELECT 1 HD
+http://cdn.ihub.live:8082/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=3aa3e2d5bac8f479af67e3dc31bac22f825f8b79-13638c56d95dd56ca5b0bce502135b32-1668515962-1668505162
+
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://cdn.ihub.live:8082/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=fe451ac983f74014ca6ddf809bf77aa3117243fd-7afb539c463f8b9abdaefd14a8810b60-1668516024-1668505224
+
+#EXTINF:-1, STAR SPORTS 1 HD
+http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8?token=930dd688c97f8c2f618cb710658601f93ba7134a-8db13f690679c4a8e8a0a32e7277634c-1668516193-1668505393
+
+#EXTINF:-1, STAR SPORTS 2 HD
+http://cdn.ihub.live:8082/StarSports2HD/tracks-v1a1/mono.m3u8?token=5ec0fb0f0e4a9b8bfd6939c11ed16c49377ead41-f79b4543eae4ed1e744a85e17f816c70-1668516343-1668505543
+
 #EXTINF:-1,Anando TV
 http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 
