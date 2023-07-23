@@ -2,3 +2,6 @@
 
 #EXTINF: -1 group-title="Sports", Live Sports
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=7310d4bc30192a56b3b552299c4b7466321f81bb-e87b9bc5c5d1b5dda8e4092c38d3523f-1690164767-1690153967
+
+#EXTINF: -1 group-title="Sports", PTV Sports HD
+http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=f88bf8367cf3088dd3ecedd82c5803538815eadc-6921bb353d34196abe932cfd8a415ad1-1690165292-1690154492
