@@ -3,5 +3,47 @@
 #EXTINF: -1 group-title="Sports", Live Sports
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=7310d4bc30192a56b3b552299c4b7466321f81bb-e87b9bc5c5d1b5dda8e4092c38d3523f-1690164767-1690153967
 
+#EXTINF: -1 group-title="Sports",T SportsHD
+http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=b29002b3f4b9be55869a72bfe8004a4e626509fc-edaa67333d3297afb681c813e25afac2-1690166406-1690155606
+
+#EXTINF: -1 group-title="Sports",Gazi TV HD
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e6d6177c6e8785099455eb9f1990e23c5d6bb788-27ea305101b5fd1bcf28f3478746ef22-1690166474-1690155674
+
 #EXTINF: -1 group-title="Sports", PTV Sports HD
 http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=f88bf8367cf3088dd3ecedd82c5803538815eadc-6921bb353d34196abe932cfd8a415ad1-1690165292-1690154492
+
+#EXTINF: -1 group-title="Sports", Star Sports 1 HD
+http://15.1.5.22:8082/STAR-SPORTS-1/tracks-v1a1/mono.m3u8?token=7d31e2ba1d25f2e30818cce2fb93e96cefc9f4ef-048ba510978a64199c3980b4102ab816-1690165656-1690154856
+
+#EXTINF: -1 group-title="Sports", Star Sports 2 HD
+http://15.1.5.22:8082/STAR-SPORTS-2/tracks-v1a1/mono.m3u8?token=c264c00d4a060b3623225f39a5fe6bb7297ecfbd-1b1a55088ad19901b65f89ae66a6fc74-1690165739-1690154939
+
+#EXTINF: -1 group-title="Sports", Star Sports 3 HD
+http://15.1.5.14:8082/STAR-SPORTS-3/tracks-v1a1/mono.m3u8?token=369d38e0788d1e34992d7aaa4064d282fb94d3a0-44e5bac22a01f497614c4acf2902382c-1690165878-1690155078
+
+#EXTINF: -1 group-title="Sports", AD Sports 1HD
+http://15.1.5.22:8082/Adsports1/tracks-v1a1/mono.m3u8?token=f17ae821371dbab7817218e1e2f69b2634b3c4c8-ab23843a05eeca04fb56965d16a6991a-1690165849-1690155049
+
+#EXTINF: -1 group-title="Sports", AD Sports 2 HD
+http://15.1.5.18:8082/Adsports2/tracks-v1a1/mono.m3u8?token=757ddbef02f5a3d5ee4979f530cb0a6fb1e24e4f-5a1eb63bb7f1832f97875260ab241cb4-1690165891-1690155091
+
+#EXTINF: -1 group-title="Sports", Sony Sports 5 HD
+http://15.1.5.10:8082/sony-six-hd/tracks-v1a1/mono.m3u8?token=a78e60abb5583d6544a0974bfde96cb4d0b176c3-a301d569fca99532ad23c178a06f7f84-1690166065-1690155265
+
+#EXTINF: -1 group-title="Sports", Sony Sports 1 HD
+http://15.1.5.14:8082/ten1-hd/tracks-v1a1/mono.m3u8?token=f40d0fd241908e857e5bd56e9a7ae76fb850c30c-ab728cf7832eaff99020ff76eedd164a-1690166191-1690155391
+
+#EXTINF: -1 group-title="Sports", Sony Sports 2 HD
+http://15.1.5.10:8082/sony-ten2/tracks-v1a1/mono.m3u8?token=de0febb978c3609231588ab6846dbc8ecc24b569-ca19e5c13b57542ec0280c017a00ae1b-1690166211-1690155411
+
+#EXTINF: -1 group-title="Sports", Sony Sports 3 HD
+http://15.1.5.14:8082/ten3/tracks-v1a1/mono.m3u8?token=c05717f0c4b80735a0daeabd09990b866040c5b5-82973bc0964524c3ff9a884816a6678c-1690166324-1690155524
+
+#EXTINF: -1 group-title="Sports", Star Sports Select 1 HD
+http://15.1.5.10:8082/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8?token=0985e54da84ba9a42d703ae019d8f2881e06d753-3bd59301dfb6cb5159cc06345f1d6a5e-1690166329-1690155529
+
+#EXTINF: -1 group-title="Sports", Star Sports Select 2 HD
+http://15.1.5.18:8082/select2/tracks-v1a1/mono.m3u8?token=125cfe6bca16b3de427ae51a1e87b0bf57c3192f-fe3353f75db0c2e89040ad726633ed88-1690166373-1690155573
+
+#EXTINF: -1 group-title="Sports", Star Sports 2 HD
+#EXTINF: -1 group-title="Sports", Star Sports 2 HD
