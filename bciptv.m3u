@@ -4,10 +4,10 @@
 http://15.1.5.22:8082/1LIVE/tracks-v1a1/mono.m3u8?token=7310d4bc30192a56b3b552299c4b7466321f81bb-e87b9bc5c5d1b5dda8e4092c38d3523f-1690164767-1690153967
 
 #EXTINF: -1 group-title="Sports",T SportsHD
-http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=b29002b3f4b9be55869a72bfe8004a4e626509fc-edaa67333d3297afb681c813e25afac2-1690166406-1690155606
+http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 group-title="Sports",Gazi TV HD
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=e6d6177c6e8785099455eb9f1990e23c5d6bb788-27ea305101b5fd1bcf28f3478746ef22-1690166474-1690155674
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 group-title="Sports", PTV Sports HD
 http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=f88bf8367cf3088dd3ecedd82c5803538815eadc-6921bb353d34196abe932cfd8a415ad1-1690165292-1690154492
