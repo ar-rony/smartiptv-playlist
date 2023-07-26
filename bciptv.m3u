@@ -123,3 +123,7 @@ http://15.1.5.14:8082/GaanBangla/tracks-v1a1/mono.m3u8?token=2a8cc11ed9a5aa7ca17
 
 #EXTINF: -1 group-title="Bangla", Ananda TV
 http://15.1.5.14:8082/anandotv/tracks-v1a1/mono.m3u8?token=b0d66a10684137da400e77ce7fd4e90b5a82552b-64f10a2e1b220b27b9118847b35c15b8-1690370543-1690359743
+
+
+#EXTINF: -1 group-title="Music", Mastii Music
+http://15.1.5.10:8082/Masti-Music/tracks-v1a1/mono.m3u8?token=da5e573904b15d5c74a645c50016af44ed14d107-7ab714a6b6624e41c5ea4e631ea34cb0-1690370621-1690359821
