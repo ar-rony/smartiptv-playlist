@@ -1,10 +1,25 @@
 #EXTM3U
 
+#EXTINF: -1,Ten 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF: -1,Ten 2 HD
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF: -1,Ten 3 HD
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF: -1,Ten 4 HD
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+
+#EXTINF: -1,Ten 5 HD
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
 #EXTINF: -1, Sky Sports Cricket
 http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/505.m3u8
 
-#EXTINF: -1, NEWS 24
-https://bds.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF: -1, JALSHA Movies
+http://45.148.145.57/IN_JALSHAMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1, WILLOW CRICKET HD
 https://d1bz14289ojrvl.cloudfront.net/out/v1/828288b4f25c407189eb6104893fad9e/index.m3u8
