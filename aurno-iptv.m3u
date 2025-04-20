@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF: -1, Sony aath 
-https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF: -1, IPL
+https://www.tbn24.com/api/video/4026_0.m3u8
 
 #EXTINF: -1, Sony Yay
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
